@@ -1,0 +1,13 @@
+item,details
+Scenario,Hypothetical UK online concept survey for a fictional meal-kit subscription.
+Target population,Simulated UK adults aged 18-74.
+Population size,50000
+Sample size per strategy,800
+Repeated samples per strategy,400
+Primary estimand,Population mean concept-interest score on a 0-10 scale.
+Secondary estimand,Population share with concept-interest score of 7 or higher.
+Strategies compared,Simple random; proportional stratified; quota; convenience.
+Stratification variables,Age band x region.
+Quota variables,Age band x gender.
+Simulation note,Population proportions and behavioural relationships are synthetic and are not estimates of the real UK population.
+Random seed,20260809

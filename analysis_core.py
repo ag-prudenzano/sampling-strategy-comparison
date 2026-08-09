@@ -577,19 +577,19 @@ def generate_report(
 
     report = f"""# Sampling Strategy Comparison
 
-## Study context
+## Study Context
 
 This simulated case study is set within a hypothetical UK online concept survey for a fictional meal-kit subscription. A synthetic population of {len(population):,} adults aged 18–74 provides a known benchmark against which different sampling strategies can be evaluated.
 
 The population proportions and behavioural relationships are entirely simulated and should not be interpreted as estimates of the real UK population. Each sampling strategy draws {SAMPLE_SIZE:,} respondents from the same synthetic population.
 
-## Sampling objective
+## Sampling Objective
 
 The objective is to compare how sampling design affects representativeness, bias and precision when estimating concept interest from a finite population.
 
 The primary estimand is the population mean on a 0–10 concept-interest scale. The secondary estimand is the share of the population scoring 7 or higher, treated as likely to try the concept.
 
-## Sampling strategies
+## Sampling Strategies
 
 ### Simple random sampling
 
@@ -607,7 +607,7 @@ Age-band and gender quotas reproduce the corresponding population margins, but s
 
 Selection probability increases substantially with digital engagement and urban residence. This represents an easily reached online sample without probability controls or demographic quotas.
 
-## Population benchmark
+## Population Benchmark
 
 The synthetic population mean concept-interest score is {population_mean:.3f}. The population share classified as likely to try is {population_likely * 100:.1f}%.
 
@@ -621,7 +621,7 @@ Quota sampling matched its selected demographic controls closely but still overe
 |---|---:|---:|---:|---:|---:|
 {chr(10).join(performance_rows)}
 
-## Reference sample
+## Reference Sample
 
 A single fixed reference draw is included to make the composition differences tangible. Demographic deviation is the average absolute percentage-point difference across age-band, gender and region categories.
 
@@ -651,7 +651,7 @@ The dashed line marks the known population mean. Probability samples remain cent
 
 The reference sample shows that low demographic deviation does not guarantee an unbiased outcome estimate when selection within demographic groups is non-random.
 
-## Project files
+## Project Files
 
 - [`report.md`](report.md) — this report.
 - [`data/sampling_strategy_population.csv`](data/sampling_strategy_population.csv) — synthetic finite population used as the benchmark.

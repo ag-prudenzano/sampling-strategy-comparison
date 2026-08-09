@@ -4,4 +4,7 @@ from website_publish import publish_website
 
 if __name__ == "__main__":
     main()
-    publish_website()
+    try:
+        publish_website()
+    except RuntimeError as exc:
+        raise SystemExit(f"\nWebsite publishing stopped: {exc}") from None

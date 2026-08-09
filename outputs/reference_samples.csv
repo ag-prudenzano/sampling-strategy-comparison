@@ -1,0 +1,3201 @@
+strategy,person_id,age_band,gender,region,urbanicity,digital_engagement_score,concept_interest_0_10,likely_to_try
+Simple random,P27835,18-24,Woman,North,Rural / small town,73.8,6.5,0
+Simple random,P22057,25-34,Woman,South,Rural / small town,66.6,2.8,0
+Simple random,P23230,25-34,Woman,South,Rural / small town,49.9,5.9,0
+Simple random,P27723,65-74,Woman,Scotland/Wales,Urban,51.3,3.5,0
+Simple random,P05354,65-74,Man,Midlands,Rural / small town,31.5,0.0,0
+Simple random,P39111,35-44,Man,Midlands,Rural / small town,80.7,3.8,0
+Simple random,P39681,25-34,Woman,London,Urban,78.2,5.3,0
+Simple random,P28487,55-64,Man,North,Urban,48.3,3.9,0
+Simple random,P27670,65-74,Woman,North,Urban,23.5,1.8,0
+Simple random,P20366,45-54,Man,Midlands,Urban,69.3,5.8,0
+Simple random,P32572,35-44,Woman,London,Urban,73.4,4.1,0
+Simple random,P29991,65-74,Woman,London,Urban,45.8,3.2,0
+Simple random,P07965,35-44,Man,South,Urban,77.1,8.8,1
+Simple random,P15570,45-54,Man,South,Urban,79.7,3.3,0
+Simple random,P06598,25-34,Woman,North,Urban,81.3,5.6,0
+Simple random,P41066,45-54,Woman,Midlands,Urban,65.2,5.7,0
+Simple random,P01190,55-64,Man,Scotland/Wales,Rural / small town,25.0,1.5,0
+Simple random,P21273,65-74,Woman,Midlands,Urban,41.8,5.8,0
+Simple random,P22308,65-74,Man,South,Urban,35.5,2.9,0
+Simple random,P05146,55-64,Man,Midlands,Urban,21.6,2.8,0
+Simple random,P36480,25-34,Man,North,Rural / small town,41.5,8.0,1
+Simple random,P32371,35-44,Man,Midlands,Rural / small town,68.5,5.3,0
+Simple random,P03973,65-74,Man,London,Urban,49.4,4.6,0
+Simple random,P28564,55-64,Non-binary / other,London,Urban,52.2,5.3,0
+Simple random,P26198,25-34,Woman,London,Urban,93.9,8.2,1
+Simple random,P37867,35-44,Woman,Scotland/Wales,Rural / small town,59.5,3.6,0
+Simple random,P46621,55-64,Woman,South,Rural / small town,51.3,5.4,0
+Simple random,P34096,25-34,Man,London,Urban,87.1,7.9,1
+Simple random,P11455,45-54,Woman,Scotland/Wales,Rural / small town,41.4,5.4,0
+Simple random,P08353,25-34,Woman,North,Rural / small town,68.1,3.6,0
+Simple random,P38496,25-34,Woman,Midlands,Urban,100.0,6.6,0
+Simple random,P35259,45-54,Woman,North,Urban,47.4,5.3,0
+Simple random,P01001,55-64,Man,South,Urban,51.4,3.0,0
+Simple random,P39131,35-44,Woman,London,Urban,53.2,6.4,0
+Simple random,P43277,55-64,Man,Midlands,Urban,44.8,5.7,0
+Simple random,P32836,25-34,Woman,North,Urban,84.8,7.2,1
+Simple random,P23747,55-64,Woman,North,Urban,43.5,4.1,0
+Simple random,P07342,35-44,Man,North,Rural / small town,73.4,8.8,1
+Simple random,P15385,55-64,Man,South,Urban,75.5,4.3,0
+Simple random,P44467,55-64,Man,Midlands,Urban,44.0,4.5,0
+Simple random,P17584,35-44,Man,Midlands,Urban,62.1,4.9,0
+Simple random,P40713,18-24,Woman,London,Urban,73.7,8.6,1
+Simple random,P14075,18-24,Woman,Midlands,Urban,82.6,6.0,0
+Simple random,P49944,18-24,Man,Midlands,Urban,98.6,3.8,0
+Simple random,P22829,25-34,Man,London,Rural / small town,64.0,5.2,0
+Simple random,P20153,25-34,Man,London,Urban,86.0,8.6,1
+Simple random,P13941,65-74,Man,Scotland/Wales,Urban,46.5,1.6,0
+Simple random,P17617,25-34,Man,South,Urban,71.3,4.1,0
+Simple random,P33407,55-64,Woman,London,Rural / small town,49.4,3.6,0
+Simple random,P45226,45-54,Woman,North,Urban,56.8,3.6,0
+Simple random,P11757,25-34,Man,Midlands,Urban,56.5,5.7,0
+Simple random,P46941,18-24,Man,Scotland/Wales,Rural / small town,77.1,5.5,0
+Simple random,P04041,25-34,Woman,London,Rural / small town,94.4,6.9,0
+Simple random,P47833,55-64,Man,North,Urban,58.1,6.0,0
+Simple random,P40345,25-34,Woman,North,Urban,79.7,5.8,0
+Simple random,P22926,65-74,Woman,South,Rural / small town,7.5,2.4,0
+Simple random,P42321,25-34,Woman,North,Urban,79.7,6.0,0
+Simple random,P05496,55-64,Non-binary / other,Scotland/Wales,Urban,53.9,3.8,0
+Simple random,P10576,25-34,Man,Scotland/Wales,Rural / small town,80.4,6.2,0
+Simple random,P03092,18-24,Man,Midlands,Urban,64.3,6.4,0
+Simple random,P24571,55-64,Woman,Scotland/Wales,Urban,67.4,4.8,0
+Simple random,P33235,35-44,Man,Midlands,Urban,81.4,5.8,0
+Simple random,P41444,18-24,Woman,London,Urban,67.3,5.5,0
+Simple random,P31925,25-34,Man,Midlands,Urban,68.0,4.1,0
+Simple random,P09643,18-24,Woman,South,Urban,93.7,7.8,1
+Simple random,P12049,45-54,Woman,North,Rural / small town,52.7,2.2,0
+Simple random,P35402,55-64,Man,Scotland/Wales,Urban,78.5,3.4,0
+Simple random,P03357,25-34,Woman,Midlands,Rural / small town,89.2,3.9,0
+Simple random,P09507,45-54,Man,North,Rural / small town,65.7,5.6,0
+Simple random,P00971,25-34,Woman,Midlands,Urban,77.6,6.5,0
+Simple random,P47316,18-24,Man,South,Urban,80.7,3.4,0
+Simple random,P01350,65-74,Man,South,Urban,48.2,3.8,0
+Simple random,P35996,35-44,Man,Scotland/Wales,Urban,74.5,6.2,0
+Simple random,P33504,45-54,Woman,North,Urban,35.2,4.3,0
+Simple random,P26067,55-64,Man,London,Urban,55.0,3.5,0
+Simple random,P34854,35-44,Man,Scotland/Wales,Rural / small town,53.9,5.3,0
+Simple random,P08975,25-34,Woman,London,Urban,91.0,8.3,1
+Simple random,P12390,55-64,Man,South,Rural / small town,31.7,7.3,1
+Simple random,P36897,25-34,Man,Midlands,Urban,60.2,5.9,0
+Simple random,P40615,25-34,Man,North,Urban,83.3,6.2,0
+Simple random,P16296,25-34,Man,London,Urban,100.0,5.3,0
+Simple random,P40114,18-24,Man,South,Urban,81.6,5.6,0
+Simple random,P26250,65-74,Woman,North,Urban,32.6,2.7,0
+Simple random,P10464,45-54,Man,London,Urban,66.9,6.9,0
+Simple random,P34251,45-54,Woman,North,Rural / small town,44.5,4.0,0
+Simple random,P45135,25-34,Man,London,Rural / small town,65.5,4.3,0
+Simple random,P22836,18-24,Man,North,Urban,82.5,8.6,1
+Simple random,P48416,35-44,Woman,South,Urban,68.5,3.7,0
+Simple random,P31363,18-24,Woman,Midlands,Urban,72.6,4.1,0
+Simple random,P10002,55-64,Woman,Scotland/Wales,Urban,47.8,3.1,0
+Simple random,P08134,35-44,Woman,Midlands,Urban,64.1,5.9,0
+Simple random,P25832,55-64,Woman,South,Urban,42.8,5.2,0
+Simple random,P28185,35-44,Woman,North,Urban,61.6,4.4,0
+Simple random,P32664,18-24,Woman,Midlands,Rural / small town,73.6,6.7,0
+Simple random,P46498,18-24,Man,South,Urban,86.0,4.9,0
+Simple random,P42676,35-44,Man,South,Urban,82.5,7.4,1
+Simple random,P05747,25-34,Woman,South,Urban,71.5,5.9,0
+Simple random,P25172,45-54,Woman,Midlands,Urban,63.6,4.2,0
+Simple random,P14444,45-54,Man,North,Urban,75.0,5.6,0
+Simple random,P47001,65-74,Woman,North,Urban,23.4,4.0,0
+Simple random,P10244,65-74,Man,Scotland/Wales,Urban,53.6,3.3,0
+Simple random,P13930,55-64,Woman,Scotland/Wales,Urban,54.0,2.1,0
+Simple random,P29427,18-24,Woman,Midlands,Urban,82.8,8.2,1
+Simple random,P25180,18-24,Woman,North,Urban,100.0,6.0,0
+Simple random,P13122,25-34,Woman,South,Urban,87.7,7.3,1
+Simple random,P32273,35-44,Man,South,Urban,52.8,6.0,0
+Simple random,P48501,65-74,Man,South,Urban,29.9,1.8,0
+Simple random,P41804,45-54,Woman,South,Urban,63.5,3.9,0
+Simple random,P13666,55-64,Woman,North,Urban,27.3,3.2,0
+Simple random,P23720,18-24,Man,South,Urban,65.1,4.7,0
+Simple random,P15704,45-54,Woman,South,Urban,45.7,4.7,0
+Simple random,P29021,45-54,Man,North,Rural / small town,75.1,4.1,0
+Simple random,P01012,45-54,Woman,North,Urban,66.8,5.1,0
+Simple random,P12445,35-44,Woman,North,Rural / small town,56.7,5.7,0
+Simple random,P26160,25-34,Woman,South,Urban,76.3,9.0,1
+Simple random,P40809,65-74,Woman,Midlands,Rural / small town,27.2,3.0,0
+Simple random,P47948,35-44,Man,Midlands,Urban,66.0,4.5,0
+Simple random,P33025,65-74,Man,Midlands,Rural / small town,24.0,4.4,0
+Simple random,P48767,55-64,Woman,Midlands,Urban,57.4,4.8,0
+Simple random,P15807,18-24,Woman,London,Urban,80.3,6.5,0
+Simple random,P22326,55-64,Man,London,Urban,39.6,2.3,0
+Simple random,P32442,55-64,Man,South,Urban,54.0,3.8,0
+Simple random,P31240,25-34,Man,South,Urban,91.1,4.5,0
+Simple random,P28187,18-24,Woman,London,Urban,73.0,4.5,0
+Simple random,P49792,25-34,Man,Midlands,Urban,73.6,6.9,0
+Simple random,P28901,45-54,Woman,South,Rural / small town,48.8,6.8,0
+Simple random,P21765,55-64,Woman,London,Urban,72.7,6.5,0
+Simple random,P23634,45-54,Man,Midlands,Rural / small town,31.8,2.8,0
+Simple random,P18688,45-54,Woman,South,Urban,76.9,5.7,0
+Simple random,P45472,18-24,Man,North,Rural / small town,78.7,3.3,0
+Simple random,P11449,35-44,Man,Midlands,Urban,46.4,2.9,0
+Simple random,P24198,18-24,Woman,North,Rural / small town,89.1,6.3,0
+Simple random,P35168,18-24,Man,Scotland/Wales,Urban,88.1,3.8,0
+Simple random,P25120,65-74,Woman,South,Urban,78.6,5.0,0
+Simple random,P35970,25-34,Woman,Scotland/Wales,Urban,67.7,4.3,0
+Simple random,P08754,25-34,Woman,North,Urban,80.2,5.5,0
+Simple random,P06272,45-54,Woman,South,Urban,57.8,3.3,0
+Simple random,P19760,55-64,Woman,South,Urban,53.4,4.6,0
+Simple random,P39178,55-64,Man,London,Rural / small town,37.3,2.9,0
+Simple random,P44808,55-64,Man,South,Urban,71.1,8.1,1
+Simple random,P45734,65-74,Woman,London,Rural / small town,29.1,0.8,0
+Simple random,P29512,18-24,Man,London,Urban,93.5,8.7,1
+Simple random,P03922,45-54,Man,Midlands,Rural / small town,24.4,1.5,0
+Simple random,P40285,25-34,Man,North,Urban,86.2,5.9,0
+Simple random,P42378,25-34,Woman,Scotland/Wales,Urban,92.3,4.4,0
+Simple random,P45933,65-74,Woman,Scotland/Wales,Urban,32.3,2.3,0
+Simple random,P41277,55-64,Man,Midlands,Rural / small town,39.2,5.4,0
+Simple random,P29461,45-54,Woman,North,Urban,30.8,2.5,0
+Simple random,P14989,45-54,Man,South,Urban,55.4,5.9,0
+Simple random,P07496,55-64,Man,Scotland/Wales,Rural / small town,46.9,4.1,0
+Simple random,P30937,65-74,Man,London,Urban,41.5,3.3,0
+Simple random,P10157,18-24,Woman,Scotland/Wales,Urban,87.5,5.3,0
+Simple random,P06055,25-34,Man,North,Rural / small town,73.4,2.9,0
+Simple random,P26228,25-34,Man,Scotland/Wales,Urban,89.6,5.2,0
+Simple random,P16269,65-74,Man,South,Rural / small town,56.4,0.4,0
+Simple random,P33528,25-34,Woman,Midlands,Urban,62.1,4.5,0
+Simple random,P05185,18-24,Woman,Midlands,Urban,94.2,5.0,0
+Simple random,P27764,18-24,Man,Midlands,Urban,99.5,8.3,1
+Simple random,P05121,35-44,Woman,North,Urban,55.1,5.3,0
+Simple random,P25490,25-34,Woman,North,Urban,68.2,4.5,0
+Simple random,P04698,35-44,Woman,Midlands,Urban,64.0,6.7,0
+Simple random,P41266,55-64,Woman,Midlands,Rural / small town,45.6,4.5,0
+Simple random,P27597,45-54,Woman,North,Rural / small town,63.6,3.7,0
+Simple random,P29191,35-44,Man,South,Urban,54.8,8.1,1
+Simple random,P19533,45-54,Woman,North,Rural / small town,37.5,4.4,0
+Simple random,P00468,18-24,Woman,London,Urban,100.0,6.3,0
+Simple random,P09863,65-74,Woman,London,Urban,45.2,5.2,0
+Simple random,P00792,45-54,Man,Scotland/Wales,Urban,64.8,6.2,0
+Simple random,P48227,45-54,Man,Midlands,Rural / small town,41.7,1.0,0
+Simple random,P49108,18-24,Man,London,Urban,88.7,6.7,0
+Simple random,P18394,35-44,Woman,North,Urban,86.8,7.5,1
+Simple random,P36173,18-24,Man,North,Urban,55.3,7.6,1
+Simple random,P03765,25-34,Man,South,Urban,97.9,4.9,0
+Simple random,P31137,45-54,Woman,Scotland/Wales,Rural / small town,58.2,4.4,0
+Simple random,P25721,45-54,Woman,North,Rural / small town,72.6,4.5,0
+Simple random,P18302,25-34,Man,North,Urban,85.1,4.5,0
+Simple random,P28370,55-64,Man,Scotland/Wales,Urban,36.6,3.5,0
+Simple random,P47127,55-64,Man,North,Urban,64.8,4.6,0
+Simple random,P36317,55-64,Woman,North,Rural / small town,38.1,3.2,0
+Simple random,P45336,55-64,Man,South,Urban,43.7,3.9,0
+Simple random,P17339,45-54,Man,South,Rural / small town,55.3,4.5,0
+Simple random,P00401,35-44,Man,South,Rural / small town,55.4,5.0,0
+Simple random,P28269,65-74,Woman,Midlands,Rural / small town,29.6,0.0,0
+Simple random,P38881,18-24,Man,North,Urban,69.5,8.2,1
+Simple random,P22170,65-74,Woman,Scotland/Wales,Urban,52.7,1.9,0
+Simple random,P25887,55-64,Man,London,Urban,71.5,5.9,0
+Simple random,P44695,25-34,Man,North,Rural / small town,54.0,6.2,0
+Simple random,P46318,55-64,Woman,Midlands,Urban,42.4,4.3,0
+Simple random,P22599,55-64,Woman,Midlands,Urban,56.6,5.1,0
+Simple random,P05746,45-54,Man,Scotland/Wales,Urban,69.4,3.9,0
+Simple random,P35435,25-34,Woman,North,Urban,93.8,3.7,0
+Simple random,P21460,55-64,Man,London,Rural / small town,45.4,3.3,0
+Simple random,P26214,45-54,Woman,North,Urban,58.8,3.3,0
+Simple random,P06380,35-44,Woman,Midlands,Rural / small town,94.2,6.8,0
+Simple random,P28056,25-34,Man,North,Urban,86.8,5.3,0
+Simple random,P02540,25-34,Woman,London,Rural / small town,67.0,5.3,0
+Simple random,P05588,25-34,Woman,Scotland/Wales,Urban,100.0,5.9,0
+Simple random,P13234,35-44,Man,South,Rural / small town,70.9,6.4,0
+Simple random,P11098,25-34,Woman,London,Rural / small town,61.9,3.2,0
+Simple random,P45468,25-34,Man,Scotland/Wales,Rural / small town,68.9,3.7,0
+Simple random,P22699,65-74,Man,London,Urban,38.6,5.3,0
+Simple random,P21198,45-54,Man,Midlands,Urban,70.9,5.8,0
+Simple random,P30527,45-54,Woman,Midlands,Urban,72.4,1.7,0
+Simple random,P40564,55-64,Man,Midlands,Rural / small town,39.2,2.6,0
+Simple random,P49351,35-44,Man,South,Urban,91.4,6.8,0
+Simple random,P48519,45-54,Woman,Midlands,Urban,49.9,2.1,0
+Simple random,P20517,35-44,Woman,South,Urban,69.7,4.2,0
+Simple random,P47868,45-54,Man,Scotland/Wales,Urban,35.8,1.6,0
+Simple random,P04587,25-34,Man,South,Rural / small town,89.8,4.6,0
+Simple random,P38771,25-34,Man,North,Rural / small town,74.6,7.6,1
+Simple random,P25858,25-34,Man,South,Urban,88.2,6.7,0
+Simple random,P39984,45-54,Man,North,Rural / small town,63.1,3.7,0
+Simple random,P26191,45-54,Man,South,Urban,43.6,2.7,0
+Simple random,P47226,25-34,Woman,South,Urban,86.6,6.7,0
+Simple random,P03711,35-44,Woman,North,Urban,72.7,4.6,0
+Simple random,P23823,55-64,Man,London,Urban,20.9,3.4,0
+Simple random,P36950,55-64,Man,Scotland/Wales,Urban,44.0,4.8,0
+Simple random,P29963,18-24,Woman,Scotland/Wales,Rural / small town,85.6,5.4,0
+Simple random,P06559,45-54,Woman,South,Urban,85.6,3.7,0
+Simple random,P23880,65-74,Man,Scotland/Wales,Rural / small town,33.5,2.8,0
+Simple random,P40977,25-34,Woman,North,Urban,76.5,8.4,1
+Simple random,P33856,25-34,Woman,South,Rural / small town,74.1,3.7,0
+Simple random,P06816,55-64,Woman,South,Urban,62.2,5.9,0
+Simple random,P33834,25-34,Woman,North,Urban,79.1,5.6,0
+Simple random,P22695,55-64,Woman,Scotland/Wales,Rural / small town,32.1,2.4,0
+Simple random,P20885,35-44,Man,Midlands,Rural / small town,56.4,6.3,0
+Simple random,P32274,45-54,Woman,Scotland/Wales,Rural / small town,50.9,3.7,0
+Simple random,P16267,25-34,Woman,North,Urban,64.0,4.6,0
+Simple random,P39319,65-74,Woman,North,Urban,54.4,5.3,0
+Simple random,P02846,35-44,Man,South,Rural / small town,47.7,5.9,0
+Simple random,P24763,65-74,Man,North,Urban,39.0,4.6,0
+Simple random,P00276,65-74,Woman,North,Rural / small town,15.5,3.2,0
+Simple random,P29469,18-24,Woman,Scotland/Wales,Urban,77.7,4.5,0
+Simple random,P41491,55-64,Man,London,Urban,48.2,2.8,0
+Simple random,P44184,35-44,Man,South,Urban,61.9,5.5,0
+Simple random,P31317,35-44,Woman,Midlands,Urban,86.5,8.9,1
+Simple random,P39203,45-54,Woman,South,Rural / small town,51.7,4.2,0
+Simple random,P33342,25-34,Woman,North,Rural / small town,62.5,7.6,1
+Simple random,P30140,18-24,Man,North,Urban,84.6,4.9,0
+Simple random,P34919,55-64,Man,North,Urban,63.7,6.2,0
+Simple random,P17143,18-24,Woman,Scotland/Wales,Rural / small town,51.1,6.7,0
+Simple random,P34320,25-34,Man,South,Rural / small town,54.7,4.6,0
+Simple random,P06397,55-64,Man,South,Urban,45.4,3.5,0
+Simple random,P01433,65-74,Woman,Midlands,Rural / small town,40.9,3.6,0
+Simple random,P20291,55-64,Woman,North,Rural / small town,46.1,1.7,0
+Simple random,P23152,45-54,Woman,South,Urban,67.9,6.8,0
+Simple random,P39124,65-74,Man,North,Urban,45.6,5.0,0
+Simple random,P45548,55-64,Man,Midlands,Urban,57.3,5.2,0
+Simple random,P34456,55-64,Woman,London,Urban,38.7,2.4,0
+Simple random,P01187,35-44,Woman,South,Urban,66.5,8.0,1
+Simple random,P16745,25-34,Woman,London,Urban,84.0,8.7,1
+Simple random,P13853,18-24,Woman,North,Urban,97.6,3.1,0
+Simple random,P15289,25-34,Man,North,Urban,67.3,4.1,0
+Simple random,P29620,18-24,Woman,Scotland/Wales,Urban,75.3,7.8,1
+Simple random,P36343,65-74,Man,London,Urban,66.5,4.4,0
+Simple random,P36816,18-24,Man,Scotland/Wales,Urban,92.2,5.9,0
+Simple random,P16565,18-24,Woman,Midlands,Urban,90.5,9.2,1
+Simple random,P47069,65-74,Woman,Scotland/Wales,Rural / small town,29.3,2.8,0
+Simple random,P00600,45-54,Woman,Scotland/Wales,Rural / small town,53.8,6.8,0
+Simple random,P20459,55-64,Man,Midlands,Urban,28.7,0.9,0
+Simple random,P14816,45-54,Man,North,Rural / small town,49.6,5.9,0
+Simple random,P46849,55-64,Woman,Midlands,Rural / small town,47.1,3.5,0
+Simple random,P48184,25-34,Man,London,Urban,97.0,8.1,1
+Simple random,P42229,35-44,Woman,London,Urban,64.3,7.4,1
+Simple random,P39453,25-34,Woman,London,Urban,74.8,5.6,0
+Simple random,P21130,65-74,Man,Midlands,Urban,58.6,4.5,0
+Simple random,P27207,45-54,Woman,South,Urban,72.9,3.8,0
+Simple random,P05331,55-64,Man,Midlands,Urban,50.6,3.7,0
+Simple random,P08854,18-24,Woman,Scotland/Wales,Rural / small town,71.2,1.5,0
+Simple random,P23093,45-54,Woman,North,Rural / small town,27.2,0.4,0
+Simple random,P14010,55-64,Man,London,Urban,51.2,7.3,1
+Simple random,P24263,45-54,Man,North,Urban,58.0,3.8,0
+Simple random,P13687,25-34,Woman,South,Urban,75.1,3.9,0
+Simple random,P24310,55-64,Woman,South,Urban,59.0,3.5,0
+Simple random,P12128,55-64,Woman,South,Urban,39.4,2.4,0
+Simple random,P22818,55-64,Man,South,Urban,49.9,3.1,0
+Simple random,P34807,25-34,Woman,North,Urban,93.2,5.9,0
+Simple random,P37068,45-54,Woman,North,Rural / small town,45.9,6.3,0
+Simple random,P31664,35-44,Woman,North,Urban,63.6,6.0,0
+Simple random,P28445,55-64,Man,Midlands,Urban,63.7,3.1,0
+Simple random,P45506,35-44,Woman,Midlands,Urban,72.8,4.1,0
+Simple random,P01030,55-64,Woman,Scotland/Wales,Rural / small town,30.5,3.5,0
+Simple random,P20678,25-34,Woman,Midlands,Urban,78.6,5.2,0
+Simple random,P23812,25-34,Man,Midlands,Urban,83.4,5.5,0
+Simple random,P32651,18-24,Man,Midlands,Urban,89.5,8.0,1
+Simple random,P26446,45-54,Woman,Scotland/Wales,Urban,64.5,5.8,0
+Simple random,P21038,25-34,Woman,Midlands,Urban,84.9,7.4,1
+Simple random,P28353,65-74,Man,North,Urban,27.5,0.9,0
+Simple random,P23751,25-34,Woman,London,Urban,70.1,7.9,1
+Simple random,P27136,55-64,Man,North,Urban,51.3,6.3,0
+Simple random,P48171,18-24,Non-binary / other,Midlands,Urban,67.7,3.9,0
+Simple random,P13243,35-44,Man,South,Rural / small town,59.5,4.9,0
+Simple random,P34041,65-74,Man,Midlands,Urban,46.6,3.3,0
+Simple random,P03736,25-34,Man,Scotland/Wales,Urban,65.5,2.9,0
+Simple random,P37331,18-24,Man,Scotland/Wales,Urban,83.1,4.0,0
+Simple random,P16207,35-44,Man,Midlands,Urban,61.2,5.8,0
+Simple random,P34952,65-74,Woman,London,Urban,70.8,4.1,0
+Simple random,P25823,35-44,Man,South,Urban,73.5,6.4,0
+Simple random,P07794,25-34,Woman,Midlands,Urban,81.1,3.4,0
+Simple random,P01602,65-74,Man,London,Urban,39.4,5.1,0
+Simple random,P10592,65-74,Woman,North,Urban,36.6,5.8,0
+Simple random,P46924,25-34,Man,Midlands,Rural / small town,76.2,5.5,0
+Simple random,P43767,45-54,Man,Midlands,Urban,55.9,4.1,0
+Simple random,P46196,25-34,Man,North,Rural / small town,76.5,2.5,0
+Simple random,P10194,18-24,Woman,North,Rural / small town,79.6,4.0,0
+Simple random,P15025,55-64,Woman,London,Urban,69.3,5.6,0
+Simple random,P32052,45-54,Man,Midlands,Urban,77.8,6.4,0
+Simple random,P38878,18-24,Woman,North,Urban,89.9,5.4,0
+Simple random,P35843,18-24,Man,South,Urban,64.9,4.6,0
+Simple random,P26999,35-44,Woman,Scotland/Wales,Urban,86.2,4.2,0
+Simple random,P04336,25-34,Man,South,Urban,80.7,4.7,0
+Simple random,P18163,35-44,Man,South,Urban,95.6,7.7,1
+Simple random,P37388,35-44,Man,North,Urban,66.8,5.6,0
+Simple random,P21782,35-44,Woman,London,Urban,77.8,5.0,0
+Simple random,P28919,45-54,Man,South,Urban,81.0,6.6,0
+Simple random,P07344,55-64,Woman,Midlands,Urban,39.6,3.8,0
+Simple random,P48273,65-74,Man,North,Urban,48.8,2.0,0
+Simple random,P00496,55-64,Woman,London,Urban,60.4,7.4,1
+Simple random,P11576,45-54,Man,Midlands,Urban,46.8,2.6,0
+Simple random,P23553,18-24,Man,South,Urban,98.4,5.7,0
+Simple random,P30716,65-74,Man,London,Urban,35.9,4.6,0
+Simple random,P38901,45-54,Man,South,Urban,79.3,7.1,1
+Simple random,P32840,45-54,Man,South,Urban,57.9,5.0,0
+Simple random,P23473,35-44,Woman,Midlands,Urban,71.8,4.5,0
+Simple random,P08835,35-44,Non-binary / other,North,Rural / small town,49.7,7.4,1
+Simple random,P45097,45-54,Man,Scotland/Wales,Rural / small town,61.8,4.3,0
+Simple random,P32622,18-24,Man,Midlands,Rural / small town,75.0,4.8,0
+Simple random,P40845,18-24,Woman,South,Urban,66.0,6.0,0
+Simple random,P10414,55-64,Man,Midlands,Urban,53.1,4.5,0
+Simple random,P19375,55-64,Woman,South,Rural / small town,48.9,4.0,0
+Simple random,P31520,65-74,Man,South,Urban,35.0,2.2,0
+Simple random,P12125,25-34,Woman,South,Rural / small town,73.9,6.2,0
+Simple random,P13810,35-44,Man,Scotland/Wales,Urban,69.8,8.4,1
+Simple random,P16777,45-54,Man,Midlands,Urban,63.6,5.6,0
+Simple random,P38113,55-64,Man,Midlands,Urban,58.6,3.7,0
+Simple random,P02853,35-44,Woman,South,Rural / small town,65.8,2.5,0
+Simple random,P12401,35-44,Woman,South,Rural / small town,57.3,5.8,0
+Simple random,P19329,35-44,Man,Scotland/Wales,Rural / small town,66.3,3.5,0
+Simple random,P28998,55-64,Man,South,Urban,40.7,5.2,0
+Simple random,P21348,18-24,Man,South,Rural / small town,76.2,5.3,0
+Simple random,P05386,45-54,Woman,Midlands,Rural / small town,58.9,4.1,0
+Simple random,P24721,55-64,Woman,North,Urban,59.9,4.5,0
+Simple random,P18789,35-44,Woman,London,Urban,71.6,7.1,1
+Simple random,P46872,35-44,Woman,South,Rural / small town,67.1,5.0,0
+Simple random,P06211,45-54,Woman,North,Urban,73.2,2.8,0
+Simple random,P39866,25-34,Man,North,Urban,84.0,7.7,1
+Simple random,P21717,18-24,Man,London,Rural / small town,79.4,2.9,0
+Simple random,P17991,25-34,Woman,North,Rural / small town,66.3,5.1,0
+Simple random,P18012,55-64,Woman,Scotland/Wales,Rural / small town,42.5,1.7,0
+Simple random,P47734,25-34,Man,South,Urban,76.4,7.7,1
+Simple random,P07373,35-44,Man,North,Rural / small town,69.2,3.0,0
+Simple random,P45315,45-54,Woman,South,Urban,74.2,4.8,0
+Simple random,P46572,55-64,Woman,South,Urban,63.9,1.7,0
+Simple random,P48236,65-74,Man,Midlands,Urban,59.6,7.8,1
+Simple random,P20922,65-74,Man,North,Urban,35.2,3.1,0
+Simple random,P06300,65-74,Woman,North,Urban,63.0,5.8,0
+Simple random,P36876,25-34,Man,North,Urban,94.9,5.9,0
+Simple random,P46153,45-54,Man,Scotland/Wales,Urban,72.6,5.9,0
+Simple random,P19088,55-64,Man,South,Urban,46.6,5.0,0
+Simple random,P13385,18-24,Man,North,Urban,64.0,5.2,0
+Simple random,P33534,45-54,Woman,South,Urban,63.7,6.9,0
+Simple random,P02803,35-44,Woman,London,Urban,46.5,5.8,0
+Simple random,P29587,55-64,Man,Scotland/Wales,Urban,45.6,1.6,0
+Simple random,P13623,65-74,Woman,Midlands,Rural / small town,20.7,1.4,0
+Simple random,P49171,55-64,Man,Scotland/Wales,Urban,39.8,4.4,0
+Simple random,P35304,25-34,Woman,South,Urban,80.4,4.8,0
+Simple random,P09296,25-34,Woman,South,Urban,66.3,3.6,0
+Simple random,P28631,55-64,Woman,Scotland/Wales,Urban,41.0,6.1,0
+Simple random,P23683,25-34,Woman,London,Urban,83.6,8.2,1
+Simple random,P35301,35-44,Woman,Midlands,Urban,51.1,6.4,0
+Simple random,P34824,65-74,Woman,Midlands,Urban,37.7,4.2,0
+Simple random,P02659,55-64,Man,Scotland/Wales,Rural / small town,27.7,4.0,0
+Simple random,P30740,65-74,Woman,North,Rural / small town,31.9,0.8,0
+Simple random,P18457,18-24,Woman,London,Urban,94.0,7.0,1
+Simple random,P23649,35-44,Woman,Midlands,Rural / small town,61.9,6.2,0
+Simple random,P35345,65-74,Woman,North,Urban,36.4,6.2,0
+Simple random,P02571,45-54,Woman,Midlands,Urban,71.2,4.9,0
+Simple random,P07303,18-24,Man,North,Urban,66.7,6.6,0
+Simple random,P22635,65-74,Man,South,Rural / small town,42.5,5.6,0
+Simple random,P24832,55-64,Woman,London,Urban,38.7,3.4,0
+Simple random,P16597,35-44,Woman,North,Urban,52.2,1.9,0
+Simple random,P41944,25-34,Man,South,Urban,71.8,6.4,0
+Simple random,P41185,25-34,Man,Midlands,Rural / small town,60.6,5.1,0
+Simple random,P45452,45-54,Man,North,Rural / small town,36.5,1.9,0
+Simple random,P48465,45-54,Man,South,Urban,59.5,4.4,0
+Simple random,P16750,55-64,Man,North,Urban,70.6,5.9,0
+Simple random,P41267,55-64,Woman,South,Rural / small town,19.6,0.6,0
+Simple random,P26431,35-44,Woman,Midlands,Urban,78.0,6.7,0
+Simple random,P29553,65-74,Man,London,Urban,60.0,3.5,0
+Simple random,P06966,45-54,Man,Scotland/Wales,Urban,83.6,4.8,0
+Simple random,P01156,65-74,Woman,North,Rural / small town,45.7,1.8,0
+Simple random,P46301,18-24,Man,Scotland/Wales,Rural / small town,75.5,7.8,1
+Simple random,P33209,55-64,Woman,South,Urban,54.2,4.4,0
+Simple random,P32113,55-64,Woman,North,Urban,31.4,4.9,0
+Simple random,P02028,25-34,Woman,North,Urban,87.7,3.8,0
+Simple random,P14987,35-44,Woman,Midlands,Urban,100.0,5.1,0
+Simple random,P33408,65-74,Man,London,Urban,62.9,3.9,0
+Simple random,P02070,25-34,Woman,London,Urban,88.7,5.8,0
+Simple random,P40714,55-64,Woman,London,Urban,60.7,5.8,0
+Simple random,P27750,25-34,Man,South,Urban,62.8,7.5,1
+Simple random,P03356,18-24,Woman,Scotland/Wales,Rural / small town,66.1,3.4,0
+Simple random,P08546,45-54,Woman,South,Urban,65.8,7.9,1
+Simple random,P09250,45-54,Woman,Scotland/Wales,Rural / small town,44.4,7.2,1
+Simple random,P08369,55-64,Man,South,Urban,72.7,1.7,0
+Simple random,P11336,25-34,Woman,South,Urban,85.0,7.9,1
+Simple random,P31209,25-34,Woman,Scotland/Wales,Rural / small town,77.1,5.2,0
+Simple random,P29487,35-44,Woman,North,Urban,90.2,6.7,0
+Simple random,P32947,55-64,Man,South,Urban,49.0,3.4,0
+Simple random,P34990,55-64,Man,London,Urban,80.0,6.3,0
+Simple random,P10079,55-64,Woman,South,Rural / small town,47.7,2.6,0
+Simple random,P27560,55-64,Woman,Midlands,Rural / small town,43.6,1.2,0
+Simple random,P14290,25-34,Woman,Midlands,Urban,54.8,8.0,1
+Simple random,P10656,25-34,Woman,North,Urban,68.2,5.2,0
+Simple random,P32814,35-44,Woman,Scotland/Wales,Urban,91.2,7.5,1
+Simple random,P01249,25-34,Man,North,Rural / small town,68.4,5.4,0
+Simple random,P13550,35-44,Man,North,Urban,73.5,6.4,0
+Simple random,P12562,55-64,Man,North,Urban,65.9,4.0,0
+Simple random,P38431,25-34,Man,Midlands,Rural / small town,64.6,2.9,0
+Simple random,P04029,55-64,Man,Midlands,Rural / small town,48.0,4.2,0
+Simple random,P06148,25-34,Man,Midlands,Urban,79.6,6.6,0
+Simple random,P05283,18-24,Man,Midlands,Urban,100.0,7.4,1
+Simple random,P11607,18-24,Woman,North,Urban,62.9,5.4,0
+Simple random,P17765,25-34,Woman,North,Rural / small town,65.3,2.3,0
+Simple random,P14664,45-54,Man,Scotland/Wales,Urban,48.7,6.0,0
+Simple random,P22060,18-24,Woman,Midlands,Urban,64.9,4.5,0
+Simple random,P26008,65-74,Man,South,Rural / small town,47.8,5.3,0
+Simple random,P21100,45-54,Woman,Midlands,Urban,78.3,7.2,1
+Simple random,P09832,65-74,Woman,North,Urban,13.3,2.4,0
+Simple random,P28512,35-44,Woman,Midlands,Urban,82.8,7.4,1
+Simple random,P14379,18-24,Man,London,Urban,82.8,4.4,0
+Simple random,P16007,18-24,Non-binary / other,Midlands,Rural / small town,77.6,2.8,0
+Simple random,P39169,55-64,Woman,London,Urban,56.0,3.9,0
+Simple random,P40320,35-44,Man,Midlands,Rural / small town,69.1,5.1,0
+Simple random,P16346,18-24,Woman,South,Urban,90.0,3.3,0
+Simple random,P36036,45-54,Man,Scotland/Wales,Urban,50.1,4.4,0
+Simple random,P41709,35-44,Man,South,Urban,63.6,6.0,0
+Simple random,P27037,25-34,Woman,North,Urban,87.1,5.0,0
+Simple random,P47941,18-24,Woman,Midlands,Urban,53.2,4.4,0
+Simple random,P34691,55-64,Woman,South,Urban,52.4,3.1,0
+Simple random,P45992,25-34,Woman,North,Urban,100.0,6.5,0
+Simple random,P48869,45-54,Woman,London,Urban,68.1,4.5,0
+Simple random,P16449,35-44,Woman,Midlands,Urban,62.5,4.7,0
+Simple random,P32661,55-64,Man,London,Urban,51.1,1.9,0
+Simple random,P19858,18-24,Man,North,Urban,57.6,6.8,0
+Simple random,P00096,25-34,Man,North,Rural / small town,62.9,6.8,0
+Simple random,P15264,25-34,Man,Scotland/Wales,Rural / small town,49.3,3.3,0
+Simple random,P38438,25-34,Woman,Scotland/Wales,Rural / small town,72.5,5.6,0
+Simple random,P44846,18-24,Woman,Scotland/Wales,Rural / small town,78.7,4.0,0
+Simple random,P45154,35-44,Man,South,Urban,86.0,5.9,0
+Simple random,P04766,65-74,Man,Midlands,Rural / small town,26.9,0.0,0
+Simple random,P01498,18-24,Man,North,Rural / small town,68.2,6.4,0
+Simple random,P32899,35-44,Man,North,Urban,64.0,4.1,0
+Simple random,P47357,45-54,Woman,North,Urban,51.9,6.6,0
+Simple random,P07542,25-34,Man,South,Urban,86.1,8.2,1
+Simple random,P19472,65-74,Man,South,Rural / small town,32.0,4.3,0
+Simple random,P44029,55-64,Woman,North,Urban,43.9,3.8,0
+Simple random,P21160,65-74,Man,North,Rural / small town,36.1,2.4,0
+Simple random,P47643,65-74,Woman,Midlands,Urban,64.8,3.3,0
+Simple random,P25153,35-44,Man,Scotland/Wales,Urban,72.0,4.3,0
+Simple random,P49315,65-74,Man,London,Urban,33.0,4.8,0
+Simple random,P10848,25-34,Woman,Scotland/Wales,Rural / small town,43.6,5.2,0
+Simple random,P44558,35-44,Man,South,Urban,94.5,5.4,0
+Simple random,P22878,55-64,Non-binary / other,Scotland/Wales,Urban,61.6,7.8,1
+Simple random,P36478,18-24,Woman,Scotland/Wales,Urban,80.4,7.7,1
+Simple random,P17257,35-44,Woman,North,Rural / small town,66.4,5.0,0
+Simple random,P03845,45-54,Man,South,Urban,54.9,5.3,0
+Simple random,P33704,45-54,Woman,London,Urban,64.1,5.0,0
+Simple random,P00945,55-64,Woman,North,Rural / small town,37.0,0.8,0
+Simple random,P44823,18-24,Woman,South,Urban,86.0,7.2,1
+Simple random,P41557,18-24,Woman,London,Urban,76.5,4.8,0
+Simple random,P23891,35-44,Man,North,Urban,74.4,3.1,0
+Simple random,P42869,65-74,Woman,Midlands,Rural / small town,39.7,3.3,0
+Simple random,P44693,25-34,Woman,Scotland/Wales,Urban,78.8,6.0,0
+Simple random,P18030,35-44,Man,South,Urban,70.3,5.7,0
+Simple random,P36739,45-54,Woman,Midlands,Rural / small town,58.0,2.3,0
+Simple random,P01976,65-74,Woman,North,Rural / small town,31.8,4.2,0
+Simple random,P30227,55-64,Woman,South,Urban,43.1,3.0,0
+Simple random,P14156,45-54,Woman,Midlands,Urban,64.5,5.9,0
+Simple random,P12442,55-64,Man,North,Urban,50.6,2.8,0
+Simple random,P17174,45-54,Woman,North,Urban,85.0,4.3,0
+Simple random,P28550,35-44,Man,Scotland/Wales,Urban,70.2,6.2,0
+Simple random,P42561,45-54,Woman,Midlands,Urban,70.4,4.2,0
+Simple random,P11601,45-54,Man,North,Urban,49.2,6.5,0
+Simple random,P20881,55-64,Man,Midlands,Rural / small town,39.6,0.6,0
+Simple random,P23992,25-34,Man,London,Rural / small town,69.6,7.0,1
+Simple random,P07336,55-64,Woman,North,Urban,47.4,1.3,0
+Simple random,P09449,18-24,Woman,South,Urban,77.4,6.3,0
+Simple random,P16678,18-24,Man,North,Rural / small town,74.2,4.8,0
+Simple random,P09355,65-74,Man,South,Urban,46.4,4.6,0
+Simple random,P02033,45-54,Woman,London,Urban,42.3,3.4,0
+Simple random,P20508,35-44,Woman,North,Urban,66.8,4.2,0
+Simple random,P27134,35-44,Woman,South,Urban,61.3,5.9,0
+Simple random,P47394,55-64,Man,Midlands,Urban,54.9,5.6,0
+Simple random,P29861,45-54,Man,South,Urban,64.8,3.0,0
+Simple random,P10977,25-34,Woman,Scotland/Wales,Rural / small town,71.0,5.1,0
+Simple random,P38769,18-24,Woman,South,Urban,63.0,5.8,0
+Simple random,P08899,65-74,Man,North,Urban,36.2,3.1,0
+Simple random,P02920,65-74,Woman,North,Urban,36.7,7.0,1
+Simple random,P43342,55-64,Woman,Midlands,Urban,48.9,4.0,0
+Simple random,P12446,45-54,Man,North,Urban,50.4,6.4,0
+Simple random,P24419,45-54,Man,North,Urban,41.9,4.4,0
+Simple random,P29334,25-34,Woman,South,Urban,74.4,4.7,0
+Simple random,P32488,65-74,Woman,Scotland/Wales,Rural / small town,41.4,2.7,0
+Simple random,P17016,35-44,Man,South,Rural / small town,61.6,2.0,0
+Simple random,P05072,45-54,Non-binary / other,London,Urban,46.9,4.5,0
+Simple random,P31746,25-34,Woman,South,Urban,84.2,7.5,1
+Simple random,P35775,45-54,Woman,Scotland/Wales,Rural / small town,62.2,4.5,0
+Simple random,P49395,65-74,Man,South,Urban,42.2,3.2,0
+Simple random,P43790,35-44,Man,South,Urban,79.1,7.4,1
+Simple random,P17822,55-64,Man,South,Urban,67.6,2.9,0
+Simple random,P23150,45-54,Woman,North,Rural / small town,67.3,4.9,0
+Simple random,P15852,45-54,Woman,North,Urban,80.1,7.2,1
+Simple random,P31783,45-54,Man,Midlands,Rural / small town,63.6,6.1,0
+Simple random,P29518,65-74,Woman,Scotland/Wales,Urban,39.7,0.8,0
+Simple random,P49492,25-34,Non-binary / other,London,Urban,63.6,5.2,0
+Simple random,P33850,55-64,Woman,South,Urban,81.5,5.4,0
+Simple random,P22233,18-24,Man,Midlands,Urban,62.8,3.5,0
+Simple random,P41776,18-24,Woman,North,Urban,69.1,4.6,0
+Simple random,P20484,35-44,Man,North,Rural / small town,62.9,3.4,0
+Simple random,P33135,65-74,Man,London,Urban,63.4,2.3,0
+Simple random,P44698,18-24,Man,North,Urban,86.6,8.9,1
+Simple random,P07565,25-34,Woman,Scotland/Wales,Rural / small town,55.0,3.6,0
+Simple random,P17300,55-64,Man,London,Urban,43.0,4.2,0
+Simple random,P39476,55-64,Woman,Midlands,Rural / small town,36.7,2.7,0
+Simple random,P47564,25-34,Man,Scotland/Wales,Urban,70.0,6.3,0
+Simple random,P34534,25-34,Man,London,Urban,94.2,3.8,0
+Simple random,P39181,35-44,Man,North,Rural / small town,64.4,3.5,0
+Simple random,P30837,25-34,Woman,Scotland/Wales,Urban,100.0,8.3,1
+Simple random,P17429,45-54,Man,South,Urban,65.6,6.7,0
+Simple random,P29608,18-24,Woman,Scotland/Wales,Urban,86.4,6.3,0
+Simple random,P46566,35-44,Man,South,Urban,56.7,3.2,0
+Simple random,P38817,25-34,Man,Midlands,Urban,100.0,7.3,1
+Simple random,P14531,25-34,Woman,South,Rural / small town,60.2,3.8,0
+Simple random,P29985,55-64,Man,South,Urban,52.3,6.5,0
+Simple random,P19198,25-34,Woman,London,Urban,88.0,8.0,1
+Simple random,P08673,18-24,Woman,Midlands,Urban,96.0,5.1,0
+Simple random,P42281,18-24,Man,South,Urban,100.0,7.1,1
+Simple random,P24534,35-44,Woman,South,Urban,58.5,4.9,0
+Simple random,P44690,55-64,Woman,London,Urban,36.4,2.7,0
+Simple random,P05694,55-64,Woman,Midlands,Urban,56.5,3.8,0
+Simple random,P32770,18-24,Woman,Midlands,Rural / small town,71.8,3.5,0
+Simple random,P25977,65-74,Man,South,Urban,44.3,6.5,0
+Simple random,P44492,25-34,Man,London,Urban,77.7,6.2,0
+Simple random,P23369,35-44,Woman,North,Urban,78.0,3.7,0
+Simple random,P03249,55-64,Man,London,Urban,52.1,2.7,0
+Simple random,P07391,45-54,Man,Scotland/Wales,Urban,52.3,2.7,0
+Simple random,P29987,18-24,Woman,North,Urban,92.1,6.2,0
+Simple random,P05050,55-64,Man,South,Rural / small town,30.6,3.3,0
+Simple random,P01418,55-64,Woman,South,Urban,36.0,3.6,0
+Simple random,P19678,45-54,Woman,London,Urban,70.2,8.7,1
+Simple random,P37760,25-34,Woman,South,Urban,87.1,6.6,0
+Simple random,P11877,35-44,Woman,South,Urban,69.7,4.7,0
+Simple random,P35802,18-24,Woman,North,Urban,63.5,6.0,0
+Simple random,P31332,55-64,Woman,Midlands,Rural / small town,46.0,2.4,0
+Simple random,P06526,25-34,Woman,Scotland/Wales,Rural / small town,79.5,4.2,0
+Simple random,P31920,45-54,Non-binary / other,Midlands,Urban,56.0,2.5,0
+Simple random,P00354,35-44,Man,North,Urban,49.4,7.3,1
+Simple random,P43321,25-34,Man,South,Rural / small town,70.9,6.1,0
+Simple random,P21957,55-64,Woman,North,Rural / small town,40.7,3.0,0
+Simple random,P37047,18-24,Woman,London,Urban,69.9,6.2,0
+Simple random,P31712,35-44,Man,Scotland/Wales,Rural / small town,56.5,7.4,1
+Simple random,P42971,25-34,Man,North,Urban,74.8,6.7,0
+Simple random,P43391,55-64,Woman,North,Urban,41.1,2.4,0
+Simple random,P47422,35-44,Man,North,Urban,48.1,4.2,0
+Simple random,P04319,55-64,Man,North,Rural / small town,46.4,3.1,0
+Simple random,P28959,18-24,Woman,Scotland/Wales,Rural / small town,75.7,6.3,0
+Simple random,P25393,45-54,Woman,London,Urban,74.4,6.9,0
+Simple random,P26223,25-34,Woman,South,Rural / small town,83.2,4.0,0
+Simple random,P42176,35-44,Man,North,Rural / small town,82.7,7.3,1
+Simple random,P01084,55-64,Man,South,Urban,50.8,2.9,0
+Simple random,P43410,35-44,Woman,London,Urban,85.9,9.0,1
+Simple random,P42789,25-34,Man,South,Urban,83.1,4.0,0
+Simple random,P41824,35-44,Woman,South,Urban,76.2,4.3,0
+Simple random,P46037,25-34,Man,Scotland/Wales,Rural / small town,42.3,2.3,0
+Simple random,P20413,45-54,Man,Scotland/Wales,Rural / small town,51.4,4.9,0
+Simple random,P02574,35-44,Woman,North,Rural / small town,66.2,2.8,0
+Simple random,P42887,65-74,Man,North,Rural / small town,30.6,4.6,0
+Simple random,P24626,55-64,Man,South,Urban,44.7,3.9,0
+Simple random,P32376,35-44,Man,South,Urban,63.9,5.6,0
+Simple random,P13751,65-74,Man,Scotland/Wales,Urban,44.7,0.0,0
+Simple random,P33321,35-44,Man,South,Urban,62.4,5.8,0
+Simple random,P47815,25-34,Man,North,Rural / small town,68.3,4.5,0
+Simple random,P13972,45-54,Man,Midlands,Urban,57.1,1.1,0
+Simple random,P06869,25-34,Woman,North,Rural / small town,69.1,2.8,0
+Simple random,P12829,55-64,Man,London,Urban,48.1,6.2,0
+Simple random,P05664,25-34,Man,North,Urban,90.6,7.4,1
+Simple random,P23555,65-74,Man,North,Urban,61.1,7.4,1
+Simple random,P36177,25-34,Woman,Midlands,Urban,81.0,8.6,1
+Simple random,P10408,25-34,Woman,North,Rural / small town,64.0,4.3,0
+Simple random,P13166,45-54,Woman,London,Urban,42.4,7.8,1
+Simple random,P43702,25-34,Man,Midlands,Urban,81.0,7.3,1
+Simple random,P34402,35-44,Man,South,Urban,83.9,10.0,1
+Simple random,P21296,45-54,Man,North,Urban,62.6,8.5,1
+Simple random,P24627,35-44,Woman,South,Urban,68.6,4.7,0
+Simple random,P25116,45-54,Man,Midlands,Urban,63.0,5.0,0
+Simple random,P01818,25-34,Man,London,Urban,75.8,5.7,0
+Simple random,P17727,25-34,Man,South,Urban,82.6,6.5,0
+Simple random,P30495,65-74,Woman,North,Rural / small town,57.9,2.4,0
+Simple random,P39961,18-24,Man,Scotland/Wales,Rural / small town,48.5,4.6,0
+Simple random,P49619,55-64,Man,Midlands,Urban,59.4,5.4,0
+Simple random,P21970,35-44,Man,Midlands,Rural / small town,55.7,4.8,0
+Simple random,P17579,55-64,Man,London,Urban,43.5,3.2,0
+Simple random,P19758,55-64,Woman,South,Urban,66.9,6.1,0
+Simple random,P04484,65-74,Man,South,Urban,46.1,3.5,0
+Simple random,P39708,35-44,Woman,London,Urban,73.1,7.1,1
+Simple random,P33137,35-44,Woman,South,Urban,71.4,5.6,0
+Simple random,P06682,35-44,Woman,South,Rural / small town,58.1,5.0,0
+Simple random,P13603,35-44,Man,North,Urban,79.7,7.0,1
+Simple random,P11277,45-54,Man,London,Urban,78.1,7.1,1
+Simple random,P48770,25-34,Woman,Scotland/Wales,Urban,65.9,4.9,0
+Simple random,P40187,65-74,Woman,North,Urban,25.2,3.9,0
+Simple random,P03847,65-74,Man,North,Rural / small town,48.7,3.5,0
+Simple random,P19122,25-34,Man,London,Urban,78.8,6.2,0
+Simple random,P37584,55-64,Man,North,Rural / small town,23.3,0.0,0
+Simple random,P27746,35-44,Woman,London,Urban,54.7,4.3,0
+Simple random,P03244,65-74,Woman,North,Urban,30.9,0.0,0
+Simple random,P42984,65-74,Woman,Scotland/Wales,Urban,26.4,2.0,0
+Simple random,P30368,45-54,Woman,Scotland/Wales,Rural / small town,49.7,4.0,0
+Simple random,P00368,55-64,Man,Scotland/Wales,Urban,67.5,3.6,0
+Simple random,P28239,55-64,Man,Midlands,Rural / small town,35.2,1.9,0
+Simple random,P21478,35-44,Woman,South,Urban,55.5,6.2,0
+Simple random,P00204,35-44,Woman,North,Urban,66.8,6.7,0
+Simple random,P42996,55-64,Man,Midlands,Rural / small town,60.8,3.9,0
+Simple random,P41479,45-54,Woman,Scotland/Wales,Urban,72.1,6.8,0
+Simple random,P28674,35-44,Man,Midlands,Urban,61.1,7.1,1
+Simple random,P27143,55-64,Man,Scotland/Wales,Urban,53.6,2.9,0
+Simple random,P14951,45-54,Woman,Midlands,Rural / small town,55.2,3.1,0
+Simple random,P43746,25-34,Woman,South,Rural / small town,79.5,6.5,0
+Simple random,P40460,18-24,Man,London,Urban,97.9,9.2,1
+Simple random,P07687,55-64,Woman,South,Urban,50.4,3.8,0
+Simple random,P30540,18-24,Woman,South,Urban,84.5,5.8,0
+Simple random,P30360,65-74,Woman,Scotland/Wales,Urban,39.2,3.6,0
+Simple random,P46751,35-44,Man,South,Urban,61.9,5.2,0
+Simple random,P44195,65-74,Man,South,Urban,46.7,1.6,0
+Simple random,P19124,35-44,Woman,London,Urban,77.1,4.3,0
+Simple random,P36759,35-44,Woman,Scotland/Wales,Urban,67.3,3.8,0
+Simple random,P03091,45-54,Man,North,Urban,71.1,7.9,1
+Simple random,P28140,65-74,Man,South,Rural / small town,44.9,3.5,0
+Simple random,P33253,45-54,Man,North,Rural / small town,51.7,4.6,0
+Simple random,P23014,45-54,Woman,Midlands,Rural / small town,46.5,6.5,0
+Simple random,P28915,18-24,Woman,London,Rural / small town,69.2,5.1,0
+Simple random,P47134,65-74,Man,South,Rural / small town,28.9,4.1,0
+Simple random,P25007,35-44,Man,North,Urban,74.9,6.8,0
+Simple random,P38478,25-34,Woman,Midlands,Rural / small town,76.8,4.8,0
+Simple random,P12027,55-64,Man,South,Urban,40.4,3.0,0
+Simple random,P41651,18-24,Woman,North,Urban,82.7,6.8,0
+Simple random,P06479,45-54,Woman,North,Urban,49.7,3.6,0
+Simple random,P38695,35-44,Man,Midlands,Urban,48.6,4.3,0
+Simple random,P25294,65-74,Man,North,Urban,44.8,3.1,0
+Simple random,P45877,35-44,Woman,South,Urban,70.1,7.5,1
+Simple random,P09599,25-34,Man,North,Urban,70.5,6.5,0
+Simple random,P25946,45-54,Woman,North,Urban,43.3,5.8,0
+Simple random,P43227,25-34,Woman,Scotland/Wales,Rural / small town,89.3,5.1,0
+Simple random,P16019,55-64,Man,North,Urban,57.1,4.0,0
+Simple random,P35387,55-64,Man,South,Rural / small town,36.4,4.4,0
+Simple random,P47592,25-34,Woman,London,Urban,67.7,6.6,0
+Simple random,P16032,35-44,Man,South,Rural / small town,58.0,5.2,0
+Simple random,P06125,55-64,Man,Scotland/Wales,Urban,50.8,3.5,0
+Simple random,P23413,45-54,Woman,South,Urban,58.7,6.0,0
+Simple random,P46258,35-44,Woman,Midlands,Urban,77.4,5.6,0
+Simple random,P42876,35-44,Woman,South,Urban,71.7,5.8,0
+Simple random,P17751,45-54,Woman,North,Urban,53.3,3.5,0
+Simple random,P47577,18-24,Man,South,Urban,100.0,6.9,0
+Simple random,P17820,25-34,Man,Midlands,Rural / small town,58.6,6.0,0
+Simple random,P40839,18-24,Man,North,Urban,72.8,7.8,1
+Simple random,P29093,55-64,Woman,North,Urban,58.2,4.5,0
+Simple random,P29411,35-44,Woman,Midlands,Urban,79.3,7.8,1
+Simple random,P35506,35-44,Woman,North,Urban,66.8,2.4,0
+Simple random,P48150,65-74,Man,Midlands,Rural / small town,27.9,1.4,0
+Simple random,P37489,35-44,Man,South,Urban,78.5,6.5,0
+Simple random,P18467,18-24,Woman,North,Urban,82.7,6.8,0
+Simple random,P49995,25-34,Man,North,Urban,76.8,5.3,0
+Simple random,P45277,25-34,Man,London,Urban,59.6,4.9,0
+Simple random,P42436,35-44,Woman,North,Urban,67.6,9.4,1
+Simple random,P06846,45-54,Woman,North,Urban,64.9,3.3,0
+Simple random,P45443,35-44,Woman,North,Urban,54.4,7.2,1
+Simple random,P38773,18-24,Man,London,Urban,84.9,9.1,1
+Simple random,P33825,25-34,Man,Midlands,Urban,72.5,4.7,0
+Simple random,P27756,35-44,Man,South,Urban,68.6,6.6,0
+Simple random,P08884,25-34,Woman,South,Rural / small town,67.8,4.9,0
+Simple random,P29923,35-44,Woman,South,Rural / small town,64.0,3.8,0
+Simple random,P09287,65-74,Man,Midlands,Urban,41.2,1.1,0
+Simple random,P12414,25-34,Woman,South,Urban,69.9,7.3,1
+Simple random,P44542,55-64,Man,North,Urban,38.6,3.6,0
+Simple random,P14606,35-44,Man,North,Rural / small town,56.3,5.4,0
+Simple random,P34002,25-34,Man,South,Rural / small town,66.8,3.2,0
+Simple random,P45504,55-64,Woman,North,Urban,27.8,3.3,0
+Simple random,P10750,55-64,Woman,London,Urban,52.5,4.8,0
+Simple random,P45399,65-74,Woman,Midlands,Rural / small town,49.6,1.4,0
+Simple random,P28603,35-44,Woman,Scotland/Wales,Urban,70.3,3.6,0
+Simple random,P24920,45-54,Man,North,Urban,62.6,2.6,0
+Simple random,P12456,55-64,Man,London,Urban,46.2,4.3,0
+Simple random,P46160,35-44,Woman,North,Urban,76.8,5.3,0
+Simple random,P39311,18-24,Woman,South,Rural / small town,61.7,5.7,0
+Simple random,P07550,18-24,Man,North,Urban,97.1,2.6,0
+Simple random,P31889,25-34,Man,North,Rural / small town,52.8,5.2,0
+Simple random,P30324,18-24,Woman,South,Urban,66.6,4.2,0
+Simple random,P28398,65-74,Woman,London,Urban,40.8,5.8,0
+Simple random,P35513,18-24,Man,South,Urban,98.8,6.0,0
+Simple random,P40271,55-64,Man,South,Urban,67.2,2.5,0
+Simple random,P46375,18-24,Man,North,Urban,82.4,8.8,1
+Simple random,P12851,45-54,Woman,Midlands,Rural / small town,59.0,5.1,0
+Simple random,P01356,25-34,Woman,South,Urban,84.5,5.8,0
+Simple random,P31614,25-34,Man,Midlands,Urban,84.1,4.1,0
+Simple random,P16148,25-34,Man,North,Urban,87.0,9.0,1
+Simple random,P47633,55-64,Woman,Midlands,Urban,64.3,7.9,1
+Simple random,P05910,25-34,Woman,Midlands,Rural / small town,86.9,6.0,0
+Simple random,P08194,25-34,Man,Scotland/Wales,Urban,80.2,7.7,1
+Simple random,P44383,45-54,Man,South,Rural / small town,70.6,4.6,0
+Simple random,P21640,25-34,Man,North,Urban,79.6,7.0,1
+Simple random,P26082,45-54,Woman,South,Rural / small town,59.2,5.7,0
+Simple random,P04359,18-24,Man,Scotland/Wales,Rural / small town,74.9,5.6,0
+Simple random,P05904,25-34,Woman,South,Urban,71.3,4.7,0
+Simple random,P15287,25-34,Woman,Scotland/Wales,Urban,75.4,8.1,1
+Simple random,P21728,55-64,Man,South,Rural / small town,40.7,4.5,0
+Simple random,P38661,35-44,Woman,Midlands,Rural / small town,67.3,6.6,0
+Simple random,P46244,45-54,Non-binary / other,South,Urban,74.8,5.5,0
+Simple random,P32826,55-64,Woman,South,Urban,55.3,4.4,0
+Simple random,P23563,18-24,Man,North,Urban,79.3,4.6,0
+Simple random,P37380,45-54,Man,North,Urban,48.6,4.5,0
+Simple random,P16816,45-54,Woman,North,Rural / small town,48.2,3.7,0
+Simple random,P17059,25-34,Woman,Scotland/Wales,Rural / small town,64.7,5.8,0
+Simple random,P33915,25-34,Woman,Midlands,Rural / small town,48.3,5.6,0
+Simple random,P25215,25-34,Man,North,Urban,78.3,4.0,0
+Simple random,P30009,65-74,Man,London,Urban,57.0,2.8,0
+Simple random,P20244,55-64,Non-binary / other,North,Urban,41.0,5.9,0
+Simple random,P22714,18-24,Man,South,Urban,88.4,5.6,0
+Simple random,P24582,65-74,Man,North,Rural / small town,0.0,3.0,0
+Simple random,P22425,18-24,Woman,North,Urban,85.1,7.4,1
+Simple random,P35687,55-64,Man,South,Urban,70.2,3.5,0
+Simple random,P49147,25-34,Man,Scotland/Wales,Rural / small town,63.2,4.1,0
+Simple random,P10588,65-74,Woman,Scotland/Wales,Rural / small town,27.8,4.0,0
+Simple random,P20281,35-44,Man,South,Urban,64.8,1.0,0
+Simple random,P32275,65-74,Woman,South,Urban,19.0,2.4,0
+Simple random,P33524,45-54,Man,South,Rural / small town,54.3,6.2,0
+Simple random,P27106,35-44,Man,Midlands,Urban,75.8,5.0,0
+Simple random,P07280,35-44,Man,Midlands,Urban,67.4,6.5,0
+Simple random,P20758,25-34,Man,North,Rural / small town,68.9,5.4,0
+Simple random,P13835,35-44,Woman,London,Urban,54.3,5.1,0
+Simple random,P42802,25-34,Man,North,Rural / small town,64.4,4.4,0
+Simple random,P37769,18-24,Man,South,Urban,100.0,4.5,0
+Simple random,P14391,55-64,Woman,South,Urban,71.6,6.1,0
+Simple random,P43281,25-34,Woman,Scotland/Wales,Rural / small town,74.9,4.6,0
+Simple random,P21808,55-64,Man,South,Urban,55.2,2.3,0
+Simple random,P06053,45-54,Woman,South,Rural / small town,58.1,5.8,0
+Simple random,P21005,45-54,Man,Midlands,Urban,77.2,3.6,0
+Simple random,P03304,35-44,Woman,London,Urban,77.6,5.6,0
+Simple random,P08048,25-34,Man,North,Urban,73.1,4.6,0
+Simple random,P08238,55-64,Man,North,Urban,48.1,4.7,0
+Simple random,P46273,25-34,Man,South,Urban,78.4,5.0,0
+Simple random,P25030,65-74,Man,Scotland/Wales,Urban,57.3,4.8,0
+Simple random,P16788,35-44,Man,North,Urban,90.4,6.0,0
+Simple random,P12554,45-54,Woman,Scotland/Wales,Urban,71.3,4.2,0
+Simple random,P46886,35-44,Man,Midlands,Urban,67.9,5.5,0
+Simple random,P06903,55-64,Man,North,Urban,54.7,3.4,0
+Simple random,P34832,45-54,Woman,South,Urban,68.6,3.6,0
+Simple random,P06373,18-24,Woman,Midlands,Rural / small town,81.5,4.6,0
+Simple random,P37259,35-44,Man,Scotland/Wales,Urban,64.2,5.3,0
+Simple random,P24795,55-64,Man,Scotland/Wales,Urban,47.1,4.7,0
+Simple random,P22895,18-24,Man,Midlands,Urban,76.0,2.7,0
+Simple random,P00475,35-44,Woman,North,Rural / small town,52.5,3.6,0
+Simple random,P35599,55-64,Woman,Midlands,Urban,54.2,3.7,0
+Simple random,P46227,35-44,Man,Scotland/Wales,Rural / small town,43.9,2.9,0
+Simple random,P46362,18-24,Man,Scotland/Wales,Urban,80.5,4.9,0
+Simple random,P37533,35-44,Woman,Midlands,Urban,72.5,7.5,1
+Simple random,P17945,25-34,Man,South,Urban,80.8,6.0,0
+Simple random,P33483,35-44,Woman,Scotland/Wales,Urban,54.9,4.9,0
+Simple random,P38246,35-44,Woman,South,Rural / small town,51.8,3.6,0
+Simple random,P07694,55-64,Woman,Scotland/Wales,Urban,69.6,2.5,0
+Simple random,P48259,45-54,Woman,Midlands,Urban,66.0,2.8,0
+Simple random,P14729,25-34,Man,Midlands,Rural / small town,64.3,7.6,1
+Simple random,P05558,18-24,Man,London,Urban,86.7,5.5,0
+Simple random,P24733,45-54,Woman,South,Urban,71.2,6.6,0
+Simple random,P11879,45-54,Woman,London,Urban,44.2,4.0,0
+Simple random,P41784,25-34,Man,North,Rural / small town,72.3,5.9,0
+Simple random,P31277,18-24,Man,Midlands,Urban,76.2,5.3,0
+Simple random,P49984,45-54,Woman,North,Urban,64.9,6.3,0
+Simple random,P01198,65-74,Woman,South,Urban,35.5,4.4,0
+Simple random,P01333,55-64,Woman,South,Rural / small town,32.6,1.9,0
+Simple random,P17908,45-54,Man,South,Rural / small town,64.1,5.9,0
+Simple random,P26835,18-24,Woman,North,Urban,99.3,9.9,1
+Simple random,P03768,55-64,Woman,North,Urban,69.2,4.2,0
+Simple random,P34681,55-64,Man,Midlands,Urban,69.4,5.3,0
+Simple random,P41548,25-34,Woman,South,Urban,85.2,6.6,0
+Simple random,P11296,55-64,Woman,Scotland/Wales,Urban,45.0,7.0,1
+Simple random,P08345,55-64,Woman,Scotland/Wales,Urban,67.2,3.9,0
+Simple random,P27080,25-34,Man,South,Rural / small town,63.6,2.1,0
+Simple random,P24865,65-74,Woman,South,Rural / small town,33.3,0.5,0
+Simple random,P03749,18-24,Woman,Midlands,Urban,91.6,7.7,1
+Simple random,P09960,65-74,Woman,North,Rural / small town,24.7,3.3,0
+Simple random,P06197,55-64,Man,North,Rural / small town,13.2,3.0,0
+Simple random,P37148,45-54,Woman,Midlands,Urban,64.5,5.0,0
+Simple random,P00977,25-34,Man,Midlands,Urban,65.8,7.0,1
+Simple random,P48795,25-34,Man,South,Urban,70.4,3.0,0
+Simple random,P08301,25-34,Man,North,Urban,84.8,4.5,0
+Simple random,P23773,55-64,Woman,Midlands,Urban,57.0,4.6,0
+Simple random,P22495,45-54,Man,Midlands,Urban,69.0,3.5,0
+Simple random,P46772,35-44,Man,North,Rural / small town,48.3,3.1,0
+Simple random,P22154,45-54,Man,North,Urban,41.5,1.0,0
+Simple random,P31751,18-24,Man,London,Urban,85.5,7.1,1
+Proportional stratified,P28123,18-24,Woman,London,Urban,66.4,8.1,1
+Proportional stratified,P02457,18-24,Woman,London,Urban,77.9,3.9,0
+Proportional stratified,P02453,18-24,Woman,London,Urban,83.4,5.8,0
+Proportional stratified,P46660,18-24,Man,London,Urban,82.5,5.3,0
+Proportional stratified,P08277,18-24,Man,London,Urban,99.3,5.1,0
+Proportional stratified,P25077,18-24,Man,London,Urban,62.9,5.7,0
+Proportional stratified,P20843,18-24,Man,London,Urban,66.8,6.2,0
+Proportional stratified,P20886,18-24,Man,London,Urban,100.0,4.3,0
+Proportional stratified,P03031,18-24,Woman,London,Urban,83.8,7.8,1
+Proportional stratified,P22016,18-24,Man,London,Rural / small town,98.9,6.8,0
+Proportional stratified,P43799,18-24,Woman,London,Rural / small town,73.0,8.5,1
+Proportional stratified,P18617,18-24,Woman,London,Urban,72.6,4.9,0
+Proportional stratified,P39119,18-24,Woman,London,Urban,85.7,8.1,1
+Proportional stratified,P06411,18-24,Man,Midlands,Urban,93.3,7.2,1
+Proportional stratified,P21399,18-24,Man,Midlands,Urban,100.0,7.1,1
+Proportional stratified,P38525,18-24,Woman,Midlands,Rural / small town,76.5,3.7,0
+Proportional stratified,P09908,18-24,Man,Midlands,Urban,68.5,4.4,0
+Proportional stratified,P35743,18-24,Woman,Midlands,Urban,81.9,5.0,0
+Proportional stratified,P45067,18-24,Woman,Midlands,Rural / small town,64.3,3.1,0
+Proportional stratified,P14182,18-24,Woman,Midlands,Urban,88.1,4.9,0
+Proportional stratified,P25695,18-24,Man,Midlands,Rural / small town,100.0,6.7,0
+Proportional stratified,P40659,18-24,Woman,Midlands,Urban,91.3,8.1,1
+Proportional stratified,P27510,18-24,Woman,Midlands,Rural / small town,73.1,5.3,0
+Proportional stratified,P17072,18-24,Woman,Midlands,Urban,74.7,4.5,0
+Proportional stratified,P43773,18-24,Woman,Midlands,Urban,76.2,6.7,0
+Proportional stratified,P43855,18-24,Woman,Midlands,Urban,71.6,5.2,0
+Proportional stratified,P46596,18-24,Man,Midlands,Urban,79.2,7.3,1
+Proportional stratified,P20852,18-24,Man,Midlands,Rural / small town,46.0,4.8,0
+Proportional stratified,P32770,18-24,Woman,Midlands,Rural / small town,71.8,3.5,0
+Proportional stratified,P44919,18-24,Woman,Midlands,Urban,78.2,7.6,1
+Proportional stratified,P08147,18-24,Man,Midlands,Urban,76.6,2.5,0
+Proportional stratified,P48808,18-24,Woman,Midlands,Urban,64.0,2.3,0
+Proportional stratified,P13788,18-24,Man,Midlands,Urban,92.0,6.2,0
+Proportional stratified,P41690,18-24,Man,North,Urban,71.3,5.0,0
+Proportional stratified,P45668,18-24,Woman,North,Urban,76.9,7.5,1
+Proportional stratified,P03155,18-24,Man,North,Urban,92.7,8.7,1
+Proportional stratified,P46709,18-24,Man,North,Urban,100.0,5.7,0
+Proportional stratified,P30419,18-24,Man,North,Urban,98.5,6.1,0
+Proportional stratified,P11255,18-24,Woman,North,Urban,85.4,4.9,0
+Proportional stratified,P24262,18-24,Woman,North,Urban,70.7,2.5,0
+Proportional stratified,P17651,18-24,Man,North,Urban,88.1,8.4,1
+Proportional stratified,P26115,18-24,Woman,North,Rural / small town,72.4,6.1,0
+Proportional stratified,P24121,18-24,Man,North,Rural / small town,70.5,6.6,0
+Proportional stratified,P05171,18-24,Woman,North,Rural / small town,57.0,4.1,0
+Proportional stratified,P03056,18-24,Man,North,Rural / small town,79.8,7.6,1
+Proportional stratified,P04825,18-24,Man,North,Urban,84.1,5.5,0
+Proportional stratified,P18480,18-24,Woman,North,Urban,100.0,6.5,0
+Proportional stratified,P03540,18-24,Woman,North,Urban,81.3,5.6,0
+Proportional stratified,P32671,18-24,Woman,North,Rural / small town,77.8,3.7,0
+Proportional stratified,P20510,18-24,Man,North,Urban,85.5,5.5,0
+Proportional stratified,P39925,18-24,Woman,North,Urban,83.2,3.3,0
+Proportional stratified,P21683,18-24,Woman,North,Urban,77.7,2.0,0
+Proportional stratified,P00221,18-24,Man,North,Urban,81.7,2.5,0
+Proportional stratified,P14932,18-24,Man,North,Urban,72.9,7.0,1
+Proportional stratified,P05670,18-24,Woman,North,Rural / small town,83.0,3.8,0
+Proportional stratified,P15608,18-24,Woman,North,Rural / small town,99.1,5.6,0
+Proportional stratified,P21943,18-24,Woman,North,Urban,93.9,3.8,0
+Proportional stratified,P49252,18-24,Man,North,Rural / small town,69.1,2.8,0
+Proportional stratified,P44684,18-24,Man,Scotland/Wales,Rural / small town,74.3,7.0,1
+Proportional stratified,P42489,18-24,Man,Scotland/Wales,Rural / small town,86.4,4.7,0
+Proportional stratified,P42161,18-24,Man,Scotland/Wales,Rural / small town,56.0,3.8,0
+Proportional stratified,P02084,18-24,Man,Scotland/Wales,Rural / small town,64.6,4.4,0
+Proportional stratified,P06625,18-24,Man,Scotland/Wales,Rural / small town,88.4,4.7,0
+Proportional stratified,P12930,18-24,Man,Scotland/Wales,Rural / small town,99.6,5.2,0
+Proportional stratified,P21382,18-24,Woman,Scotland/Wales,Rural / small town,80.6,3.6,0
+Proportional stratified,P01536,18-24,Woman,Scotland/Wales,Urban,100.0,4.9,0
+Proportional stratified,P34375,18-24,Man,Scotland/Wales,Urban,71.4,5.8,0
+Proportional stratified,P47586,18-24,Woman,Scotland/Wales,Urban,84.0,3.7,0
+Proportional stratified,P31458,18-24,Woman,Scotland/Wales,Rural / small town,66.7,1.9,0
+Proportional stratified,P40267,18-24,Woman,Scotland/Wales,Urban,83.0,4.3,0
+Proportional stratified,P24668,18-24,Man,Scotland/Wales,Urban,84.5,5.0,0
+Proportional stratified,P47497,18-24,Woman,South,Rural / small town,72.1,3.4,0
+Proportional stratified,P33747,18-24,Man,South,Urban,81.5,4.3,0
+Proportional stratified,P15962,18-24,Man,South,Rural / small town,69.0,3.9,0
+Proportional stratified,P18052,18-24,Woman,South,Urban,62.0,6.3,0
+Proportional stratified,P35239,18-24,Woman,South,Urban,75.3,2.8,0
+Proportional stratified,P47769,18-24,Man,South,Urban,69.3,9.8,1
+Proportional stratified,P29399,18-24,Woman,South,Urban,100.0,7.0,1
+Proportional stratified,P45287,18-24,Woman,South,Urban,78.6,8.9,1
+Proportional stratified,P41400,18-24,Man,South,Urban,89.3,7.1,1
+Proportional stratified,P16884,18-24,Man,South,Urban,100.0,7.7,1
+Proportional stratified,P40154,18-24,Man,South,Urban,81.2,4.0,0
+Proportional stratified,P26013,18-24,Woman,South,Urban,79.5,3.7,0
+Proportional stratified,P29612,18-24,Man,South,Urban,89.9,9.5,1
+Proportional stratified,P13708,18-24,Man,South,Rural / small town,71.1,1.4,0
+Proportional stratified,P46352,18-24,Man,South,Urban,91.5,6.2,0
+Proportional stratified,P24219,18-24,Woman,South,Rural / small town,70.7,6.1,0
+Proportional stratified,P02794,18-24,Man,South,Urban,90.0,8.8,1
+Proportional stratified,P40195,18-24,Woman,South,Urban,76.2,5.3,0
+Proportional stratified,P33902,18-24,Woman,South,Urban,78.9,4.1,0
+Proportional stratified,P47187,18-24,Woman,South,Urban,78.2,4.9,0
+Proportional stratified,P30632,18-24,Woman,South,Urban,99.8,6.3,0
+Proportional stratified,P36447,18-24,Man,South,Urban,100.0,7.8,1
+Proportional stratified,P30176,18-24,Man,South,Rural / small town,76.8,2.7,0
+Proportional stratified,P03226,18-24,Man,South,Rural / small town,82.6,8.2,1
+Proportional stratified,P29650,25-34,Woman,London,Urban,66.5,8.7,1
+Proportional stratified,P47412,25-34,Man,London,Urban,93.6,5.6,0
+Proportional stratified,P39071,25-34,Man,London,Urban,78.1,6.7,0
+Proportional stratified,P05213,25-34,Woman,London,Urban,74.5,4.5,0
+Proportional stratified,P34694,25-34,Man,London,Urban,73.0,6.1,0
+Proportional stratified,P19562,25-34,Woman,London,Urban,100.0,8.4,1
+Proportional stratified,P35123,25-34,Man,London,Urban,71.2,3.7,0
+Proportional stratified,P00174,25-34,Woman,London,Urban,93.6,8.1,1
+Proportional stratified,P32325,25-34,Woman,London,Urban,88.4,7.1,1
+Proportional stratified,P37942,25-34,Man,London,Urban,75.3,8.3,1
+Proportional stratified,P48760,25-34,Man,London,Urban,74.6,5.8,0
+Proportional stratified,P04214,25-34,Man,London,Urban,76.1,8.6,1
+Proportional stratified,P16218,25-34,Man,London,Urban,82.9,7.0,1
+Proportional stratified,P37372,25-34,Man,London,Urban,74.6,6.5,0
+Proportional stratified,P38646,25-34,Man,London,Rural / small town,60.7,6.0,0
+Proportional stratified,P15601,25-34,Woman,London,Urban,84.5,9.7,1
+Proportional stratified,P22883,25-34,Woman,London,Urban,69.2,6.2,0
+Proportional stratified,P13524,25-34,Man,London,Rural / small town,62.2,4.5,0
+Proportional stratified,P01010,25-34,Woman,London,Urban,65.9,7.1,1
+Proportional stratified,P35389,25-34,Woman,London,Urban,86.8,7.2,1
+Proportional stratified,P30398,25-34,Man,London,Urban,62.3,4.3,0
+Proportional stratified,P13488,25-34,Woman,Midlands,Urban,99.2,7.8,1
+Proportional stratified,P18947,25-34,Woman,Midlands,Urban,72.7,5.4,0
+Proportional stratified,P42641,25-34,Woman,Midlands,Urban,82.8,7.2,1
+Proportional stratified,P15139,25-34,Man,Midlands,Rural / small town,60.3,6.0,0
+Proportional stratified,P30876,25-34,Man,Midlands,Urban,81.0,7.1,1
+Proportional stratified,P05677,25-34,Man,Midlands,Urban,93.5,6.0,0
+Proportional stratified,P19567,25-34,Woman,Midlands,Urban,75.9,7.9,1
+Proportional stratified,P29061,25-34,Woman,Midlands,Rural / small town,53.2,3.1,0
+Proportional stratified,P07998,25-34,Man,Midlands,Rural / small town,83.2,7.5,1
+Proportional stratified,P25302,25-34,Woman,Midlands,Rural / small town,59.6,5.8,0
+Proportional stratified,P24999,25-34,Man,Midlands,Urban,82.8,5.8,0
+Proportional stratified,P08209,25-34,Non-binary / other,Midlands,Urban,80.6,6.5,0
+Proportional stratified,P31550,25-34,Woman,Midlands,Rural / small town,58.1,6.9,0
+Proportional stratified,P27949,25-34,Non-binary / other,Midlands,Urban,84.0,8.0,1
+Proportional stratified,P10950,25-34,Woman,Midlands,Rural / small town,76.9,6.9,0
+Proportional stratified,P48455,25-34,Man,Midlands,Urban,88.9,8.5,1
+Proportional stratified,P18619,25-34,Woman,Midlands,Urban,89.6,3.7,0
+Proportional stratified,P42688,25-34,Woman,Midlands,Urban,87.0,7.3,1
+Proportional stratified,P15574,25-34,Woman,Midlands,Rural / small town,64.5,5.3,0
+Proportional stratified,P10686,25-34,Non-binary / other,Midlands,Rural / small town,65.9,4.7,0
+Proportional stratified,P01039,25-34,Woman,Midlands,Rural / small town,57.7,3.9,0
+Proportional stratified,P12496,25-34,Woman,Midlands,Rural / small town,51.1,5.1,0
+Proportional stratified,P46623,25-34,Man,Midlands,Rural / small town,82.9,6.0,0
+Proportional stratified,P11233,25-34,Man,Midlands,Rural / small town,75.0,7.0,1
+Proportional stratified,P13100,25-34,Man,Midlands,Rural / small town,49.7,3.9,0
+Proportional stratified,P03671,25-34,Man,Midlands,Rural / small town,88.5,8.2,1
+Proportional stratified,P39450,25-34,Man,Midlands,Urban,89.0,5.5,0
+Proportional stratified,P05418,25-34,Woman,Midlands,Rural / small town,56.8,6.8,0
+Proportional stratified,P00787,25-34,Man,Midlands,Urban,73.5,6.6,0
+Proportional stratified,P33390,25-34,Man,Midlands,Rural / small town,72.3,4.9,0
+Proportional stratified,P49659,25-34,Woman,Midlands,Urban,79.2,4.9,0
+Proportional stratified,P47030,25-34,Woman,Midlands,Rural / small town,61.2,2.7,0
+Proportional stratified,P38004,25-34,Man,Midlands,Urban,80.6,6.4,0
+Proportional stratified,P05167,25-34,Man,Midlands,Urban,76.3,6.9,0
+Proportional stratified,P00079,25-34,Man,North,Urban,69.9,5.8,0
+Proportional stratified,P32200,25-34,Man,North,Rural / small town,60.6,4.8,0
+Proportional stratified,P11398,25-34,Woman,North,Urban,68.4,7.2,1
+Proportional stratified,P36669,25-34,Woman,North,Urban,100.0,4.0,0
+Proportional stratified,P24285,25-34,Man,North,Urban,67.7,6.7,0
+Proportional stratified,P28102,25-34,Woman,North,Urban,73.2,7.3,1
+Proportional stratified,P25906,25-34,Woman,North,Urban,95.5,7.4,1
+Proportional stratified,P49045,25-34,Woman,North,Urban,77.8,6.5,0
+Proportional stratified,P47790,25-34,Man,North,Rural / small town,54.5,5.8,0
+Proportional stratified,P19580,25-34,Woman,North,Urban,73.2,5.5,0
+Proportional stratified,P41180,25-34,Woman,North,Urban,77.2,8.7,1
+Proportional stratified,P06110,25-34,Man,North,Urban,57.9,7.5,1
+Proportional stratified,P28089,25-34,Man,North,Urban,72.3,4.3,0
+Proportional stratified,P39955,25-34,Man,North,Urban,74.8,7.5,1
+Proportional stratified,P14571,25-34,Woman,North,Urban,65.4,4.9,0
+Proportional stratified,P27463,25-34,Man,North,Urban,91.0,5.7,0
+Proportional stratified,P00430,25-34,Woman,North,Rural / small town,78.8,3.9,0
+Proportional stratified,P36099,25-34,Man,North,Urban,65.2,7.3,1
+Proportional stratified,P14217,25-34,Man,North,Urban,71.8,6.1,0
+Proportional stratified,P04827,25-34,Man,North,Rural / small town,74.4,6.6,0
+Proportional stratified,P17697,25-34,Man,North,Urban,79.7,8.2,1
+Proportional stratified,P37383,25-34,Woman,North,Rural / small town,69.7,5.9,0
+Proportional stratified,P15317,25-34,Man,North,Urban,100.0,8.0,1
+Proportional stratified,P33660,25-34,Man,North,Rural / small town,62.0,5.1,0
+Proportional stratified,P19965,25-34,Woman,North,Rural / small town,56.2,7.0,1
+Proportional stratified,P38435,25-34,Woman,North,Urban,93.5,7.1,1
+Proportional stratified,P25837,25-34,Man,North,Urban,94.9,7.6,1
+Proportional stratified,P46805,25-34,Man,North,Rural / small town,60.0,5.6,0
+Proportional stratified,P33402,25-34,Man,North,Urban,71.9,6.3,0
+Proportional stratified,P35492,25-34,Man,North,Urban,88.3,7.5,1
+Proportional stratified,P23531,25-34,Man,North,Urban,76.2,5.6,0
+Proportional stratified,P05868,25-34,Woman,North,Urban,93.4,7.5,1
+Proportional stratified,P12919,25-34,Woman,North,Urban,76.5,7.4,1
+Proportional stratified,P11440,25-34,Man,North,Urban,80.1,7.9,1
+Proportional stratified,P16286,25-34,Woman,North,Rural / small town,52.6,6.5,0
+Proportional stratified,P48049,25-34,Man,North,Urban,79.9,5.3,0
+Proportional stratified,P47166,25-34,Woman,North,Rural / small town,86.7,5.2,0
+Proportional stratified,P18054,25-34,Man,North,Urban,67.2,5.1,0
+Proportional stratified,P38666,25-34,Man,North,Rural / small town,58.9,6.3,0
+Proportional stratified,P15121,25-34,Man,North,Urban,92.2,5.9,0
+Proportional stratified,P18456,25-34,Woman,North,Urban,65.1,4.3,0
+Proportional stratified,P03766,25-34,Man,North,Rural / small town,76.3,6.5,0
+Proportional stratified,P43604,25-34,Woman,Scotland/Wales,Urban,52.6,6.4,0
+Proportional stratified,P22237,25-34,Woman,Scotland/Wales,Urban,66.5,4.7,0
+Proportional stratified,P43897,25-34,Man,Scotland/Wales,Rural / small town,76.7,2.6,0
+Proportional stratified,P39988,25-34,Man,Scotland/Wales,Rural / small town,79.5,7.8,1
+Proportional stratified,P00931,25-34,Woman,Scotland/Wales,Urban,78.5,5.2,0
+Proportional stratified,P03430,25-34,Woman,Scotland/Wales,Rural / small town,74.3,6.8,0
+Proportional stratified,P09477,25-34,Woman,Scotland/Wales,Urban,90.2,3.4,0
+Proportional stratified,P41086,25-34,Woman,Scotland/Wales,Urban,84.5,4.9,0
+Proportional stratified,P28325,25-34,Man,Scotland/Wales,Rural / small town,63.9,4.8,0
+Proportional stratified,P44188,25-34,Man,Scotland/Wales,Rural / small town,64.4,4.2,0
+Proportional stratified,P10447,25-34,Man,Scotland/Wales,Urban,97.4,7.4,1
+Proportional stratified,P18902,25-34,Man,Scotland/Wales,Rural / small town,81.2,5.4,0
+Proportional stratified,P38167,25-34,Woman,Scotland/Wales,Urban,78.6,7.5,1
+Proportional stratified,P31826,25-34,Woman,Scotland/Wales,Rural / small town,60.3,5.4,0
+Proportional stratified,P35614,25-34,Woman,Scotland/Wales,Urban,82.3,6.5,0
+Proportional stratified,P49010,25-34,Man,Scotland/Wales,Urban,85.9,5.4,0
+Proportional stratified,P36545,25-34,Woman,Scotland/Wales,Urban,91.3,6.3,0
+Proportional stratified,P12801,25-34,Woman,Scotland/Wales,Rural / small town,72.3,6.2,0
+Proportional stratified,P06704,25-34,Man,Scotland/Wales,Urban,82.4,6.5,0
+Proportional stratified,P49740,25-34,Man,Scotland/Wales,Urban,86.0,4.5,0
+Proportional stratified,P34713,25-34,Man,Scotland/Wales,Rural / small town,68.5,4.0,0
+Proportional stratified,P28658,25-34,Man,Scotland/Wales,Urban,83.8,7.0,1
+Proportional stratified,P09416,25-34,Woman,South,Urban,67.7,7.0,1
+Proportional stratified,P36600,25-34,Man,South,Urban,87.7,4.2,0
+Proportional stratified,P31405,25-34,Woman,South,Urban,86.7,6.8,0
+Proportional stratified,P40833,25-34,Man,South,Rural / small town,69.8,3.0,0
+Proportional stratified,P37487,25-34,Man,South,Urban,90.2,5.6,0
+Proportional stratified,P36441,25-34,Man,South,Urban,82.5,8.3,1
+Proportional stratified,P15769,25-34,Man,South,Rural / small town,76.7,4.7,0
+Proportional stratified,P45130,25-34,Man,South,Urban,84.1,6.4,0
+Proportional stratified,P35896,25-34,Woman,South,Rural / small town,93.8,8.1,1
+Proportional stratified,P42525,25-34,Woman,South,Urban,68.3,7.9,1
+Proportional stratified,P17948,25-34,Man,South,Urban,73.2,4.8,0
+Proportional stratified,P20021,25-34,Man,South,Urban,92.2,7.0,1
+Proportional stratified,P03987,25-34,Woman,South,Urban,83.7,7.0,1
+Proportional stratified,P26312,25-34,Man,South,Urban,72.9,7.2,1
+Proportional stratified,P05087,25-34,Man,South,Urban,66.3,5.2,0
+Proportional stratified,P24703,25-34,Man,South,Rural / small town,68.4,4.9,0
+Proportional stratified,P10368,25-34,Woman,South,Urban,69.7,7.2,1
+Proportional stratified,P20900,25-34,Man,South,Urban,83.3,4.1,0
+Proportional stratified,P27056,25-34,Man,South,Rural / small town,77.9,4.6,0
+Proportional stratified,P18514,25-34,Non-binary / other,South,Rural / small town,67.7,4.6,0
+Proportional stratified,P47943,25-34,Woman,South,Urban,92.7,6.6,0
+Proportional stratified,P22602,25-34,Man,South,Urban,88.3,9.2,1
+Proportional stratified,P37257,25-34,Man,South,Urban,78.4,5.5,0
+Proportional stratified,P21470,25-34,Woman,South,Urban,78.5,6.6,0
+Proportional stratified,P28573,25-34,Man,South,Rural / small town,53.6,5.9,0
+Proportional stratified,P49715,25-34,Woman,South,Urban,68.7,6.8,0
+Proportional stratified,P20728,25-34,Woman,South,Urban,97.1,9.6,1
+Proportional stratified,P30959,25-34,Man,South,Rural / small town,68.2,5.9,0
+Proportional stratified,P04270,25-34,Woman,South,Rural / small town,66.0,5.7,0
+Proportional stratified,P01403,25-34,Man,South,Urban,97.4,6.3,0
+Proportional stratified,P17945,25-34,Man,South,Urban,80.8,6.0,0
+Proportional stratified,P20546,25-34,Man,South,Rural / small town,55.7,5.7,0
+Proportional stratified,P07742,25-34,Woman,South,Urban,100.0,7.3,1
+Proportional stratified,P18311,25-34,Woman,South,Urban,94.1,7.8,1
+Proportional stratified,P25542,25-34,Woman,South,Urban,97.8,7.5,1
+Proportional stratified,P38042,25-34,Man,South,Urban,83.1,8.8,1
+Proportional stratified,P15750,25-34,Man,South,Rural / small town,77.3,5.3,0
+Proportional stratified,P44969,25-34,Woman,South,Urban,64.7,6.4,0
+Proportional stratified,P48652,25-34,Man,South,Urban,63.8,8.0,1
+Proportional stratified,P00674,25-34,Woman,South,Urban,63.3,5.9,0
+Proportional stratified,P19892,25-34,Woman,South,Urban,87.3,9.9,1
+Proportional stratified,P33908,35-44,Woman,London,Urban,73.8,10.0,1
+Proportional stratified,P02964,35-44,Woman,London,Urban,81.9,7.0,1
+Proportional stratified,P00268,35-44,Man,London,Urban,66.3,5.1,0
+Proportional stratified,P41922,35-44,Woman,London,Urban,66.8,7.7,1
+Proportional stratified,P29727,35-44,Man,London,Urban,75.1,5.6,0
+Proportional stratified,P45938,35-44,Woman,London,Urban,73.6,6.9,0
+Proportional stratified,P12660,35-44,Man,London,Rural / small town,53.7,4.9,0
+Proportional stratified,P31944,35-44,Man,London,Urban,64.6,6.2,0
+Proportional stratified,P32108,35-44,Man,London,Rural / small town,69.5,5.1,0
+Proportional stratified,P38996,35-44,Woman,London,Urban,90.4,6.5,0
+Proportional stratified,P06233,35-44,Woman,London,Rural / small town,72.9,9.1,1
+Proportional stratified,P44677,35-44,Man,London,Urban,71.2,4.6,0
+Proportional stratified,P41381,35-44,Woman,London,Urban,86.7,6.7,0
+Proportional stratified,P04936,35-44,Man,London,Urban,83.6,4.7,0
+Proportional stratified,P18164,35-44,Woman,London,Urban,71.3,5.7,0
+Proportional stratified,P36296,35-44,Man,London,Urban,75.2,5.8,0
+Proportional stratified,P31734,35-44,Man,London,Urban,56.8,4.1,0
+Proportional stratified,P44678,35-44,Man,London,Urban,80.7,4.9,0
+Proportional stratified,P22148,35-44,Man,London,Urban,90.5,8.5,1
+Proportional stratified,P09456,35-44,Man,London,Urban,67.5,4.9,0
+Proportional stratified,P15476,35-44,Man,Midlands,Urban,56.2,5.3,0
+Proportional stratified,P26863,35-44,Man,Midlands,Rural / small town,64.9,5.9,0
+Proportional stratified,P33389,35-44,Man,Midlands,Rural / small town,49.2,3.6,0
+Proportional stratified,P41536,35-44,Man,Midlands,Rural / small town,65.1,5.8,0
+Proportional stratified,P40566,35-44,Woman,Midlands,Urban,57.5,1.9,0
+Proportional stratified,P41468,35-44,Woman,Midlands,Urban,75.0,4.6,0
+Proportional stratified,P14049,35-44,Woman,Midlands,Urban,64.8,7.3,1
+Proportional stratified,P08192,35-44,Man,Midlands,Rural / small town,59.0,5.0,0
+Proportional stratified,P26600,35-44,Man,Midlands,Urban,78.8,8.3,1
+Proportional stratified,P46004,35-44,Woman,Midlands,Urban,48.7,6.9,0
+Proportional stratified,P49634,35-44,Woman,Midlands,Urban,64.3,5.4,0
+Proportional stratified,P22701,35-44,Man,Midlands,Rural / small town,57.0,5.0,0
+Proportional stratified,P42374,35-44,Woman,Midlands,Urban,77.9,8.7,1
+Proportional stratified,P20195,35-44,Woman,Midlands,Urban,85.0,5.4,0
+Proportional stratified,P36451,35-44,Woman,Midlands,Urban,71.6,4.8,0
+Proportional stratified,P31092,35-44,Woman,Midlands,Urban,59.5,4.0,0
+Proportional stratified,P47425,35-44,Man,Midlands,Rural / small town,69.8,4.8,0
+Proportional stratified,P48640,35-44,Man,Midlands,Urban,60.9,6.4,0
+Proportional stratified,P33895,35-44,Woman,Midlands,Urban,90.3,7.8,1
+Proportional stratified,P40140,35-44,Man,Midlands,Urban,93.8,6.6,0
+Proportional stratified,P26947,35-44,Man,Midlands,Urban,50.1,6.1,0
+Proportional stratified,P24297,35-44,Man,Midlands,Rural / small town,52.4,3.3,0
+Proportional stratified,P49006,35-44,Man,Midlands,Urban,53.5,1.5,0
+Proportional stratified,P09910,35-44,Woman,Midlands,Urban,60.9,7.4,1
+Proportional stratified,P35244,35-44,Man,Midlands,Urban,60.1,6.5,0
+Proportional stratified,P06409,35-44,Man,Midlands,Rural / small town,86.5,6.0,0
+Proportional stratified,P37547,35-44,Man,Midlands,Rural / small town,62.3,4.9,0
+Proportional stratified,P37939,35-44,Man,Midlands,Urban,66.6,4.3,0
+Proportional stratified,P34708,35-44,Woman,Midlands,Urban,62.2,7.9,1
+Proportional stratified,P16660,35-44,Woman,Midlands,Urban,75.8,8.1,1
+Proportional stratified,P00243,35-44,Woman,Midlands,Urban,82.4,6.6,0
+Proportional stratified,P19635,35-44,Woman,Midlands,Urban,80.8,3.6,0
+Proportional stratified,P41878,35-44,Man,Midlands,Urban,97.9,6.4,0
+Proportional stratified,P35410,35-44,Man,North,Rural / small town,63.1,5.6,0
+Proportional stratified,P13330,35-44,Woman,North,Urban,57.7,4.5,0
+Proportional stratified,P26237,35-44,Woman,North,Urban,80.3,5.2,0
+Proportional stratified,P36522,35-44,Man,North,Rural / small town,43.4,3.9,0
+Proportional stratified,P36597,35-44,Man,North,Urban,72.8,2.0,0
+Proportional stratified,P38603,35-44,Man,North,Rural / small town,57.4,3.6,0
+Proportional stratified,P45865,35-44,Man,North,Rural / small town,52.7,2.6,0
+Proportional stratified,P13157,35-44,Woman,North,Urban,70.8,2.7,0
+Proportional stratified,P23730,35-44,Woman,North,Rural / small town,75.2,8.0,1
+Proportional stratified,P11994,35-44,Man,North,Urban,98.8,6.6,0
+Proportional stratified,P03557,35-44,Woman,North,Urban,92.0,2.4,0
+Proportional stratified,P11872,35-44,Man,North,Rural / small town,63.7,4.5,0
+Proportional stratified,P04442,35-44,Man,North,Urban,57.5,5.3,0
+Proportional stratified,P06645,35-44,Woman,North,Urban,97.1,7.9,1
+Proportional stratified,P01045,35-44,Man,North,Rural / small town,79.1,4.5,0
+Proportional stratified,P01019,35-44,Woman,North,Urban,62.6,5.8,0
+Proportional stratified,P39906,35-44,Woman,North,Rural / small town,62.7,4.5,0
+Proportional stratified,P33234,35-44,Man,North,Urban,98.4,4.7,0
+Proportional stratified,P39351,35-44,Woman,North,Urban,71.8,4.2,0
+Proportional stratified,P03258,35-44,Woman,North,Rural / small town,85.8,2.0,0
+Proportional stratified,P21890,35-44,Man,North,Urban,81.4,7.5,1
+Proportional stratified,P49256,35-44,Man,North,Urban,50.8,2.5,0
+Proportional stratified,P11667,35-44,Woman,North,Urban,64.5,3.8,0
+Proportional stratified,P46814,35-44,Man,North,Rural / small town,59.1,5.1,0
+Proportional stratified,P05067,35-44,Man,North,Urban,61.3,7.3,1
+Proportional stratified,P27676,35-44,Man,North,Urban,70.8,6.5,0
+Proportional stratified,P21720,35-44,Man,North,Rural / small town,85.5,6.6,0
+Proportional stratified,P30019,35-44,Man,North,Urban,88.0,7.7,1
+Proportional stratified,P28455,35-44,Woman,North,Rural / small town,65.9,6.3,0
+Proportional stratified,P07272,35-44,Woman,North,Rural / small town,88.1,4.1,0
+Proportional stratified,P03604,35-44,Man,North,Urban,87.5,2.5,0
+Proportional stratified,P14519,35-44,Woman,North,Urban,82.8,5.7,0
+Proportional stratified,P41300,35-44,Woman,North,Urban,77.4,5.5,0
+Proportional stratified,P44794,35-44,Woman,North,Urban,68.6,3.1,0
+Proportional stratified,P19708,35-44,Woman,North,Urban,71.7,6.3,0
+Proportional stratified,P37800,35-44,Man,North,Rural / small town,88.7,5.4,0
+Proportional stratified,P07371,35-44,Woman,North,Rural / small town,43.4,0.9,0
+Proportional stratified,P07477,35-44,Woman,North,Urban,80.8,5.7,0
+Proportional stratified,P29839,35-44,Man,North,Urban,62.3,6.7,0
+Proportional stratified,P41459,35-44,Woman,North,Urban,79.1,4.4,0
+Proportional stratified,P16166,35-44,Woman,Scotland/Wales,Rural / small town,64.4,5.2,0
+Proportional stratified,P29918,35-44,Man,Scotland/Wales,Rural / small town,61.8,9.7,1
+Proportional stratified,P46990,35-44,Man,Scotland/Wales,Urban,78.0,5.3,0
+Proportional stratified,P38976,35-44,Man,Scotland/Wales,Rural / small town,38.1,5.8,0
+Proportional stratified,P02918,35-44,Woman,Scotland/Wales,Urban,95.2,5.7,0
+Proportional stratified,P28635,35-44,Woman,Scotland/Wales,Urban,83.9,4.9,0
+Proportional stratified,P45688,35-44,Woman,Scotland/Wales,Urban,65.4,4.9,0
+Proportional stratified,P33550,35-44,Woman,Scotland/Wales,Urban,55.2,6.2,0
+Proportional stratified,P45514,35-44,Man,Scotland/Wales,Urban,75.8,6.2,0
+Proportional stratified,P09920,35-44,Man,Scotland/Wales,Urban,79.6,7.3,1
+Proportional stratified,P13214,35-44,Man,Scotland/Wales,Urban,56.1,4.0,0
+Proportional stratified,P02250,35-44,Woman,Scotland/Wales,Rural / small town,48.2,6.4,0
+Proportional stratified,P24377,35-44,Man,Scotland/Wales,Urban,72.9,7.4,1
+Proportional stratified,P11371,35-44,Woman,Scotland/Wales,Rural / small town,73.5,3.9,0
+Proportional stratified,P05748,35-44,Woman,Scotland/Wales,Rural / small town,42.6,1.8,0
+Proportional stratified,P26545,35-44,Woman,Scotland/Wales,Urban,78.2,7.1,1
+Proportional stratified,P37948,35-44,Man,Scotland/Wales,Urban,58.0,9.9,1
+Proportional stratified,P06086,35-44,Woman,Scotland/Wales,Rural / small town,70.9,5.2,0
+Proportional stratified,P16284,35-44,Woman,Scotland/Wales,Urban,49.6,4.2,0
+Proportional stratified,P19329,35-44,Man,Scotland/Wales,Rural / small town,66.3,3.5,0
+Proportional stratified,P11593,35-44,Man,Scotland/Wales,Urban,73.7,4.0,0
+Proportional stratified,P24705,35-44,Woman,South,Urban,61.5,6.9,0
+Proportional stratified,P45346,35-44,Woman,South,Rural / small town,63.3,6.7,0
+Proportional stratified,P46649,35-44,Woman,South,Urban,73.7,5.6,0
+Proportional stratified,P49159,35-44,Non-binary / other,South,Urban,68.6,6.7,0
+Proportional stratified,P16524,35-44,Man,South,Rural / small town,54.8,6.8,0
+Proportional stratified,P32980,35-44,Man,South,Rural / small town,62.9,3.4,0
+Proportional stratified,P37319,35-44,Man,South,Urban,76.4,4.6,0
+Proportional stratified,P15034,35-44,Man,South,Urban,70.5,5.4,0
+Proportional stratified,P39431,35-44,Man,South,Urban,72.9,3.2,0
+Proportional stratified,P33137,35-44,Woman,South,Urban,71.4,5.6,0
+Proportional stratified,P04889,35-44,Man,South,Urban,61.4,5.4,0
+Proportional stratified,P18046,35-44,Woman,South,Rural / small town,53.5,4.4,0
+Proportional stratified,P00072,35-44,Woman,South,Rural / small town,74.0,5.0,0
+Proportional stratified,P49291,35-44,Man,South,Urban,92.3,5.1,0
+Proportional stratified,P16377,35-44,Woman,South,Urban,72.3,3.6,0
+Proportional stratified,P41135,35-44,Man,South,Urban,100.0,3.6,0
+Proportional stratified,P07754,35-44,Man,South,Rural / small town,70.4,7.1,1
+Proportional stratified,P19780,35-44,Man,South,Urban,66.6,4.3,0
+Proportional stratified,P49957,35-44,Man,South,Urban,82.5,6.7,0
+Proportional stratified,P14269,35-44,Man,South,Urban,69.9,6.6,0
+Proportional stratified,P17577,35-44,Man,South,Urban,66.2,5.4,0
+Proportional stratified,P15018,35-44,Woman,South,Rural / small town,85.2,5.5,0
+Proportional stratified,P29504,35-44,Man,South,Urban,82.7,6.7,0
+Proportional stratified,P10871,35-44,Man,South,Urban,66.5,9.5,1
+Proportional stratified,P01376,35-44,Woman,South,Urban,70.8,4.8,0
+Proportional stratified,P14137,35-44,Woman,South,Urban,71.4,5.6,0
+Proportional stratified,P22124,35-44,Man,South,Urban,38.9,6.2,0
+Proportional stratified,P01993,35-44,Woman,South,Urban,66.5,7.0,1
+Proportional stratified,P24725,35-44,Woman,South,Urban,75.0,5.2,0
+Proportional stratified,P45781,35-44,Non-binary / other,South,Rural / small town,58.7,8.1,1
+Proportional stratified,P40068,35-44,Man,South,Urban,65.2,5.0,0
+Proportional stratified,P25823,35-44,Man,South,Urban,73.5,6.4,0
+Proportional stratified,P36458,35-44,Man,South,Urban,85.6,4.4,0
+Proportional stratified,P16432,35-44,Man,South,Rural / small town,62.1,6.3,0
+Proportional stratified,P45442,35-44,Man,South,Urban,74.6,5.2,0
+Proportional stratified,P00910,35-44,Woman,South,Rural / small town,64.6,3.8,0
+Proportional stratified,P47891,35-44,Woman,South,Urban,70.3,5.7,0
+Proportional stratified,P21184,35-44,Man,South,Urban,74.7,6.4,0
+Proportional stratified,P40102,35-44,Man,South,Urban,76.5,3.6,0
+Proportional stratified,P43312,45-54,Woman,London,Urban,64.5,5.2,0
+Proportional stratified,P44379,45-54,Man,London,Rural / small town,60.2,3.7,0
+Proportional stratified,P29574,45-54,Woman,London,Urban,56.3,6.3,0
+Proportional stratified,P41514,45-54,Man,London,Urban,68.5,2.1,0
+Proportional stratified,P15110,45-54,Man,London,Urban,83.8,5.7,0
+Proportional stratified,P43703,45-54,Woman,London,Urban,69.1,6.7,0
+Proportional stratified,P23663,45-54,Man,London,Urban,57.4,5.7,0
+Proportional stratified,P22110,45-54,Man,London,Urban,60.2,4.3,0
+Proportional stratified,P23177,45-54,Man,London,Urban,60.0,6.4,0
+Proportional stratified,P20757,45-54,Woman,London,Urban,50.6,3.4,0
+Proportional stratified,P11277,45-54,Man,London,Urban,78.1,7.1,1
+Proportional stratified,P37269,45-54,Woman,London,Urban,68.5,3.7,0
+Proportional stratified,P07494,45-54,Man,London,Rural / small town,44.7,4.6,0
+Proportional stratified,P32323,45-54,Non-binary / other,London,Urban,74.2,5.5,0
+Proportional stratified,P06658,45-54,Man,London,Urban,47.6,4.3,0
+Proportional stratified,P36741,45-54,Man,London,Urban,70.5,10.0,1
+Proportional stratified,P08563,45-54,Woman,London,Urban,74.1,2.5,0
+Proportional stratified,P08187,45-54,Woman,London,Urban,65.3,5.5,0
+Proportional stratified,P38427,45-54,Man,London,Urban,64.0,5.8,0
+Proportional stratified,P27731,45-54,Woman,Midlands,Rural / small town,56.6,3.7,0
+Proportional stratified,P15564,45-54,Woman,Midlands,Rural / small town,60.4,4.6,0
+Proportional stratified,P16138,45-54,Woman,Midlands,Urban,51.7,7.1,1
+Proportional stratified,P28528,45-54,Man,Midlands,Urban,66.2,5.5,0
+Proportional stratified,P12429,45-54,Woman,Midlands,Urban,45.2,3.2,0
+Proportional stratified,P26860,45-54,Woman,Midlands,Rural / small town,42.2,4.7,0
+Proportional stratified,P08604,45-54,Non-binary / other,Midlands,Urban,47.3,2.0,0
+Proportional stratified,P04859,45-54,Woman,Midlands,Urban,59.4,9.0,1
+Proportional stratified,P14809,45-54,Man,Midlands,Urban,45.5,4.3,0
+Proportional stratified,P31653,45-54,Man,Midlands,Rural / small town,54.3,5.2,0
+Proportional stratified,P32366,45-54,Man,Midlands,Rural / small town,49.8,5.4,0
+Proportional stratified,P14212,45-54,Man,Midlands,Urban,54.7,5.4,0
+Proportional stratified,P31865,45-54,Man,Midlands,Urban,58.3,4.5,0
+Proportional stratified,P18804,45-54,Man,Midlands,Urban,67.6,2.2,0
+Proportional stratified,P18034,45-54,Woman,Midlands,Rural / small town,43.2,2.3,0
+Proportional stratified,P24675,45-54,Woman,Midlands,Rural / small town,60.6,6.7,0
+Proportional stratified,P13293,45-54,Man,Midlands,Rural / small town,52.3,7.2,1
+Proportional stratified,P39991,45-54,Man,Midlands,Rural / small town,49.2,4.5,0
+Proportional stratified,P29475,45-54,Man,Midlands,Rural / small town,47.3,4.5,0
+Proportional stratified,P29889,45-54,Man,Midlands,Rural / small town,32.4,2.8,0
+Proportional stratified,P31084,45-54,Woman,Midlands,Urban,90.1,6.5,0
+Proportional stratified,P12303,45-54,Man,Midlands,Urban,69.9,6.4,0
+Proportional stratified,P35408,45-54,Woman,Midlands,Urban,76.8,6.3,0
+Proportional stratified,P13500,45-54,Woman,Midlands,Rural / small town,65.7,4.2,0
+Proportional stratified,P03051,45-54,Woman,Midlands,Urban,85.9,1.8,0
+Proportional stratified,P20849,45-54,Woman,Midlands,Rural / small town,52.3,2.5,0
+Proportional stratified,P29787,45-54,Man,Midlands,Rural / small town,44.9,2.6,0
+Proportional stratified,P29185,45-54,Woman,Midlands,Urban,49.5,4.5,0
+Proportional stratified,P49727,45-54,Non-binary / other,Midlands,Urban,67.2,6.6,0
+Proportional stratified,P24318,45-54,Woman,North,Urban,65.6,6.7,0
+Proportional stratified,P29410,45-54,Man,North,Rural / small town,38.9,2.3,0
+Proportional stratified,P32534,45-54,Man,North,Rural / small town,60.8,5.1,0
+Proportional stratified,P10624,45-54,Woman,North,Urban,61.4,3.9,0
+Proportional stratified,P42889,45-54,Man,North,Rural / small town,54.6,3.6,0
+Proportional stratified,P34074,45-54,Man,North,Urban,57.8,4.4,0
+Proportional stratified,P34284,45-54,Man,North,Rural / small town,56.6,4.2,0
+Proportional stratified,P27884,45-54,Man,North,Rural / small town,57.7,5.6,0
+Proportional stratified,P32049,45-54,Man,North,Urban,74.0,5.0,0
+Proportional stratified,P22873,45-54,Woman,North,Rural / small town,53.6,4.2,0
+Proportional stratified,P37389,45-54,Woman,North,Rural / small town,60.2,5.1,0
+Proportional stratified,P24154,45-54,Woman,North,Urban,79.2,8.1,1
+Proportional stratified,P46042,45-54,Woman,North,Rural / small town,67.8,2.3,0
+Proportional stratified,P45524,45-54,Man,North,Urban,44.3,2.8,0
+Proportional stratified,P17293,45-54,Woman,North,Rural / small town,49.2,3.8,0
+Proportional stratified,P01365,45-54,Woman,North,Rural / small town,53.4,4.1,0
+Proportional stratified,P34171,45-54,Woman,North,Urban,38.7,4.1,0
+Proportional stratified,P36895,45-54,Woman,North,Rural / small town,51.0,0.4,0
+Proportional stratified,P43273,45-54,Woman,North,Rural / small town,89.6,4.6,0
+Proportional stratified,P27816,45-54,Woman,North,Rural / small town,52.7,3.9,0
+Proportional stratified,P25083,45-54,Woman,North,Urban,53.8,4.4,0
+Proportional stratified,P36104,45-54,Woman,North,Urban,75.6,6.9,0
+Proportional stratified,P17530,45-54,Woman,North,Urban,71.0,5.8,0
+Proportional stratified,P03730,45-54,Woman,North,Urban,83.1,5.1,0
+Proportional stratified,P35290,45-54,Woman,North,Urban,69.3,4.9,0
+Proportional stratified,P07202,45-54,Woman,North,Rural / small town,52.8,3.5,0
+Proportional stratified,P27769,45-54,Woman,North,Urban,38.9,3.7,0
+Proportional stratified,P37798,45-54,Man,North,Urban,70.8,6.6,0
+Proportional stratified,P02977,45-54,Woman,North,Urban,57.3,3.0,0
+Proportional stratified,P28009,45-54,Woman,North,Rural / small town,46.0,1.7,0
+Proportional stratified,P03067,45-54,Man,North,Rural / small town,48.0,5.2,0
+Proportional stratified,P01095,45-54,Man,North,Urban,59.5,5.2,0
+Proportional stratified,P37008,45-54,Man,North,Urban,57.4,3.7,0
+Proportional stratified,P39404,45-54,Man,North,Urban,65.7,5.3,0
+Proportional stratified,P49896,45-54,Man,North,Rural / small town,56.5,0.4,0
+Proportional stratified,P47711,45-54,Man,North,Urban,72.3,2.9,0
+Proportional stratified,P00489,45-54,Man,North,Urban,48.0,6.4,0
+Proportional stratified,P01612,45-54,Man,North,Urban,66.9,4.7,0
+Proportional stratified,P48436,45-54,Woman,North,Urban,82.4,5.9,0
+Proportional stratified,P38338,45-54,Woman,Scotland/Wales,Urban,74.4,5.0,0
+Proportional stratified,P03295,45-54,Man,Scotland/Wales,Rural / small town,56.2,3.2,0
+Proportional stratified,P46263,45-54,Woman,Scotland/Wales,Urban,66.7,5.3,0
+Proportional stratified,P26458,45-54,Man,Scotland/Wales,Rural / small town,42.5,4.2,0
+Proportional stratified,P13248,45-54,Woman,Scotland/Wales,Urban,42.4,5.8,0
+Proportional stratified,P10109,45-54,Woman,Scotland/Wales,Urban,63.0,7.0,1
+Proportional stratified,P31137,45-54,Woman,Scotland/Wales,Rural / small town,58.2,4.4,0
+Proportional stratified,P26874,45-54,Woman,Scotland/Wales,Urban,80.3,3.3,0
+Proportional stratified,P26652,45-54,Woman,Scotland/Wales,Urban,67.2,5.1,0
+Proportional stratified,P37708,45-54,Woman,Scotland/Wales,Rural / small town,45.2,5.0,0
+Proportional stratified,P12917,45-54,Man,Scotland/Wales,Urban,41.8,6.2,0
+Proportional stratified,P43526,45-54,Woman,Scotland/Wales,Rural / small town,61.6,2.4,0
+Proportional stratified,P29781,45-54,Man,Scotland/Wales,Urban,92.7,4.6,0
+Proportional stratified,P02709,45-54,Non-binary / other,Scotland/Wales,Urban,71.8,3.6,0
+Proportional stratified,P07834,45-54,Woman,Scotland/Wales,Urban,68.1,3.5,0
+Proportional stratified,P42284,45-54,Man,Scotland/Wales,Urban,70.2,3.1,0
+Proportional stratified,P10179,45-54,Non-binary / other,Scotland/Wales,Urban,56.6,4.4,0
+Proportional stratified,P08501,45-54,Woman,Scotland/Wales,Urban,39.0,6.5,0
+Proportional stratified,P39561,45-54,Woman,Scotland/Wales,Rural / small town,66.2,3.5,0
+Proportional stratified,P00122,45-54,Woman,Scotland/Wales,Rural / small town,64.1,4.6,0
+Proportional stratified,P28341,45-54,Woman,Scotland/Wales,Rural / small town,71.3,5.3,0
+Proportional stratified,P34503,45-54,Woman,South,Rural / small town,48.1,4.0,0
+Proportional stratified,P28501,45-54,Woman,South,Urban,68.0,1.4,0
+Proportional stratified,P22092,45-54,Woman,South,Urban,66.4,4.4,0
+Proportional stratified,P33801,45-54,Man,South,Urban,62.2,6.2,0
+Proportional stratified,P45129,45-54,Woman,South,Rural / small town,62.7,4.5,0
+Proportional stratified,P13778,45-54,Man,South,Urban,47.9,2.4,0
+Proportional stratified,P24369,45-54,Man,South,Urban,44.7,5.1,0
+Proportional stratified,P05605,45-54,Man,South,Urban,68.9,5.3,0
+Proportional stratified,P09880,45-54,Woman,South,Urban,61.8,3.6,0
+Proportional stratified,P28416,45-54,Man,South,Urban,87.0,8.6,1
+Proportional stratified,P13744,45-54,Man,South,Urban,72.4,5.8,0
+Proportional stratified,P38867,45-54,Man,South,Urban,54.9,3.7,0
+Proportional stratified,P18191,45-54,Man,South,Urban,48.3,4.8,0
+Proportional stratified,P06209,45-54,Man,South,Urban,58.4,6.5,0
+Proportional stratified,P34543,45-54,Man,South,Urban,51.2,4.3,0
+Proportional stratified,P40125,45-54,Woman,South,Urban,76.6,6.5,0
+Proportional stratified,P37986,45-54,Woman,South,Urban,78.3,6.0,0
+Proportional stratified,P31473,45-54,Man,South,Urban,72.4,4.3,0
+Proportional stratified,P27910,45-54,Man,South,Rural / small town,60.1,6.1,0
+Proportional stratified,P18729,45-54,Woman,South,Urban,57.5,4.2,0
+Proportional stratified,P36576,45-54,Man,South,Urban,64.0,3.7,0
+Proportional stratified,P18324,45-54,Man,South,Urban,44.5,2.4,0
+Proportional stratified,P36997,45-54,Woman,South,Urban,76.7,3.8,0
+Proportional stratified,P14958,45-54,Man,South,Urban,57.9,6.7,0
+Proportional stratified,P12580,45-54,Woman,South,Urban,71.3,6.5,0
+Proportional stratified,P36250,45-54,Man,South,Rural / small town,49.8,4.1,0
+Proportional stratified,P19045,45-54,Man,South,Urban,75.0,5.0,0
+Proportional stratified,P15128,45-54,Woman,South,Urban,69.2,4.5,0
+Proportional stratified,P17122,45-54,Man,South,Urban,89.8,6.4,0
+Proportional stratified,P20008,45-54,Man,South,Rural / small town,28.5,1.0,0
+Proportional stratified,P15729,45-54,Man,South,Urban,59.7,4.6,0
+Proportional stratified,P30244,45-54,Man,South,Urban,48.9,5.0,0
+Proportional stratified,P34238,45-54,Woman,South,Urban,75.5,5.0,0
+Proportional stratified,P05045,45-54,Woman,South,Urban,52.8,5.2,0
+Proportional stratified,P15820,45-54,Woman,South,Urban,47.0,4.8,0
+Proportional stratified,P12361,45-54,Man,South,Urban,62.5,7.1,1
+Proportional stratified,P18426,55-64,Man,London,Urban,41.6,6.0,0
+Proportional stratified,P41491,55-64,Man,London,Urban,48.2,2.8,0
+Proportional stratified,P18026,55-64,Man,London,Urban,56.5,2.0,0
+Proportional stratified,P17543,55-64,Woman,London,Urban,40.5,3.0,0
+Proportional stratified,P07817,55-64,Woman,London,Urban,49.1,7.2,1
+Proportional stratified,P25252,55-64,Man,London,Urban,47.2,5.3,0
+Proportional stratified,P06334,55-64,Woman,London,Urban,60.6,4.0,0
+Proportional stratified,P04812,55-64,Woman,London,Rural / small town,43.8,2.9,0
+Proportional stratified,P02976,55-64,Man,London,Urban,59.8,2.4,0
+Proportional stratified,P30434,55-64,Woman,London,Urban,46.3,7.2,1
+Proportional stratified,P11239,55-64,Woman,London,Rural / small town,42.7,3.5,0
+Proportional stratified,P23295,55-64,Man,London,Rural / small town,35.7,5.6,0
+Proportional stratified,P39483,55-64,Man,London,Urban,75.1,7.8,1
+Proportional stratified,P27736,55-64,Woman,London,Urban,42.3,2.7,0
+Proportional stratified,P06158,55-64,Woman,London,Urban,54.3,4.3,0
+Proportional stratified,P25531,55-64,Woman,London,Urban,35.0,5.5,0
+Proportional stratified,P18286,55-64,Man,London,Urban,56.4,3.7,0
+Proportional stratified,P26793,55-64,Man,London,Urban,57.2,6.6,0
+Proportional stratified,P39476,55-64,Woman,Midlands,Rural / small town,36.7,2.7,0
+Proportional stratified,P23477,55-64,Man,Midlands,Urban,70.7,3.5,0
+Proportional stratified,P43748,55-64,Woman,Midlands,Urban,34.2,3.3,0
+Proportional stratified,P28254,55-64,Woman,Midlands,Urban,42.4,1.5,0
+Proportional stratified,P43984,55-64,Woman,Midlands,Rural / small town,32.2,1.3,0
+Proportional stratified,P08412,55-64,Man,Midlands,Urban,62.1,5.1,0
+Proportional stratified,P47998,55-64,Woman,Midlands,Urban,68.5,5.3,0
+Proportional stratified,P18665,55-64,Man,Midlands,Urban,65.3,7.0,1
+Proportional stratified,P39292,55-64,Woman,Midlands,Urban,47.6,3.4,0
+Proportional stratified,P24202,55-64,Man,Midlands,Rural / small town,40.2,3.1,0
+Proportional stratified,P11379,55-64,Man,Midlands,Urban,67.9,5.0,0
+Proportional stratified,P08330,55-64,Woman,Midlands,Urban,57.8,5.8,0
+Proportional stratified,P10994,55-64,Man,Midlands,Urban,55.0,4.4,0
+Proportional stratified,P22748,55-64,Woman,Midlands,Urban,56.5,4.5,0
+Proportional stratified,P20236,55-64,Woman,Midlands,Rural / small town,52.3,6.4,0
+Proportional stratified,P12668,55-64,Woman,Midlands,Rural / small town,42.3,5.0,0
+Proportional stratified,P48787,55-64,Woman,Midlands,Urban,58.7,4.2,0
+Proportional stratified,P47306,55-64,Woman,Midlands,Urban,49.4,2.3,0
+Proportional stratified,P36499,55-64,Woman,Midlands,Rural / small town,38.4,4.9,0
+Proportional stratified,P22439,55-64,Man,Midlands,Urban,43.4,5.1,0
+Proportional stratified,P20193,55-64,Woman,Midlands,Urban,35.8,5.7,0
+Proportional stratified,P11806,55-64,Woman,Midlands,Rural / small town,48.0,2.6,0
+Proportional stratified,P40706,55-64,Man,Midlands,Rural / small town,45.3,1.1,0
+Proportional stratified,P10613,55-64,Woman,Midlands,Rural / small town,30.4,1.4,0
+Proportional stratified,P49630,55-64,Woman,Midlands,Rural / small town,29.0,2.5,0
+Proportional stratified,P40982,55-64,Man,Midlands,Urban,52.8,6.7,0
+Proportional stratified,P09393,55-64,Woman,Midlands,Urban,48.9,3.6,0
+Proportional stratified,P48114,55-64,Man,Midlands,Rural / small town,45.0,4.4,0
+Proportional stratified,P29898,55-64,Man,North,Urban,58.8,5.4,0
+Proportional stratified,P33205,55-64,Woman,North,Urban,46.8,1.8,0
+Proportional stratified,P30694,55-64,Woman,North,Urban,63.2,5.3,0
+Proportional stratified,P09129,55-64,Woman,North,Urban,47.3,6.3,0
+Proportional stratified,P40651,55-64,Man,North,Urban,59.8,5.3,0
+Proportional stratified,P11104,55-64,Man,North,Urban,64.8,1.3,0
+Proportional stratified,P46511,55-64,Woman,North,Urban,52.8,1.3,0
+Proportional stratified,P31370,55-64,Woman,North,Urban,64.2,4.7,0
+Proportional stratified,P05271,55-64,Woman,North,Rural / small town,42.6,5.7,0
+Proportional stratified,P48486,55-64,Woman,North,Rural / small town,37.6,2.4,0
+Proportional stratified,P03318,55-64,Man,North,Urban,53.8,5.9,0
+Proportional stratified,P49956,55-64,Woman,North,Urban,42.8,3.0,0
+Proportional stratified,P05620,55-64,Woman,North,Urban,44.7,3.9,0
+Proportional stratified,P11848,55-64,Woman,North,Rural / small town,56.2,2.7,0
+Proportional stratified,P22077,55-64,Woman,North,Urban,55.2,4.5,0
+Proportional stratified,P44791,55-64,Woman,North,Urban,66.9,5.6,0
+Proportional stratified,P03162,55-64,Man,North,Urban,67.7,4.7,0
+Proportional stratified,P49803,55-64,Woman,North,Rural / small town,30.8,4.4,0
+Proportional stratified,P06068,55-64,Man,North,Urban,69.6,3.9,0
+Proportional stratified,P37902,55-64,Non-binary / other,North,Urban,49.9,5.1,0
+Proportional stratified,P46783,55-64,Non-binary / other,North,Urban,54.5,1.4,0
+Proportional stratified,P23084,55-64,Man,North,Urban,52.4,5.6,0
+Proportional stratified,P01842,55-64,Woman,North,Urban,47.2,1.8,0
+Proportional stratified,P48308,55-64,Woman,North,Rural / small town,30.2,1.9,0
+Proportional stratified,P32653,55-64,Woman,North,Urban,49.7,6.1,0
+Proportional stratified,P00100,55-64,Man,North,Rural / small town,48.2,2.6,0
+Proportional stratified,P25753,55-64,Woman,North,Rural / small town,13.0,3.4,0
+Proportional stratified,P14982,55-64,Man,North,Urban,57.6,3.3,0
+Proportional stratified,P09986,55-64,Man,North,Rural / small town,39.3,2.9,0
+Proportional stratified,P13557,55-64,Man,North,Urban,42.9,3.5,0
+Proportional stratified,P13565,55-64,Woman,North,Rural / small town,39.6,2.1,0
+Proportional stratified,P33976,55-64,Man,North,Rural / small town,62.6,3.3,0
+Proportional stratified,P24420,55-64,Man,North,Urban,76.4,5.6,0
+Proportional stratified,P32165,55-64,Man,North,Urban,79.7,4.9,0
+Proportional stratified,P43473,55-64,Woman,North,Urban,70.2,4.5,0
+Proportional stratified,P33805,55-64,Man,North,Rural / small town,45.0,6.3,0
+Proportional stratified,P02537,55-64,Woman,North,Urban,70.0,3.0,0
+Proportional stratified,P24430,55-64,Woman,North,Rural / small town,50.3,6.5,0
+Proportional stratified,P48538,55-64,Woman,Scotland/Wales,Urban,38.4,5.3,0
+Proportional stratified,P06924,55-64,Man,Scotland/Wales,Urban,51.7,5.0,0
+Proportional stratified,P17108,55-64,Man,Scotland/Wales,Rural / small town,47.4,2.5,0
+Proportional stratified,P48079,55-64,Woman,Scotland/Wales,Urban,37.9,4.6,0
+Proportional stratified,P03250,55-64,Woman,Scotland/Wales,Rural / small town,56.8,4.0,0
+Proportional stratified,P34570,55-64,Woman,Scotland/Wales,Urban,50.2,4.1,0
+Proportional stratified,P05010,55-64,Woman,Scotland/Wales,Urban,34.4,3.6,0
+Proportional stratified,P14122,55-64,Man,Scotland/Wales,Urban,46.8,3.4,0
+Proportional stratified,P22282,55-64,Non-binary / other,Scotland/Wales,Urban,55.2,3.3,0
+Proportional stratified,P14219,55-64,Man,Scotland/Wales,Rural / small town,30.7,2.4,0
+Proportional stratified,P34405,55-64,Man,Scotland/Wales,Urban,67.4,3.3,0
+Proportional stratified,P02122,55-64,Woman,Scotland/Wales,Urban,55.4,7.5,1
+Proportional stratified,P47299,55-64,Man,Scotland/Wales,Rural / small town,30.3,2.4,0
+Proportional stratified,P16847,55-64,Woman,Scotland/Wales,Rural / small town,44.4,1.5,0
+Proportional stratified,P48520,55-64,Woman,Scotland/Wales,Urban,56.4,4.0,0
+Proportional stratified,P12093,55-64,Woman,Scotland/Wales,Urban,45.2,4.6,0
+Proportional stratified,P09293,55-64,Woman,Scotland/Wales,Urban,54.3,4.2,0
+Proportional stratified,P09537,55-64,Woman,Scotland/Wales,Rural / small town,28.1,3.2,0
+Proportional stratified,P14322,55-64,Man,Scotland/Wales,Rural / small town,48.6,0.0,0
+Proportional stratified,P45120,55-64,Woman,Scotland/Wales,Rural / small town,30.4,0.8,0
+Proportional stratified,P17365,55-64,Woman,South,Rural / small town,46.1,5.6,0
+Proportional stratified,P00377,55-64,Man,South,Urban,52.0,5.0,0
+Proportional stratified,P33272,55-64,Woman,South,Rural / small town,32.6,0.8,0
+Proportional stratified,P40704,55-64,Woman,South,Urban,51.5,3.1,0
+Proportional stratified,P45211,55-64,Man,South,Urban,77.2,7.7,1
+Proportional stratified,P18685,55-64,Woman,South,Rural / small town,37.7,3.4,0
+Proportional stratified,P21808,55-64,Man,South,Urban,55.2,2.3,0
+Proportional stratified,P35650,55-64,Man,South,Rural / small town,61.1,2.2,0
+Proportional stratified,P09806,55-64,Woman,South,Urban,51.9,4.4,0
+Proportional stratified,P19273,55-64,Man,South,Urban,49.8,3.8,0
+Proportional stratified,P12022,55-64,Man,South,Urban,69.4,5.6,0
+Proportional stratified,P08369,55-64,Man,South,Urban,72.7,1.7,0
+Proportional stratified,P39268,55-64,Woman,South,Urban,38.9,2.0,0
+Proportional stratified,P17634,55-64,Woman,South,Urban,42.0,5.6,0
+Proportional stratified,P28715,55-64,Man,South,Rural / small town,52.4,0.7,0
+Proportional stratified,P12372,55-64,Woman,South,Urban,79.7,4.6,0
+Proportional stratified,P03447,55-64,Woman,South,Urban,65.0,5.0,0
+Proportional stratified,P06740,55-64,Man,South,Rural / small town,37.8,5.3,0
+Proportional stratified,P44132,55-64,Woman,South,Rural / small town,37.6,3.5,0
+Proportional stratified,P20610,55-64,Woman,South,Urban,57.1,6.1,0
+Proportional stratified,P25078,55-64,Man,South,Rural / small town,38.6,2.7,0
+Proportional stratified,P01001,55-64,Man,South,Urban,51.4,3.0,0
+Proportional stratified,P34666,55-64,Woman,South,Urban,50.4,2.3,0
+Proportional stratified,P21592,55-64,Man,South,Urban,45.9,4.2,0
+Proportional stratified,P33850,55-64,Woman,South,Urban,81.5,5.4,0
+Proportional stratified,P44301,55-64,Woman,South,Rural / small town,40.8,1.1,0
+Proportional stratified,P41448,55-64,Man,South,Urban,59.8,4.0,0
+Proportional stratified,P41564,55-64,Man,South,Urban,37.5,4.2,0
+Proportional stratified,P33949,55-64,Woman,South,Urban,58.1,6.8,0
+Proportional stratified,P36756,55-64,Woman,South,Urban,61.4,4.4,0
+Proportional stratified,P14481,55-64,Woman,South,Urban,50.4,3.1,0
+Proportional stratified,P38423,55-64,Woman,South,Urban,40.6,0.3,0
+Proportional stratified,P38070,55-64,Woman,South,Rural / small town,45.3,4.1,0
+Proportional stratified,P09621,55-64,Woman,South,Urban,42.1,1.9,0
+Proportional stratified,P45699,65-74,Woman,London,Urban,39.4,3.7,0
+Proportional stratified,P04495,65-74,Man,London,Urban,39.0,4.8,0
+Proportional stratified,P27271,65-74,Man,London,Urban,42.2,4.8,0
+Proportional stratified,P04584,65-74,Man,London,Urban,45.7,4.3,0
+Proportional stratified,P01503,65-74,Man,London,Urban,37.3,4.4,0
+Proportional stratified,P14690,65-74,Woman,London,Urban,45.3,3.8,0
+Proportional stratified,P49150,65-74,Woman,London,Urban,36.9,2.0,0
+Proportional stratified,P42031,65-74,Man,London,Urban,34.2,2.6,0
+Proportional stratified,P04001,65-74,Woman,London,Rural / small town,31.5,3.5,0
+Proportional stratified,P24375,65-74,Woman,London,Urban,67.6,6.6,0
+Proportional stratified,P07085,65-74,Man,London,Urban,43.9,2.6,0
+Proportional stratified,P02791,65-74,Woman,London,Urban,42.9,4.5,0
+Proportional stratified,P07992,65-74,Man,London,Urban,44.5,5.3,0
+Proportional stratified,P12764,65-74,Man,London,Urban,62.5,4.2,0
+Proportional stratified,P06909,65-74,Woman,Midlands,Urban,62.7,2.0,0
+Proportional stratified,P16571,65-74,Man,Midlands,Urban,56.2,6.3,0
+Proportional stratified,P10882,65-74,Man,Midlands,Rural / small town,10.6,3.5,0
+Proportional stratified,P43152,65-74,Man,Midlands,Urban,41.6,4.8,0
+Proportional stratified,P17121,65-74,Man,Midlands,Urban,34.7,5.0,0
+Proportional stratified,P08860,65-74,Non-binary / other,Midlands,Urban,33.8,4.7,0
+Proportional stratified,P12909,65-74,Man,Midlands,Rural / small town,31.1,3.0,0
+Proportional stratified,P46333,65-74,Woman,Midlands,Rural / small town,40.3,0.9,0
+Proportional stratified,P40196,65-74,Man,Midlands,Rural / small town,30.1,1.5,0
+Proportional stratified,P37142,65-74,Woman,Midlands,Urban,56.5,4.1,0
+Proportional stratified,P24135,65-74,Woman,Midlands,Rural / small town,35.7,1.7,0
+Proportional stratified,P47631,65-74,Man,Midlands,Urban,46.2,3.6,0
+Proportional stratified,P31232,65-74,Man,Midlands,Urban,35.1,5.4,0
+Proportional stratified,P33437,65-74,Woman,Midlands,Rural / small town,25.5,3.6,0
+Proportional stratified,P06208,65-74,Woman,Midlands,Urban,32.1,1.5,0
+Proportional stratified,P02800,65-74,Woman,Midlands,Urban,38.5,4.6,0
+Proportional stratified,P07383,65-74,Woman,Midlands,Rural / small town,32.1,3.0,0
+Proportional stratified,P09180,65-74,Man,Midlands,Urban,66.0,6.1,0
+Proportional stratified,P47958,65-74,Man,Midlands,Urban,62.7,3.2,0
+Proportional stratified,P42282,65-74,Woman,Midlands,Rural / small town,48.3,3.4,0
+Proportional stratified,P24359,65-74,Man,Midlands,Urban,39.6,4.1,0
+Proportional stratified,P13673,65-74,Woman,Midlands,Urban,55.0,0.4,0
+Proportional stratified,P41076,65-74,Woman,Midlands,Urban,34.6,3.4,0
+Proportional stratified,P13027,65-74,Man,North,Rural / small town,50.8,2.6,0
+Proportional stratified,P46728,65-74,Woman,North,Urban,44.8,1.9,0
+Proportional stratified,P43293,65-74,Man,North,Urban,37.3,0.5,0
+Proportional stratified,P20180,65-74,Man,North,Rural / small town,34.5,3.3,0
+Proportional stratified,P47596,65-74,Woman,North,Urban,45.2,2.8,0
+Proportional stratified,P14893,65-74,Man,North,Rural / small town,12.7,0.9,0
+Proportional stratified,P49509,65-74,Non-binary / other,North,Urban,49.6,3.9,0
+Proportional stratified,P36821,65-74,Man,North,Rural / small town,29.6,4.8,0
+Proportional stratified,P33332,65-74,Woman,North,Urban,38.9,0.0,0
+Proportional stratified,P30866,65-74,Man,North,Rural / small town,36.9,1.1,0
+Proportional stratified,P21587,65-74,Man,North,Urban,25.8,3.9,0
+Proportional stratified,P12469,65-74,Man,North,Urban,29.7,2.4,0
+Proportional stratified,P34846,65-74,Woman,North,Urban,40.4,4.3,0
+Proportional stratified,P32269,65-74,Woman,North,Urban,51.4,2.7,0
+Proportional stratified,P19059,65-74,Woman,North,Urban,56.0,4.8,0
+Proportional stratified,P34639,65-74,Woman,North,Urban,45.1,3.4,0
+Proportional stratified,P47179,65-74,Woman,North,Urban,40.3,2.7,0
+Proportional stratified,P22877,65-74,Man,North,Rural / small town,43.2,4.4,0
+Proportional stratified,P26433,65-74,Woman,North,Urban,50.1,4.8,0
+Proportional stratified,P11115,65-74,Man,North,Rural / small town,24.6,3.0,0
+Proportional stratified,P49815,65-74,Man,North,Urban,42.2,4.1,0
+Proportional stratified,P37783,65-74,Woman,North,Rural / small town,34.3,2.3,0
+Proportional stratified,P02435,65-74,Woman,North,Rural / small town,20.0,1.9,0
+Proportional stratified,P00716,65-74,Woman,North,Urban,53.3,5.6,0
+Proportional stratified,P30166,65-74,Woman,North,Urban,37.7,5.9,0
+Proportional stratified,P42004,65-74,Man,North,Urban,56.6,4.7,0
+Proportional stratified,P20095,65-74,Man,North,Urban,58.4,4.5,0
+Proportional stratified,P10279,65-74,Man,North,Urban,47.7,3.2,0
+Proportional stratified,P09139,65-74,Man,North,Rural / small town,35.5,4.0,0
+Proportional stratified,P08616,65-74,Woman,North,Rural / small town,39.7,0.0,0
+Proportional stratified,P29390,65-74,Woman,Scotland/Wales,Urban,37.6,5.1,0
+Proportional stratified,P48450,65-74,Man,Scotland/Wales,Rural / small town,48.3,1.5,0
+Proportional stratified,P13089,65-74,Woman,Scotland/Wales,Rural / small town,23.5,2.8,0
+Proportional stratified,P25152,65-74,Woman,Scotland/Wales,Urban,43.1,6.1,0
+Proportional stratified,P20552,65-74,Man,Scotland/Wales,Rural / small town,39.2,3.0,0
+Proportional stratified,P04438,65-74,Woman,Scotland/Wales,Urban,41.8,2.1,0
+Proportional stratified,P11381,65-74,Man,Scotland/Wales,Urban,32.2,2.1,0
+Proportional stratified,P15382,65-74,Man,Scotland/Wales,Urban,39.2,3.8,0
+Proportional stratified,P23187,65-74,Man,Scotland/Wales,Rural / small town,34.1,0.8,0
+Proportional stratified,P29578,65-74,Woman,Scotland/Wales,Urban,32.5,3.4,0
+Proportional stratified,P06564,65-74,Man,Scotland/Wales,Rural / small town,24.6,0.3,0
+Proportional stratified,P04645,65-74,Woman,Scotland/Wales,Urban,45.1,6.0,0
+Proportional stratified,P05387,65-74,Woman,Scotland/Wales,Urban,65.0,2.8,0
+Proportional stratified,P49489,65-74,Man,Scotland/Wales,Rural / small town,22.5,1.2,0
+Proportional stratified,P40586,65-74,Man,Scotland/Wales,Urban,49.9,1.2,0
+Proportional stratified,P08262,65-74,Woman,South,Urban,35.3,3.9,0
+Proportional stratified,P03567,65-74,Man,South,Urban,60.3,5.7,0
+Proportional stratified,P41091,65-74,Woman,South,Urban,49.3,4.2,0
+Proportional stratified,P44207,65-74,Woman,South,Urban,49.0,2.9,0
+Proportional stratified,P28135,65-74,Man,South,Rural / small town,23.1,4.4,0
+Proportional stratified,P41312,65-74,Man,South,Urban,37.7,0.0,0
+Proportional stratified,P39140,65-74,Woman,South,Urban,58.1,3.7,0
+Proportional stratified,P09847,65-74,Man,South,Rural / small town,8.6,3.2,0
+Proportional stratified,P17276,65-74,Man,South,Rural / small town,17.3,2.8,0
+Proportional stratified,P18924,65-74,Woman,South,Urban,46.7,4.1,0
+Proportional stratified,P30102,65-74,Man,South,Rural / small town,43.0,2.6,0
+Proportional stratified,P00192,65-74,Man,South,Rural / small town,21.1,1.7,0
+Proportional stratified,P23656,65-74,Woman,South,Rural / small town,22.0,3.6,0
+Proportional stratified,P10230,65-74,Man,South,Urban,48.2,3.6,0
+Proportional stratified,P00412,65-74,Man,South,Rural / small town,48.8,2.7,0
+Proportional stratified,P16749,65-74,Man,South,Urban,56.8,0.2,0
+Proportional stratified,P42672,65-74,Man,South,Urban,39.9,1.8,0
+Proportional stratified,P12094,65-74,Woman,South,Urban,46.8,2.2,0
+Proportional stratified,P16448,65-74,Woman,South,Urban,69.3,4.6,0
+Proportional stratified,P32897,65-74,Woman,South,Urban,37.7,1.0,0
+Proportional stratified,P37846,65-74,Man,South,Urban,60.5,4.3,0
+Proportional stratified,P44351,65-74,Woman,South,Urban,30.2,6.2,0
+Proportional stratified,P33459,65-74,Woman,South,Urban,45.1,4.6,0
+Proportional stratified,P18018,65-74,Man,South,Urban,42.0,3.5,0
+Proportional stratified,P31536,65-74,Woman,South,Rural / small town,26.9,3.3,0
+Proportional stratified,P48382,65-74,Man,South,Urban,47.6,5.2,0
+Proportional stratified,P45510,65-74,Man,South,Urban,37.5,4.5,0
+Proportional stratified,P47899,65-74,Woman,South,Rural / small town,24.3,2.4,0
+Quota,P48311,18-24,Man,South,Urban,91.7,2.8,0
+Quota,P18280,18-24,Man,London,Urban,72.2,5.7,0
+Quota,P10532,18-24,Man,London,Rural / small town,80.3,9.3,1
+Quota,P36780,18-24,Man,Midlands,Rural / small town,72.9,8.0,1
+Quota,P44675,18-24,Man,Scotland/Wales,Urban,85.5,8.5,1
+Quota,P01519,18-24,Man,Scotland/Wales,Urban,70.5,5.6,0
+Quota,P27390,18-24,Man,Scotland/Wales,Urban,93.7,8.0,1
+Quota,P34744,18-24,Man,Midlands,Urban,92.2,4.5,0
+Quota,P26417,18-24,Man,North,Urban,95.8,4.2,0
+Quota,P01159,18-24,Man,Midlands,Urban,81.5,8.8,1
+Quota,P22775,18-24,Man,South,Urban,92.9,5.7,0
+Quota,P42167,18-24,Man,South,Urban,89.7,6.5,0
+Quota,P22288,18-24,Man,Midlands,Urban,84.6,9.3,1
+Quota,P08597,18-24,Man,North,Rural / small town,80.7,5.6,0
+Quota,P22055,18-24,Man,South,Urban,98.7,7.8,1
+Quota,P01210,18-24,Man,North,Urban,100.0,5.3,0
+Quota,P05537,18-24,Man,Midlands,Rural / small town,80.2,8.5,1
+Quota,P46767,18-24,Man,North,Urban,74.0,5.4,0
+Quota,P29972,18-24,Man,Midlands,Urban,100.0,4.9,0
+Quota,P27304,18-24,Man,London,Urban,66.9,2.7,0
+Quota,P44335,18-24,Man,Midlands,Urban,69.5,6.6,0
+Quota,P49490,18-24,Man,Midlands,Urban,100.0,5.0,0
+Quota,P30623,18-24,Man,Scotland/Wales,Urban,71.5,5.9,0
+Quota,P33147,18-24,Man,London,Urban,60.8,6.6,0
+Quota,P47782,18-24,Man,Midlands,Urban,91.7,7.2,1
+Quota,P46833,18-24,Man,South,Urban,93.8,8.3,1
+Quota,P12947,18-24,Man,Midlands,Urban,79.1,7.8,1
+Quota,P42320,18-24,Man,South,Urban,83.2,5.3,0
+Quota,P32744,18-24,Man,South,Urban,83.0,6.5,0
+Quota,P30917,18-24,Man,South,Rural / small town,71.8,5.5,0
+Quota,P37114,18-24,Man,South,Urban,87.8,5.0,0
+Quota,P35146,18-24,Man,London,Urban,99.0,8.5,1
+Quota,P41450,18-24,Man,North,Urban,100.0,7.9,1
+Quota,P43626,18-24,Man,North,Urban,76.0,3.8,0
+Quota,P42206,18-24,Man,North,Urban,96.9,7.4,1
+Quota,P37331,18-24,Man,Scotland/Wales,Urban,83.1,4.0,0
+Quota,P44105,18-24,Man,North,Urban,85.9,5.0,0
+Quota,P31088,18-24,Man,North,Urban,85.9,6.5,0
+Quota,P39558,18-24,Man,Midlands,Urban,95.6,2.9,0
+Quota,P18677,18-24,Man,North,Urban,75.0,5.7,0
+Quota,P44812,18-24,Man,South,Urban,98.4,7.8,1
+Quota,P47202,18-24,Man,North,Urban,84.4,5.0,0
+Quota,P04071,18-24,Man,Midlands,Urban,89.6,6.6,0
+Quota,P30726,18-24,Man,Scotland/Wales,Urban,89.5,5.6,0
+Quota,P23983,18-24,Man,South,Urban,77.1,5.1,0
+Quota,P35450,18-24,Man,North,Urban,92.1,6.1,0
+Quota,P49975,18-24,Man,London,Urban,100.0,7.4,1
+Quota,P19925,18-24,Non-binary / other,South,Urban,77.7,4.1,0
+Quota,P37347,18-24,Non-binary / other,South,Urban,70.1,8.5,1
+Quota,P26646,18-24,Woman,Scotland/Wales,Rural / small town,73.0,6.8,0
+Quota,P43330,18-24,Woman,North,Urban,100.0,4.2,0
+Quota,P18745,18-24,Woman,Scotland/Wales,Urban,91.3,8.2,1
+Quota,P06844,18-24,Woman,North,Urban,75.0,4.1,0
+Quota,P13287,18-24,Woman,South,Rural / small town,60.2,4.1,0
+Quota,P12875,18-24,Woman,Scotland/Wales,Rural / small town,75.0,6.8,0
+Quota,P32932,18-24,Woman,London,Urban,99.0,8.7,1
+Quota,P48280,18-24,Woman,South,Urban,74.5,7.4,1
+Quota,P29658,18-24,Woman,North,Urban,97.0,5.2,0
+Quota,P46156,18-24,Woman,Scotland/Wales,Urban,83.0,6.7,0
+Quota,P17620,18-24,Woman,South,Urban,79.3,7.2,1
+Quota,P29678,18-24,Woman,Midlands,Urban,100.0,3.0,0
+Quota,P44062,18-24,Woman,North,Urban,89.5,8.1,1
+Quota,P20816,18-24,Woman,South,Urban,80.7,4.4,0
+Quota,P39579,18-24,Woman,London,Rural / small town,79.7,3.0,0
+Quota,P44131,18-24,Woman,South,Rural / small town,61.7,3.2,0
+Quota,P28651,18-24,Woman,Midlands,Rural / small town,80.1,6.7,0
+Quota,P28735,18-24,Woman,Midlands,Urban,93.3,5.5,0
+Quota,P33334,18-24,Woman,South,Urban,89.8,7.3,1
+Quota,P15092,18-24,Woman,London,Urban,59.6,6.3,0
+Quota,P24605,18-24,Woman,Scotland/Wales,Rural / small town,71.6,6.0,0
+Quota,P43538,18-24,Woman,North,Urban,80.3,5.1,0
+Quota,P28156,18-24,Woman,North,Rural / small town,92.8,6.4,0
+Quota,P08117,18-24,Woman,North,Rural / small town,85.3,2.7,0
+Quota,P32538,18-24,Woman,Midlands,Urban,76.7,6.5,0
+Quota,P45650,18-24,Woman,London,Urban,97.3,4.6,0
+Quota,P48919,18-24,Woman,North,Rural / small town,73.7,7.2,1
+Quota,P25513,18-24,Woman,London,Urban,100.0,3.8,0
+Quota,P23524,18-24,Woman,North,Urban,94.9,8.3,1
+Quota,P04768,18-24,Woman,South,Urban,97.1,6.2,0
+Quota,P49710,18-24,Woman,London,Urban,93.4,5.7,0
+Quota,P48654,18-24,Woman,North,Urban,82.0,4.2,0
+Quota,P45840,18-24,Woman,Midlands,Urban,96.7,6.6,0
+Quota,P14570,18-24,Woman,Midlands,Rural / small town,96.9,6.3,0
+Quota,P28750,18-24,Woman,North,Rural / small town,74.8,3.6,0
+Quota,P08063,18-24,Woman,Midlands,Rural / small town,75.0,5.2,0
+Quota,P31144,18-24,Woman,South,Urban,94.2,4.6,0
+Quota,P47723,18-24,Woman,North,Rural / small town,62.9,4.7,0
+Quota,P38723,18-24,Woman,Scotland/Wales,Urban,89.4,1.7,0
+Quota,P32339,18-24,Woman,Midlands,Rural / small town,79.2,4.2,0
+Quota,P09921,18-24,Woman,London,Urban,75.8,6.6,0
+Quota,P25053,18-24,Woman,South,Urban,87.5,5.3,0
+Quota,P08122,18-24,Woman,North,Urban,100.0,4.1,0
+Quota,P04831,18-24,Woman,Midlands,Urban,91.5,6.1,0
+Quota,P02752,18-24,Woman,South,Urban,97.2,8.5,1
+Quota,P47619,18-24,Woman,North,Urban,81.6,5.3,0
+Quota,P22467,18-24,Woman,Scotland/Wales,Urban,96.5,5.9,0
+Quota,P16759,25-34,Man,South,Rural / small town,86.0,3.7,0
+Quota,P22582,25-34,Man,North,Rural / small town,68.0,6.3,0
+Quota,P28169,25-34,Man,South,Urban,74.6,4.7,0
+Quota,P39653,25-34,Man,Midlands,Urban,80.2,7.1,1
+Quota,P16454,25-34,Man,South,Urban,88.2,6.8,0
+Quota,P39955,25-34,Man,North,Urban,74.8,7.5,1
+Quota,P30876,25-34,Man,Midlands,Urban,81.0,7.1,1
+Quota,P38910,25-34,Man,Midlands,Rural / small town,61.5,5.4,0
+Quota,P08078,25-34,Man,London,Urban,72.7,5.8,0
+Quota,P01374,25-34,Man,London,Urban,87.2,8.6,1
+Quota,P37629,25-34,Man,London,Urban,99.1,10.0,1
+Quota,P22606,25-34,Man,Midlands,Urban,80.2,5.1,0
+Quota,P38865,25-34,Man,Midlands,Rural / small town,78.6,5.0,0
+Quota,P32127,25-34,Man,London,Urban,90.3,8.6,1
+Quota,P02161,25-34,Man,South,Urban,72.0,4.7,0
+Quota,P39393,25-34,Man,Midlands,Urban,79.3,6.1,0
+Quota,P05804,25-34,Man,North,Urban,79.0,5.3,0
+Quota,P31568,25-34,Man,London,Urban,82.9,8.0,1
+Quota,P25315,25-34,Man,North,Urban,83.6,4.8,0
+Quota,P03134,25-34,Man,Scotland/Wales,Rural / small town,56.0,3.6,0
+Quota,P47892,25-34,Man,South,Urban,88.7,5.4,0
+Quota,P39450,25-34,Man,Midlands,Urban,89.0,5.5,0
+Quota,P20592,25-34,Man,London,Urban,97.0,6.9,0
+Quota,P13478,25-34,Man,North,Urban,65.9,3.0,0
+Quota,P40634,25-34,Man,Midlands,Urban,54.9,5.4,0
+Quota,P16955,25-34,Man,South,Urban,56.9,3.0,0
+Quota,P13316,25-34,Man,Scotland/Wales,Rural / small town,77.2,4.5,0
+Quota,P23723,25-34,Man,London,Urban,65.1,6.8,0
+Quota,P17077,25-34,Man,Scotland/Wales,Urban,86.2,2.6,0
+Quota,P38817,25-34,Man,Midlands,Urban,100.0,7.3,1
+Quota,P40423,25-34,Man,South,Urban,94.0,6.5,0
+Quota,P11223,25-34,Man,London,Urban,96.5,7.1,1
+Quota,P39665,25-34,Man,North,Urban,95.0,6.4,0
+Quota,P10631,25-34,Man,South,Rural / small town,52.9,3.0,0
+Quota,P47950,25-34,Man,North,Urban,98.7,6.8,0
+Quota,P02246,25-34,Man,North,Rural / small town,75.3,2.7,0
+Quota,P32704,25-34,Man,South,Rural / small town,62.4,6.0,0
+Quota,P28477,25-34,Man,Midlands,Urban,80.0,5.7,0
+Quota,P15502,25-34,Man,South,Rural / small town,57.7,6.1,0
+Quota,P28816,25-34,Man,Midlands,Urban,90.2,7.2,1
+Quota,P20297,25-34,Man,Scotland/Wales,Rural / small town,63.8,4.8,0
+Quota,P18918,25-34,Man,Scotland/Wales,Urban,92.2,5.0,0
+Quota,P23753,25-34,Man,London,Urban,63.2,8.7,1
+Quota,P07822,25-34,Man,Midlands,Urban,71.2,5.2,0
+Quota,P14252,25-34,Man,South,Urban,96.5,7.1,1
+Quota,P33034,25-34,Man,Midlands,Urban,73.8,7.6,1
+Quota,P21276,25-34,Man,North,Urban,99.4,4.3,0
+Quota,P45928,25-34,Man,Midlands,Urban,99.6,8.2,1
+Quota,P16625,25-34,Man,South,Urban,74.9,7.7,1
+Quota,P15433,25-34,Man,London,Urban,78.9,5.5,0
+Quota,P27619,25-34,Man,London,Urban,61.3,7.4,1
+Quota,P38004,25-34,Man,Midlands,Urban,80.6,6.4,0
+Quota,P20266,25-34,Man,South,Rural / small town,87.2,6.2,0
+Quota,P33196,25-34,Man,Scotland/Wales,Urban,95.2,4.1,0
+Quota,P07630,25-34,Man,Midlands,Urban,69.1,7.8,1
+Quota,P28286,25-34,Man,London,Urban,99.9,6.4,0
+Quota,P32887,25-34,Man,Midlands,Rural / small town,78.2,4.0,0
+Quota,P47920,25-34,Man,Midlands,Rural / small town,84.6,6.9,0
+Quota,P47661,25-34,Man,North,Urban,92.9,7.1,1
+Quota,P24518,25-34,Man,North,Rural / small town,76.4,6.8,0
+Quota,P29379,25-34,Man,South,Urban,100.0,7.6,1
+Quota,P15829,25-34,Man,Midlands,Urban,69.2,5.0,0
+Quota,P12055,25-34,Man,North,Urban,91.2,3.6,0
+Quota,P06184,25-34,Man,North,Urban,94.6,5.9,0
+Quota,P47415,25-34,Man,London,Urban,81.0,7.6,1
+Quota,P04778,25-34,Man,North,Urban,95.6,4.3,0
+Quota,P26624,25-34,Man,Scotland/Wales,Urban,72.4,6.8,0
+Quota,P19770,25-34,Man,Scotland/Wales,Urban,83.3,6.9,0
+Quota,P00222,25-34,Man,Scotland/Wales,Rural / small town,100.0,8.0,1
+Quota,P11929,25-34,Man,North,Rural / small town,53.4,6.6,0
+Quota,P21977,25-34,Man,Midlands,Urban,86.7,7.2,1
+Quota,P19496,25-34,Man,London,Urban,82.1,9.1,1
+Quota,P04996,25-34,Man,North,Urban,87.4,6.8,0
+Quota,P31714,25-34,Man,North,Urban,88.6,7.9,1
+Quota,P29497,25-34,Man,North,Urban,77.6,4.2,0
+Quota,P03968,25-34,Man,South,Urban,72.4,7.1,1
+Quota,P10561,25-34,Non-binary / other,South,Urban,100.0,5.0,0
+Quota,P08209,25-34,Non-binary / other,Midlands,Urban,80.6,6.5,0
+Quota,P15474,25-34,Non-binary / other,South,Urban,84.1,5.4,0
+Quota,P40622,25-34,Woman,South,Urban,89.9,7.7,1
+Quota,P03949,25-34,Woman,Midlands,Urban,88.7,7.5,1
+Quota,P36521,25-34,Woman,North,Urban,79.9,9.7,1
+Quota,P11310,25-34,Woman,North,Urban,67.8,5.3,0
+Quota,P48813,25-34,Woman,Scotland/Wales,Rural / small town,81.6,7.5,1
+Quota,P20613,25-34,Woman,North,Urban,84.0,6.4,0
+Quota,P20310,25-34,Woman,North,Urban,75.6,5.5,0
+Quota,P48635,25-34,Woman,Midlands,Rural / small town,64.8,3.3,0
+Quota,P04930,25-34,Woman,Midlands,Urban,76.9,6.8,0
+Quota,P40497,25-34,Woman,Scotland/Wales,Urban,81.9,3.0,0
+Quota,P41746,25-34,Woman,Midlands,Urban,80.8,5.6,0
+Quota,P26684,25-34,Woman,South,Urban,71.3,5.2,0
+Quota,P10491,25-34,Woman,Midlands,Urban,69.2,3.2,0
+Quota,P09770,25-34,Woman,North,Urban,70.2,5.1,0
+Quota,P25652,25-34,Woman,North,Urban,64.7,8.4,1
+Quota,P48099,25-34,Woman,London,Urban,84.9,4.6,0
+Quota,P45042,25-34,Woman,South,Rural / small town,82.6,9.8,1
+Quota,P01424,25-34,Woman,London,Urban,97.1,6.5,0
+Quota,P22353,25-34,Woman,Midlands,Urban,76.5,2.9,0
+Quota,P31592,25-34,Woman,Scotland/Wales,Urban,84.2,3.6,0
+Quota,P18911,25-34,Woman,London,Urban,56.6,8.6,1
+Quota,P07024,25-34,Woman,North,Urban,75.6,4.7,0
+Quota,P23327,25-34,Woman,North,Urban,76.8,4.5,0
+Quota,P06536,25-34,Woman,South,Urban,74.2,5.7,0
+Quota,P39355,25-34,Woman,London,Urban,79.0,7.1,1
+Quota,P10714,25-34,Woman,London,Urban,88.0,9.0,1
+Quota,P38664,25-34,Woman,Midlands,Urban,88.3,7.0,1
+Quota,P05582,25-34,Woman,North,Urban,87.1,7.0,1
+Quota,P48954,25-34,Woman,Midlands,Rural / small town,59.3,5.3,0
+Quota,P28324,25-34,Woman,Scotland/Wales,Urban,98.4,5.1,0
+Quota,P13819,25-34,Woman,Scotland/Wales,Rural / small town,79.8,7.8,1
+Quota,P22822,25-34,Woman,Scotland/Wales,Urban,73.8,3.6,0
+Quota,P35668,25-34,Woman,South,Urban,78.6,6.3,0
+Quota,P18303,25-34,Woman,South,Urban,79.5,4.7,0
+Quota,P38746,25-34,Woman,South,Rural / small town,78.9,2.8,0
+Quota,P13535,25-34,Woman,North,Urban,74.9,4.0,0
+Quota,P38072,25-34,Woman,London,Urban,87.5,5.3,0
+Quota,P00174,25-34,Woman,London,Urban,93.6,8.1,1
+Quota,P34023,25-34,Woman,Midlands,Rural / small town,68.4,8.2,1
+Quota,P49434,25-34,Woman,Midlands,Urban,90.6,8.7,1
+Quota,P26563,25-34,Woman,South,Urban,82.6,10.0,1
+Quota,P32910,25-34,Woman,Midlands,Urban,97.2,2.4,0
+Quota,P11478,25-34,Woman,South,Urban,84.1,6.8,0
+Quota,P18877,25-34,Woman,Midlands,Urban,90.6,6.5,0
+Quota,P02055,25-34,Woman,South,Urban,100.0,7.2,1
+Quota,P39821,25-34,Woman,North,Urban,92.4,5.5,0
+Quota,P02877,25-34,Woman,Scotland/Wales,Rural / small town,82.2,4.3,0
+Quota,P11538,25-34,Woman,North,Rural / small town,69.4,3.0,0
+Quota,P36492,25-34,Woman,North,Urban,95.8,9.4,1
+Quota,P13422,25-34,Woman,North,Urban,95.9,4.5,0
+Quota,P08975,25-34,Woman,London,Urban,91.0,8.3,1
+Quota,P34332,25-34,Woman,Midlands,Urban,81.5,4.3,0
+Quota,P40186,25-34,Woman,London,Urban,89.8,4.9,0
+Quota,P24220,25-34,Woman,North,Urban,93.2,7.6,1
+Quota,P13068,25-34,Woman,Midlands,Urban,100.0,4.2,0
+Quota,P30386,25-34,Woman,South,Urban,83.1,3.5,0
+Quota,P38507,25-34,Woman,Midlands,Urban,89.2,6.5,0
+Quota,P23736,25-34,Woman,North,Urban,84.5,4.9,0
+Quota,P28085,25-34,Woman,Scotland/Wales,Rural / small town,89.3,8.8,1
+Quota,P36297,25-34,Woman,South,Urban,95.6,7.8,1
+Quota,P00059,25-34,Woman,Midlands,Urban,85.5,6.7,0
+Quota,P09974,25-34,Woman,London,Urban,76.7,7.6,1
+Quota,P10906,25-34,Woman,South,Rural / small town,75.4,5.6,0
+Quota,P19541,25-34,Woman,North,Urban,86.7,6.3,0
+Quota,P31430,25-34,Woman,Midlands,Urban,92.5,4.8,0
+Quota,P16932,25-34,Woman,Midlands,Urban,60.6,9.5,1
+Quota,P47978,25-34,Woman,South,Urban,78.5,6.5,0
+Quota,P34326,25-34,Woman,North,Urban,82.9,4.1,0
+Quota,P28203,25-34,Woman,Midlands,Urban,89.8,6.3,0
+Quota,P35810,25-34,Woman,North,Rural / small town,74.0,4.4,0
+Quota,P23724,25-34,Woman,North,Urban,89.6,6.8,0
+Quota,P09790,25-34,Woman,Midlands,Urban,92.2,6.4,0
+Quota,P42107,25-34,Woman,South,Urban,96.6,7.8,1
+Quota,P44167,25-34,Woman,North,Urban,62.8,4.9,0
+Quota,P17515,25-34,Woman,Midlands,Urban,89.6,6.5,0
+Quota,P31233,25-34,Woman,South,Urban,65.1,8.9,1
+Quota,P09724,25-34,Woman,Midlands,Urban,79.2,5.4,0
+Quota,P34061,25-34,Woman,London,Urban,71.4,7.3,1
+Quota,P49819,25-34,Woman,North,Rural / small town,82.5,7.6,1
+Quota,P24244,25-34,Woman,Midlands,Urban,100.0,6.0,0
+Quota,P41556,35-44,Man,London,Urban,71.6,4.3,0
+Quota,P05518,35-44,Man,North,Urban,88.7,6.2,0
+Quota,P15198,35-44,Man,North,Urban,72.9,4.5,0
+Quota,P27685,35-44,Man,Midlands,Urban,100.0,6.4,0
+Quota,P30615,35-44,Man,North,Urban,96.7,6.3,0
+Quota,P39543,35-44,Man,South,Urban,70.6,7.0,1
+Quota,P35845,35-44,Man,North,Urban,85.3,4.9,0
+Quota,P29229,35-44,Man,South,Urban,83.7,8.8,1
+Quota,P45508,35-44,Man,South,Urban,73.5,7.7,1
+Quota,P43577,35-44,Man,London,Urban,74.8,5.6,0
+Quota,P27122,35-44,Man,Midlands,Rural / small town,68.7,2.9,0
+Quota,P47526,35-44,Man,London,Urban,88.0,6.9,0
+Quota,P14943,35-44,Man,London,Urban,71.0,5.3,0
+Quota,P22133,35-44,Man,London,Urban,70.2,7.0,1
+Quota,P14725,35-44,Man,London,Urban,70.1,9.5,1
+Quota,P09679,35-44,Man,North,Urban,69.2,5.9,0
+Quota,P40026,35-44,Man,Midlands,Urban,89.0,5.8,0
+Quota,P27716,35-44,Man,South,Urban,74.9,6.3,0
+Quota,P37066,35-44,Man,South,Urban,75.7,5.1,0
+Quota,P24618,35-44,Man,South,Urban,84.6,4.4,0
+Quota,P34402,35-44,Man,South,Urban,83.9,10.0,1
+Quota,P26315,35-44,Man,South,Urban,75.0,7.2,1
+Quota,P31373,35-44,Man,Scotland/Wales,Urban,89.2,7.4,1
+Quota,P47502,35-44,Man,North,Urban,80.9,7.5,1
+Quota,P25693,35-44,Man,South,Urban,68.5,5.1,0
+Quota,P35505,35-44,Man,South,Urban,66.8,5.7,0
+Quota,P47022,35-44,Man,North,Urban,70.8,7.8,1
+Quota,P31965,35-44,Man,London,Urban,88.0,7.0,1
+Quota,P41186,35-44,Man,North,Urban,69.5,8.6,1
+Quota,P03709,35-44,Man,Scotland/Wales,Urban,66.0,3.1,0
+Quota,P28817,35-44,Man,Scotland/Wales,Urban,71.9,5.1,0
+Quota,P11754,35-44,Man,London,Rural / small town,57.8,4.9,0
+Quota,P44610,35-44,Man,North,Urban,70.9,4.1,0
+Quota,P36817,35-44,Man,Midlands,Urban,70.9,6.3,0
+Quota,P34799,35-44,Man,South,Urban,100.0,6.0,0
+Quota,P39723,35-44,Man,South,Urban,82.7,7.2,1
+Quota,P43451,35-44,Man,South,Urban,80.7,7.8,1
+Quota,P17270,35-44,Man,North,Urban,62.0,4.3,0
+Quota,P15141,35-44,Man,South,Rural / small town,74.2,8.3,1
+Quota,P41439,35-44,Man,Scotland/Wales,Urban,63.8,7.1,1
+Quota,P49804,35-44,Man,Midlands,Rural / small town,79.2,4.5,0
+Quota,P09233,35-44,Man,North,Rural / small town,56.0,3.3,0
+Quota,P43680,35-44,Man,Midlands,Urban,61.5,5.2,0
+Quota,P22191,35-44,Man,Midlands,Urban,75.0,6.0,0
+Quota,P35216,35-44,Man,Scotland/Wales,Rural / small town,51.6,2.8,0
+Quota,P18037,35-44,Man,North,Urban,81.2,5.4,0
+Quota,P00469,35-44,Man,Scotland/Wales,Urban,78.4,7.6,1
+Quota,P06163,35-44,Man,South,Urban,86.3,4.0,0
+Quota,P35887,35-44,Man,North,Urban,84.3,6.6,0
+Quota,P03633,35-44,Man,Midlands,Urban,79.1,5.6,0
+Quota,P08417,35-44,Man,South,Urban,79.6,5.8,0
+Quota,P35997,35-44,Man,Midlands,Urban,67.7,3.7,0
+Quota,P34747,35-44,Man,South,Urban,75.5,5.6,0
+Quota,P08757,35-44,Man,South,Urban,77.1,4.1,0
+Quota,P10556,35-44,Man,Midlands,Urban,83.0,3.3,0
+Quota,P19587,35-44,Man,Scotland/Wales,Urban,76.5,6.5,0
+Quota,P20589,35-44,Man,Midlands,Urban,69.8,6.3,0
+Quota,P37892,35-44,Man,South,Urban,57.7,4.6,0
+Quota,P21352,35-44,Man,Midlands,Urban,51.3,7.0,1
+Quota,P06776,35-44,Man,South,Urban,60.8,5.9,0
+Quota,P42601,35-44,Man,South,Urban,85.0,7.9,1
+Quota,P25370,35-44,Man,London,Urban,93.9,6.5,0
+Quota,P07369,35-44,Man,South,Rural / small town,66.3,5.6,0
+Quota,P01204,35-44,Man,London,Urban,62.8,5.2,0
+Quota,P31687,35-44,Man,South,Urban,75.8,4.7,0
+Quota,P44215,35-44,Man,London,Urban,81.9,8.4,1
+Quota,P45413,35-44,Man,North,Urban,65.0,3.6,0
+Quota,P46779,35-44,Man,South,Rural / small town,49.1,3.3,0
+Quota,P01069,35-44,Man,North,Rural / small town,88.8,10.0,1
+Quota,P32590,35-44,Man,London,Urban,72.7,5.6,0
+Quota,P35947,35-44,Man,North,Urban,75.5,5.9,0
+Quota,P32183,35-44,Man,Scotland/Wales,Urban,65.1,4.9,0
+Quota,P07741,35-44,Man,South,Urban,85.6,7.8,1
+Quota,P11687,35-44,Non-binary / other,Midlands,Rural / small town,60.8,2.1,0
+Quota,P28033,35-44,Non-binary / other,Midlands,Urban,75.0,5.0,0
+Quota,P47336,35-44,Non-binary / other,Midlands,Rural / small town,51.6,3.1,0
+Quota,P00481,35-44,Woman,London,Urban,60.8,6.7,0
+Quota,P10908,35-44,Woman,North,Urban,77.8,5.3,0
+Quota,P43182,35-44,Woman,North,Urban,88.5,4.4,0
+Quota,P39013,35-44,Woman,South,Urban,85.6,5.5,0
+Quota,P16510,35-44,Woman,North,Urban,91.3,3.7,0
+Quota,P19102,35-44,Woman,London,Urban,83.7,3.4,0
+Quota,P07165,35-44,Woman,North,Urban,69.0,6.4,0
+Quota,P12844,35-44,Woman,Midlands,Rural / small town,59.9,4.1,0
+Quota,P16484,35-44,Woman,Scotland/Wales,Urban,72.5,7.2,1
+Quota,P35524,35-44,Woman,South,Urban,78.8,7.4,1
+Quota,P36217,35-44,Woman,Scotland/Wales,Rural / small town,76.5,3.0,0
+Quota,P35757,35-44,Woman,North,Rural / small town,81.1,6.0,0
+Quota,P36237,35-44,Woman,North,Urban,83.7,4.3,0
+Quota,P25299,35-44,Woman,South,Rural / small town,77.3,6.2,0
+Quota,P31984,35-44,Woman,South,Urban,96.0,6.7,0
+Quota,P32462,35-44,Woman,North,Urban,45.3,4.1,0
+Quota,P21705,35-44,Woman,South,Urban,66.8,4.1,0
+Quota,P14947,35-44,Woman,Scotland/Wales,Urban,79.4,1.6,0
+Quota,P35220,35-44,Woman,London,Urban,50.6,3.1,0
+Quota,P43847,35-44,Woman,South,Urban,59.6,3.2,0
+Quota,P46520,35-44,Woman,North,Urban,66.0,3.9,0
+Quota,P45709,35-44,Woman,South,Urban,84.0,6.5,0
+Quota,P26731,35-44,Woman,South,Rural / small town,47.2,4.3,0
+Quota,P24743,35-44,Woman,London,Urban,71.2,4.9,0
+Quota,P02886,35-44,Woman,North,Urban,74.1,4.6,0
+Quota,P23765,35-44,Woman,Midlands,Urban,82.9,8.9,1
+Quota,P08950,35-44,Woman,Midlands,Rural / small town,58.4,6.2,0
+Quota,P26328,35-44,Woman,North,Urban,80.3,3.4,0
+Quota,P28583,35-44,Woman,Midlands,Rural / small town,73.6,2.7,0
+Quota,P19073,35-44,Woman,South,Rural / small town,64.1,4.9,0
+Quota,P11877,35-44,Woman,South,Urban,69.7,4.7,0
+Quota,P28804,35-44,Woman,South,Urban,60.8,2.9,0
+Quota,P12661,35-44,Woman,Midlands,Urban,74.2,5.5,0
+Quota,P28116,35-44,Woman,South,Urban,100.0,6.0,0
+Quota,P12193,35-44,Woman,Midlands,Urban,71.5,4.9,0
+Quota,P25271,35-44,Woman,North,Urban,68.7,5.0,0
+Quota,P31702,35-44,Woman,Scotland/Wales,Urban,81.1,6.0,0
+Quota,P49354,35-44,Woman,South,Urban,73.6,8.2,1
+Quota,P34701,35-44,Woman,Midlands,Urban,86.9,7.8,1
+Quota,P07156,35-44,Woman,North,Rural / small town,65.6,5.7,0
+Quota,P23669,35-44,Woman,South,Urban,85.4,5.4,0
+Quota,P12693,35-44,Woman,South,Urban,85.5,6.0,0
+Quota,P20158,35-44,Woman,Scotland/Wales,Urban,73.6,4.0,0
+Quota,P09771,35-44,Woman,North,Urban,88.4,5.6,0
+Quota,P14987,35-44,Woman,Midlands,Urban,100.0,5.1,0
+Quota,P10833,35-44,Woman,Midlands,Urban,82.0,7.7,1
+Quota,P02093,35-44,Woman,Midlands,Rural / small town,54.7,5.5,0
+Quota,P15183,35-44,Woman,Scotland/Wales,Urban,60.0,5.1,0
+Quota,P28682,35-44,Woman,South,Rural / small town,38.8,4.3,0
+Quota,P08403,35-44,Woman,North,Urban,72.4,7.1,1
+Quota,P42991,35-44,Woman,London,Urban,55.5,3.4,0
+Quota,P47261,35-44,Woman,Scotland/Wales,Urban,73.8,5.8,0
+Quota,P16961,35-44,Woman,South,Urban,87.0,4.9,0
+Quota,P46231,35-44,Woman,London,Urban,78.6,5.3,0
+Quota,P13450,35-44,Woman,Scotland/Wales,Rural / small town,73.9,4.5,0
+Quota,P00436,35-44,Woman,South,Rural / small town,72.8,5.4,0
+Quota,P26299,35-44,Woman,North,Urban,51.3,4.8,0
+Quota,P06556,35-44,Woman,North,Urban,75.9,3.7,0
+Quota,P25001,35-44,Woman,South,Urban,69.3,5.9,0
+Quota,P41760,35-44,Woman,Midlands,Urban,75.0,3.4,0
+Quota,P45139,35-44,Woman,North,Urban,71.5,7.0,1
+Quota,P02523,35-44,Woman,South,Urban,62.9,6.9,0
+Quota,P31769,35-44,Woman,North,Urban,91.7,5.8,0
+Quota,P20311,35-44,Woman,Scotland/Wales,Urban,68.9,5.7,0
+Quota,P40996,35-44,Woman,South,Rural / small town,57.2,4.7,0
+Quota,P13157,35-44,Woman,North,Urban,70.8,2.7,0
+Quota,P42513,35-44,Woman,North,Rural / small town,67.9,6.3,0
+Quota,P14232,35-44,Woman,South,Urban,62.2,4.6,0
+Quota,P13018,35-44,Woman,London,Rural / small town,46.8,5.3,0
+Quota,P16262,35-44,Woman,North,Urban,71.4,8.0,1
+Quota,P36035,35-44,Woman,South,Urban,71.7,4.9,0
+Quota,P44112,35-44,Woman,London,Urban,87.9,6.8,0
+Quota,P40937,35-44,Woman,Scotland/Wales,Urban,66.8,7.5,1
+Quota,P12443,35-44,Woman,Scotland/Wales,Urban,62.4,5.8,0
+Quota,P33832,35-44,Woman,South,Urban,94.3,7.6,1
+Quota,P23473,35-44,Woman,Midlands,Urban,71.8,4.5,0
+Quota,P04168,35-44,Woman,Midlands,Rural / small town,60.5,5.2,0
+Quota,P38602,45-54,Man,Scotland/Wales,Urban,76.1,5.1,0
+Quota,P28670,45-54,Man,South,Urban,78.3,4.5,0
+Quota,P11495,45-54,Man,Midlands,Urban,62.3,5.0,0
+Quota,P35412,45-54,Man,North,Urban,86.6,3.7,0
+Quota,P44514,45-54,Man,Scotland/Wales,Rural / small town,54.7,2.6,0
+Quota,P20538,45-54,Man,South,Urban,64.0,3.0,0
+Quota,P05908,45-54,Man,South,Urban,49.3,4.6,0
+Quota,P39001,45-54,Man,North,Urban,75.5,4.7,0
+Quota,P44520,45-54,Man,Scotland/Wales,Rural / small town,47.8,4.2,0
+Quota,P48148,45-54,Man,London,Urban,54.2,4.7,0
+Quota,P00669,45-54,Man,London,Urban,58.9,5.5,0
+Quota,P16990,45-54,Man,Midlands,Urban,75.3,7.7,1
+Quota,P40838,45-54,Man,Midlands,Urban,53.6,2.5,0
+Quota,P09636,45-54,Man,North,Urban,39.8,2.9,0
+Quota,P37612,45-54,Man,Scotland/Wales,Urban,80.0,4.9,0
+Quota,P32507,45-54,Man,Scotland/Wales,Urban,68.2,5.5,0
+Quota,P00539,45-54,Man,South,Urban,68.9,5.4,0
+Quota,P33789,45-54,Man,Midlands,Urban,63.3,8.0,1
+Quota,P02073,45-54,Man,Scotland/Wales,Rural / small town,58.7,6.0,0
+Quota,P40174,45-54,Man,North,Urban,71.4,7.3,1
+Quota,P46038,45-54,Man,Midlands,Urban,95.7,6.7,0
+Quota,P24369,45-54,Man,South,Urban,44.7,5.1,0
+Quota,P45602,45-54,Man,South,Rural / small town,59.0,3.2,0
+Quota,P16657,45-54,Man,North,Urban,58.1,6.6,0
+Quota,P32848,45-54,Man,Scotland/Wales,Urban,76.0,9.1,1
+Quota,P11550,45-54,Man,Scotland/Wales,Urban,46.1,3.7,0
+Quota,P30782,45-54,Man,London,Urban,68.3,7.8,1
+Quota,P26072,45-54,Man,Midlands,Rural / small town,51.7,5.7,0
+Quota,P32052,45-54,Man,Midlands,Urban,77.8,6.4,0
+Quota,P26304,45-54,Man,North,Urban,55.1,4.3,0
+Quota,P26881,45-54,Man,North,Urban,66.0,3.7,0
+Quota,P49875,45-54,Man,Midlands,Urban,78.2,5.1,0
+Quota,P14988,45-54,Man,South,Rural / small town,58.1,4.9,0
+Quota,P49518,45-54,Man,North,Urban,66.8,5.3,0
+Quota,P16764,45-54,Man,South,Urban,83.7,1.9,0
+Quota,P39327,45-54,Man,South,Urban,50.1,3.8,0
+Quota,P24442,45-54,Man,Midlands,Urban,62.3,3.2,0
+Quota,P20099,45-54,Man,Midlands,Urban,68.9,1.5,0
+Quota,P39944,45-54,Man,London,Urban,58.7,3.7,0
+Quota,P05673,45-54,Man,North,Rural / small town,51.9,3.4,0
+Quota,P07472,45-54,Man,Scotland/Wales,Urban,61.7,4.1,0
+Quota,P45089,45-54,Man,South,Urban,61.7,8.3,1
+Quota,P34344,45-54,Man,North,Urban,62.9,3.6,0
+Quota,P34181,45-54,Man,North,Urban,59.5,2.2,0
+Quota,P05591,45-54,Man,Scotland/Wales,Urban,67.8,3.5,0
+Quota,P02729,45-54,Man,North,Urban,65.0,4.1,0
+Quota,P00153,45-54,Man,South,Urban,71.0,4.6,0
+Quota,P16898,45-54,Man,London,Rural / small town,43.5,3.9,0
+Quota,P08058,45-54,Man,North,Urban,64.6,5.9,0
+Quota,P03239,45-54,Man,Scotland/Wales,Urban,67.5,7.0,1
+Quota,P20136,45-54,Man,South,Urban,79.6,4.7,0
+Quota,P10850,45-54,Man,North,Urban,60.3,7.2,1
+Quota,P13074,45-54,Man,North,Urban,63.0,4.5,0
+Quota,P36566,45-54,Man,Midlands,Urban,71.1,8.1,1
+Quota,P33588,45-54,Man,South,Urban,57.6,5.5,0
+Quota,P19418,45-54,Man,North,Urban,59.3,4.6,0
+Quota,P41103,45-54,Man,South,Rural / small town,70.4,6.6,0
+Quota,P07387,45-54,Man,North,Urban,36.4,4.8,0
+Quota,P05190,45-54,Man,Scotland/Wales,Urban,77.4,6.8,0
+Quota,P31051,45-54,Man,Midlands,Rural / small town,83.1,4.4,0
+Quota,P13585,45-54,Man,Scotland/Wales,Rural / small town,63.7,2.2,0
+Quota,P21584,45-54,Man,North,Rural / small town,55.1,3.2,0
+Quota,P48021,45-54,Man,South,Urban,74.0,5.7,0
+Quota,P25919,45-54,Man,North,Urban,70.7,6.1,0
+Quota,P29235,45-54,Man,South,Urban,78.3,6.7,0
+Quota,P09031,45-54,Man,South,Urban,69.6,3.9,0
+Quota,P27288,45-54,Man,Scotland/Wales,Urban,75.5,6.6,0
+Quota,P01090,45-54,Man,North,Rural / small town,67.5,6.4,0
+Quota,P30714,45-54,Man,Scotland/Wales,Urban,80.2,7.5,1
+Quota,P01975,45-54,Man,Midlands,Rural / small town,71.4,5.2,0
+Quota,P12611,45-54,Non-binary / other,London,Urban,50.4,3.8,0
+Quota,P42874,45-54,Non-binary / other,London,Urban,52.4,5.8,0
+Quota,P25424,45-54,Non-binary / other,South,Rural / small town,59.7,6.5,0
+Quota,P38847,45-54,Woman,North,Urban,88.9,6.2,0
+Quota,P14199,45-54,Woman,South,Rural / small town,63.7,2.7,0
+Quota,P45261,45-54,Woman,North,Urban,63.0,3.6,0
+Quota,P02265,45-54,Woman,South,Urban,70.0,4.8,0
+Quota,P05725,45-54,Woman,Midlands,Urban,63.4,4.4,0
+Quota,P39217,45-54,Woman,Scotland/Wales,Urban,64.7,2.7,0
+Quota,P42827,45-54,Woman,Scotland/Wales,Urban,72.2,3.8,0
+Quota,P20383,45-54,Woman,Scotland/Wales,Urban,84.5,7.9,1
+Quota,P41155,45-54,Woman,North,Urban,63.5,5.5,0
+Quota,P03568,45-54,Woman,Midlands,Urban,68.3,5.2,0
+Quota,P01298,45-54,Woman,North,Rural / small town,50.6,3.2,0
+Quota,P37376,45-54,Woman,North,Urban,70.7,5.9,0
+Quota,P40832,45-54,Woman,Scotland/Wales,Urban,64.4,7.6,1
+Quota,P43613,45-54,Woman,North,Urban,60.5,6.0,0
+Quota,P36475,45-54,Woman,North,Urban,47.1,4.5,0
+Quota,P11638,45-54,Woman,Midlands,Rural / small town,82.5,3.9,0
+Quota,P49712,45-54,Woman,North,Urban,59.9,5.5,0
+Quota,P36582,45-54,Woman,South,Rural / small town,66.1,5.5,0
+Quota,P42905,45-54,Woman,North,Urban,89.6,5.0,0
+Quota,P24214,45-54,Woman,South,Urban,76.0,5.5,0
+Quota,P11764,45-54,Woman,North,Urban,57.8,3.5,0
+Quota,P46398,45-54,Woman,London,Urban,60.2,3.3,0
+Quota,P22433,45-54,Woman,London,Urban,83.4,6.5,0
+Quota,P09003,45-54,Woman,London,Urban,63.6,6.6,0
+Quota,P40087,45-54,Woman,Midlands,Rural / small town,76.8,5.0,0
+Quota,P14398,45-54,Woman,Midlands,Urban,66.7,7.1,1
+Quota,P25098,45-54,Woman,South,Urban,64.7,4.3,0
+Quota,P36766,45-54,Woman,Scotland/Wales,Urban,56.2,2.7,0
+Quota,P00814,45-54,Woman,South,Rural / small town,54.0,6.0,0
+Quota,P35788,45-54,Woman,North,Urban,57.2,4.4,0
+Quota,P13798,45-54,Woman,Scotland/Wales,Urban,70.4,3.9,0
+Quota,P17827,45-54,Woman,North,Urban,62.2,3.0,0
+Quota,P10520,45-54,Woman,Midlands,Rural / small town,51.6,4.2,0
+Quota,P06788,45-54,Woman,Scotland/Wales,Urban,50.8,5.3,0
+Quota,P48110,45-54,Woman,South,Urban,58.3,5.3,0
+Quota,P16546,45-54,Woman,Midlands,Urban,75.9,3.7,0
+Quota,P43958,45-54,Woman,Midlands,Urban,67.8,6.0,0
+Quota,P29723,45-54,Woman,North,Urban,67.2,3.3,0
+Quota,P12892,45-54,Woman,South,Urban,77.3,-0.0,0
+Quota,P37276,45-54,Woman,Midlands,Rural / small town,74.8,5.7,0
+Quota,P06824,45-54,Woman,South,Urban,73.3,3.9,0
+Quota,P38084,45-54,Woman,North,Rural / small town,64.8,6.5,0
+Quota,P08024,45-54,Woman,London,Urban,68.1,5.5,0
+Quota,P42630,45-54,Woman,North,Urban,72.5,4.3,0
+Quota,P33590,45-54,Woman,Scotland/Wales,Urban,73.6,4.7,0
+Quota,P28346,45-54,Woman,Midlands,Urban,66.2,5.4,0
+Quota,P00353,45-54,Woman,London,Urban,61.4,6.7,0
+Quota,P05243,45-54,Woman,South,Urban,48.9,6.4,0
+Quota,P47953,45-54,Woman,North,Urban,65.7,4.0,0
+Quota,P15031,45-54,Woman,Midlands,Urban,71.4,8.8,1
+Quota,P17666,45-54,Woman,Midlands,Rural / small town,55.3,5.5,0
+Quota,P05839,45-54,Woman,South,Urban,36.3,3.8,0
+Quota,P37535,45-54,Woman,South,Rural / small town,63.2,2.1,0
+Quota,P27277,45-54,Woman,North,Rural / small town,59.4,4.7,0
+Quota,P37177,45-54,Woman,Scotland/Wales,Urban,61.7,6.9,0
+Quota,P21983,45-54,Woman,North,Urban,78.8,3.8,0
+Quota,P49869,45-54,Woman,Midlands,Urban,66.9,1.2,0
+Quota,P45910,45-54,Woman,Midlands,Urban,95.2,5.5,0
+Quota,P37399,45-54,Woman,London,Urban,65.8,5.1,0
+Quota,P42671,45-54,Woman,Midlands,Urban,57.4,3.2,0
+Quota,P18935,45-54,Woman,North,Urban,57.2,3.7,0
+Quota,P12671,45-54,Woman,Midlands,Urban,59.0,5.4,0
+Quota,P31489,45-54,Woman,Midlands,Urban,75.9,2.4,0
+Quota,P39310,45-54,Woman,South,Urban,46.5,4.2,0
+Quota,P23722,45-54,Woman,Scotland/Wales,Urban,62.9,3.5,0
+Quota,P35116,45-54,Woman,Scotland/Wales,Urban,62.9,1.1,0
+Quota,P01085,45-54,Woman,North,Urban,79.2,5.7,0
+Quota,P31643,45-54,Woman,South,Rural / small town,62.0,2.5,0
+Quota,P44862,45-54,Woman,London,Urban,68.4,6.0,0
+Quota,P16322,45-54,Woman,Midlands,Urban,70.0,3.5,0
+Quota,P27974,45-54,Woman,Midlands,Urban,35.8,4.9,0
+Quota,P15275,45-54,Woman,London,Urban,83.1,4.8,0
+Quota,P24413,55-64,Man,Scotland/Wales,Urban,43.6,4.2,0
+Quota,P03767,55-64,Man,Scotland/Wales,Urban,60.4,5.8,0
+Quota,P38604,55-64,Man,Midlands,Urban,81.9,5.4,0
+Quota,P14873,55-64,Man,South,Urban,41.5,4.7,0
+Quota,P25661,55-64,Man,Scotland/Wales,Urban,41.1,5.0,0
+Quota,P21939,55-64,Man,South,Rural / small town,63.9,3.6,0
+Quota,P16701,55-64,Man,South,Urban,51.9,3.9,0
+Quota,P48743,55-64,Man,North,Urban,69.0,4.3,0
+Quota,P39717,55-64,Man,Scotland/Wales,Urban,47.5,2.1,0
+Quota,P25054,55-64,Man,South,Urban,46.9,1.5,0
+Quota,P40124,55-64,Man,South,Urban,51.4,5.0,0
+Quota,P17200,55-64,Man,South,Urban,47.8,3.9,0
+Quota,P03242,55-64,Man,Midlands,Urban,65.2,3.5,0
+Quota,P32612,55-64,Man,South,Urban,44.9,2.6,0
+Quota,P42911,55-64,Man,South,Urban,46.6,6.0,0
+Quota,P37308,55-64,Man,London,Urban,52.8,5.4,0
+Quota,P26762,55-64,Man,London,Urban,74.8,4.6,0
+Quota,P08570,55-64,Man,North,Urban,53.5,1.4,0
+Quota,P11330,55-64,Man,North,Urban,53.4,4.6,0
+Quota,P29413,55-64,Man,Scotland/Wales,Urban,57.4,3.4,0
+Quota,P28054,55-64,Man,South,Urban,29.1,5.8,0
+Quota,P23732,55-64,Man,South,Urban,66.6,3.8,0
+Quota,P19864,55-64,Man,North,Urban,51.3,4.2,0
+Quota,P11460,55-64,Man,Scotland/Wales,Rural / small town,29.4,4.1,0
+Quota,P29486,55-64,Man,London,Urban,50.9,5.0,0
+Quota,P38099,55-64,Man,North,Urban,50.5,7.9,1
+Quota,P16413,55-64,Man,South,Urban,60.0,4.0,0
+Quota,P49874,55-64,Man,South,Urban,55.3,3.2,0
+Quota,P42444,55-64,Man,South,Urban,59.5,6.4,0
+Quota,P00679,55-64,Man,Midlands,Urban,50.4,4.7,0
+Quota,P00048,55-64,Man,South,Urban,61.6,3.5,0
+Quota,P12460,55-64,Man,Scotland/Wales,Urban,54.8,4.8,0
+Quota,P47452,55-64,Man,North,Urban,57.4,5.5,0
+Quota,P39751,55-64,Man,London,Urban,38.4,3.4,0
+Quota,P12829,55-64,Man,London,Urban,48.1,6.2,0
+Quota,P06014,55-64,Man,North,Urban,58.8,1.6,0
+Quota,P49964,55-64,Man,North,Rural / small town,62.1,2.9,0
+Quota,P40314,55-64,Man,Midlands,Urban,73.5,4.5,0
+Quota,P29760,55-64,Man,North,Rural / small town,56.2,5.5,0
+Quota,P18948,55-64,Man,Midlands,Urban,54.0,4.2,0
+Quota,P19158,55-64,Man,North,Urban,78.7,3.8,0
+Quota,P39483,55-64,Man,London,Urban,75.1,7.8,1
+Quota,P11433,55-64,Man,Scotland/Wales,Urban,52.2,4.9,0
+Quota,P34972,55-64,Man,Midlands,Urban,47.6,3.3,0
+Quota,P26925,55-64,Man,North,Urban,79.1,3.5,0
+Quota,P42305,55-64,Man,North,Urban,64.3,2.9,0
+Quota,P29178,55-64,Man,Midlands,Urban,56.7,3.3,0
+Quota,P21179,55-64,Man,North,Urban,31.5,3.9,0
+Quota,P46871,55-64,Man,North,Urban,41.4,5.4,0
+Quota,P19371,55-64,Man,London,Urban,67.7,6.1,0
+Quota,P31762,55-64,Man,North,Rural / small town,48.1,4.4,0
+Quota,P33889,55-64,Man,London,Rural / small town,50.1,2.4,0
+Quota,P13315,55-64,Man,South,Urban,64.3,3.2,0
+Quota,P30390,55-64,Man,South,Urban,54.4,6.3,0
+Quota,P34119,55-64,Man,North,Urban,69.3,1.2,0
+Quota,P29751,55-64,Man,Scotland/Wales,Rural / small town,40.8,3.6,0
+Quota,P14940,55-64,Man,Scotland/Wales,Rural / small town,43.9,2.4,0
+Quota,P21146,55-64,Man,Midlands,Urban,61.9,2.7,0
+Quota,P49505,55-64,Man,South,Urban,59.9,3.4,0
+Quota,P43724,55-64,Man,London,Urban,66.2,3.5,0
+Quota,P12087,55-64,Man,Midlands,Urban,40.1,3.7,0
+Quota,P39487,55-64,Man,South,Urban,65.3,2.8,0
+Quota,P18295,55-64,Man,London,Urban,36.2,3.4,0
+Quota,P13998,55-64,Man,South,Urban,68.6,2.2,0
+Quota,P27628,55-64,Man,North,Urban,35.8,3.6,0
+Quota,P33070,55-64,Man,South,Urban,57.4,5.0,0
+Quota,P45589,55-64,Non-binary / other,Midlands,Urban,38.8,3.3,0
+Quota,P25599,55-64,Non-binary / other,North,Rural / small town,30.3,2.2,0
+Quota,P16305,55-64,Non-binary / other,North,Urban,70.5,3.5,0
+Quota,P36148,55-64,Woman,Midlands,Urban,60.8,3.3,0
+Quota,P04465,55-64,Woman,South,Urban,79.4,5.1,0
+Quota,P34884,55-64,Woman,North,Urban,51.2,5.4,0
+Quota,P26544,55-64,Woman,London,Urban,68.8,7.7,1
+Quota,P46911,55-64,Woman,North,Urban,53.6,3.7,0
+Quota,P39636,55-64,Woman,London,Urban,57.5,3.4,0
+Quota,P39092,55-64,Woman,London,Urban,67.6,6.4,0
+Quota,P45396,55-64,Woman,London,Urban,47.5,3.7,0
+Quota,P00045,55-64,Woman,South,Rural / small town,39.9,3.1,0
+Quota,P30990,55-64,Woman,Scotland/Wales,Urban,49.2,2.4,0
+Quota,P35716,55-64,Woman,London,Urban,62.4,1.5,0
+Quota,P33657,55-64,Woman,South,Rural / small town,49.2,4.3,0
+Quota,P38462,55-64,Woman,London,Urban,48.5,5.8,0
+Quota,P30132,55-64,Woman,Scotland/Wales,Rural / small town,56.0,1.5,0
+Quota,P41999,55-64,Woman,London,Urban,55.4,3.6,0
+Quota,P22599,55-64,Woman,Midlands,Urban,56.6,5.1,0
+Quota,P19753,55-64,Woman,Scotland/Wales,Urban,25.1,3.7,0
+Quota,P18390,55-64,Woman,Scotland/Wales,Urban,63.2,3.7,0
+Quota,P33572,55-64,Woman,South,Rural / small town,39.0,4.0,0
+Quota,P18014,55-64,Woman,London,Urban,41.1,3.0,0
+Quota,P02617,55-64,Woman,North,Urban,73.6,3.5,0
+Quota,P13455,55-64,Woman,London,Urban,53.8,1.8,0
+Quota,P42030,55-64,Woman,South,Urban,60.3,2.0,0
+Quota,P24761,55-64,Woman,Midlands,Urban,72.8,7.0,1
+Quota,P13480,55-64,Woman,Scotland/Wales,Urban,88.4,5.2,0
+Quota,P06081,55-64,Woman,Midlands,Rural / small town,54.9,3.1,0
+Quota,P11107,55-64,Woman,North,Urban,58.5,3.0,0
+Quota,P15449,55-64,Woman,Scotland/Wales,Urban,57.0,4.6,0
+Quota,P18599,55-64,Woman,North,Rural / small town,43.2,3.5,0
+Quota,P49164,55-64,Woman,Midlands,Urban,45.5,3.4,0
+Quota,P03856,55-64,Woman,London,Urban,53.4,3.1,0
+Quota,P40882,55-64,Woman,South,Urban,58.2,3.7,0
+Quota,P20385,55-64,Woman,South,Urban,65.2,5.4,0
+Quota,P13849,55-64,Woman,North,Urban,95.5,3.7,0
+Quota,P41624,55-64,Woman,Scotland/Wales,Urban,49.3,1.8,0
+Quota,P25642,55-64,Woman,South,Urban,73.6,1.1,0
+Quota,P11081,55-64,Woman,North,Urban,69.1,5.5,0
+Quota,P27832,55-64,Woman,London,Urban,68.1,3.7,0
+Quota,P03569,55-64,Woman,South,Urban,74.4,4.6,0
+Quota,P09242,55-64,Woman,South,Urban,38.9,2.9,0
+Quota,P42531,55-64,Woman,North,Urban,68.9,4.0,0
+Quota,P41980,55-64,Woman,London,Urban,43.7,5.2,0
+Quota,P26546,55-64,Woman,London,Urban,44.8,4.2,0
+Quota,P28719,55-64,Woman,South,Urban,58.1,2.2,0
+Quota,P24062,55-64,Woman,Scotland/Wales,Urban,42.4,5.1,0
+Quota,P11745,55-64,Woman,South,Urban,64.2,4.1,0
+Quota,P47150,55-64,Woman,North,Urban,78.9,5.7,0
+Quota,P23026,55-64,Woman,London,Urban,72.9,6.4,0
+Quota,P41869,55-64,Woman,Scotland/Wales,Urban,58.0,3.6,0
+Quota,P24436,55-64,Woman,South,Urban,69.7,5.4,0
+Quota,P48301,55-64,Woman,North,Rural / small town,55.7,2.4,0
+Quota,P02143,55-64,Woman,Scotland/Wales,Rural / small town,28.3,3.1,0
+Quota,P14039,55-64,Woman,North,Rural / small town,60.1,6.4,0
+Quota,P48758,55-64,Woman,South,Urban,57.6,7.4,1
+Quota,P20877,55-64,Woman,North,Urban,43.9,4.0,0
+Quota,P04601,55-64,Woman,North,Urban,60.4,4.0,0
+Quota,P21562,55-64,Woman,North,Urban,35.8,4.3,0
+Quota,P42314,55-64,Woman,Midlands,Urban,69.2,3.8,0
+Quota,P38484,55-64,Woman,Midlands,Urban,57.5,4.5,0
+Quota,P27839,55-64,Woman,South,Rural / small town,56.3,6.1,0
+Quota,P42972,55-64,Woman,South,Urban,34.0,4.8,0
+Quota,P24225,55-64,Woman,Midlands,Urban,55.3,5.3,0
+Quota,P20527,55-64,Woman,North,Urban,40.0,6.4,0
+Quota,P14221,55-64,Woman,Midlands,Urban,45.8,6.0,0
+Quota,P46003,55-64,Woman,North,Urban,40.5,4.7,0
+Quota,P12834,55-64,Woman,Scotland/Wales,Urban,63.0,5.2,0
+Quota,P12067,55-64,Woman,North,Urban,66.4,5.9,0
+Quota,P33091,55-64,Woman,North,Urban,55.0,4.0,0
+Quota,P07758,65-74,Man,North,Urban,54.9,3.3,0
+Quota,P46766,65-74,Man,North,Rural / small town,39.2,0.5,0
+Quota,P47631,65-74,Man,Midlands,Urban,46.2,3.6,0
+Quota,P21130,65-74,Man,Midlands,Urban,58.6,4.5,0
+Quota,P38092,65-74,Man,South,Urban,51.8,0.0,0
+Quota,P31234,65-74,Man,South,Urban,57.2,2.3,0
+Quota,P32959,65-74,Man,South,Rural / small town,56.4,1.9,0
+Quota,P04099,65-74,Man,Midlands,Rural / small town,14.6,2.4,0
+Quota,P28194,65-74,Man,North,Urban,74.0,4.4,0
+Quota,P37440,65-74,Man,North,Rural / small town,44.7,1.0,0
+Quota,P19367,65-74,Man,London,Urban,52.6,3.0,0
+Quota,P18418,65-74,Man,Scotland/Wales,Urban,56.1,6.3,0
+Quota,P34004,65-74,Man,London,Rural / small town,33.7,2.5,0
+Quota,P15894,65-74,Man,North,Urban,53.8,1.9,0
+Quota,P33134,65-74,Man,Midlands,Urban,32.7,2.9,0
+Quota,P48441,65-74,Man,North,Urban,35.9,5.7,0
+Quota,P10695,65-74,Man,North,Urban,54.0,3.8,0
+Quota,P35092,65-74,Man,Midlands,Rural / small town,53.1,4.1,0
+Quota,P33025,65-74,Man,Midlands,Rural / small town,24.0,4.4,0
+Quota,P45533,65-74,Man,Scotland/Wales,Urban,58.7,4.6,0
+Quota,P31095,65-74,Man,London,Urban,32.0,1.7,0
+Quota,P06432,65-74,Man,London,Urban,31.6,5.0,0
+Quota,P12587,65-74,Man,South,Urban,62.9,5.2,0
+Quota,P30300,65-74,Man,Scotland/Wales,Urban,57.6,3.1,0
+Quota,P37250,65-74,Man,Midlands,Urban,56.3,4.3,0
+Quota,P02820,65-74,Man,South,Urban,47.8,4.7,0
+Quota,P35334,65-74,Man,London,Urban,77.3,6.0,0
+Quota,P07475,65-74,Man,Scotland/Wales,Rural / small town,30.6,2.5,0
+Quota,P04556,65-74,Man,London,Urban,65.3,3.8,0
+Quota,P44097,65-74,Man,Scotland/Wales,Urban,56.3,4.0,0
+Quota,P35551,65-74,Man,Midlands,Urban,47.6,4.3,0
+Quota,P05078,65-74,Man,Midlands,Rural / small town,31.4,2.7,0
+Quota,P01669,65-74,Man,Midlands,Rural / small town,44.1,2.5,0
+Quota,P09018,65-74,Man,South,Urban,47.3,6.7,0
+Quota,P27032,65-74,Man,South,Rural / small town,51.6,3.6,0
+Quota,P03802,65-74,Man,South,Rural / small town,33.2,2.3,0
+Quota,P47689,65-74,Man,North,Urban,54.2,-0.0,0
+Quota,P09504,65-74,Man,London,Urban,60.5,3.2,0
+Quota,P14228,65-74,Man,Scotland/Wales,Urban,45.9,1.9,0
+Quota,P05389,65-74,Man,North,Rural / small town,11.3,0.7,0
+Quota,P28944,65-74,Man,North,Urban,21.2,1.4,0
+Quota,P23268,65-74,Man,Midlands,Urban,54.0,3.3,0
+Quota,P13415,65-74,Man,Midlands,Urban,56.0,3.2,0
+Quota,P17899,65-74,Man,South,Urban,31.7,3.2,0
+Quota,P29205,65-74,Man,South,Urban,42.7,3.1,0
+Quota,P05632,65-74,Man,Midlands,Urban,48.9,0.0,0
+Quota,P34940,65-74,Man,South,Rural / small town,33.0,0.7,0
+Quota,P33098,65-74,Man,South,Urban,30.2,0.3,0
+Quota,P24714,65-74,Man,Scotland/Wales,Urban,55.0,4.2,0
+Quota,P03000,65-74,Man,South,Rural / small town,36.3,3.5,0
+Quota,P30302,65-74,Man,North,Urban,42.3,2.6,0
+Quota,P09867,65-74,Man,Midlands,Urban,59.4,2.7,0
+Quota,P09558,65-74,Non-binary / other,North,Urban,31.5,1.0,0
+Quota,P37166,65-74,Non-binary / other,North,Urban,20.9,0.0,0
+Quota,P27400,65-74,Woman,North,Rural / small town,34.4,1.6,0
+Quota,P30360,65-74,Woman,Scotland/Wales,Urban,39.2,3.6,0
+Quota,P33460,65-74,Woman,Scotland/Wales,Urban,35.7,4.9,0
+Quota,P39052,65-74,Woman,South,Urban,48.2,4.4,0
+Quota,P45271,65-74,Woman,North,Urban,53.6,2.6,0
+Quota,P26938,65-74,Woman,Scotland/Wales,Urban,42.8,2.4,0
+Quota,P33311,65-74,Woman,South,Urban,50.8,6.5,0
+Quota,P06442,65-74,Woman,South,Urban,47.3,4.9,0
+Quota,P39812,65-74,Woman,South,Rural / small town,22.1,2.1,0
+Quota,P43677,65-74,Woman,Midlands,Urban,39.5,2.5,0
+Quota,P49286,65-74,Woman,North,Urban,61.2,4.2,0
+Quota,P44532,65-74,Woman,South,Rural / small town,51.5,1.7,0
+Quota,P14967,65-74,Woman,South,Rural / small town,33.5,3.9,0
+Quota,P18171,65-74,Woman,South,Urban,48.4,2.8,0
+Quota,P13884,65-74,Woman,South,Rural / small town,44.2,3.7,0
+Quota,P27829,65-74,Woman,London,Urban,66.3,6.6,0
+Quota,P29618,65-74,Woman,North,Urban,38.8,2.8,0
+Quota,P44208,65-74,Woman,Midlands,Rural / small town,24.6,5.2,0
+Quota,P35550,65-74,Woman,South,Urban,65.7,5.8,0
+Quota,P39387,65-74,Woman,Midlands,Urban,65.0,3.6,0
+Quota,P47840,65-74,Woman,North,Rural / small town,33.0,1.8,0
+Quota,P22279,65-74,Woman,London,Rural / small town,63.9,4.8,0
+Quota,P26285,65-74,Woman,North,Urban,31.9,2.0,0
+Quota,P22267,65-74,Woman,North,Urban,37.2,2.6,0
+Quota,P19023,65-74,Woman,Midlands,Rural / small town,53.1,5.4,0
+Quota,P35789,65-74,Woman,South,Urban,42.4,2.5,0
+Quota,P21223,65-74,Woman,Scotland/Wales,Urban,54.6,1.9,0
+Quota,P45643,65-74,Woman,Scotland/Wales,Rural / small town,20.1,3.6,0
+Quota,P42838,65-74,Woman,London,Urban,48.4,2.5,0
+Quota,P29621,65-74,Woman,South,Urban,34.8,4.2,0
+Quota,P07429,65-74,Woman,North,Urban,40.0,5.7,0
+Quota,P30846,65-74,Woman,South,Urban,44.5,4.1,0
+Quota,P16448,65-74,Woman,South,Urban,69.3,4.6,0
+Quota,P22070,65-74,Woman,Scotland/Wales,Urban,56.3,5.7,0
+Quota,P45614,65-74,Woman,Midlands,Rural / small town,20.3,0.2,0
+Quota,P37255,65-74,Woman,South,Urban,56.8,1.9,0
+Quota,P12037,65-74,Woman,Midlands,Urban,50.9,1.0,0
+Quota,P10786,65-74,Woman,North,Urban,29.1,1.1,0
+Quota,P26108,65-74,Woman,London,Urban,63.5,3.1,0
+Quota,P35345,65-74,Woman,North,Urban,36.4,6.2,0
+Quota,P40057,65-74,Woman,North,Rural / small town,40.3,2.7,0
+Quota,P32727,65-74,Woman,London,Urban,44.7,5.9,0
+Quota,P25119,65-74,Woman,North,Rural / small town,31.6,2.1,0
+Quota,P21336,65-74,Woman,South,Urban,43.7,5.0,0
+Quota,P30060,65-74,Woman,London,Urban,64.9,5.2,0
+Quota,P40450,65-74,Woman,South,Rural / small town,14.7,0.0,0
+Quota,P04246,65-74,Woman,South,Urban,56.2,0.0,0
+Quota,P07113,65-74,Woman,North,Urban,40.0,1.3,0
+Quota,P05029,65-74,Woman,South,Rural / small town,25.4,0.7,0
+Quota,P15047,65-74,Woman,South,Urban,46.1,3.9,0
+Quota,P04829,65-74,Woman,North,Urban,45.3,2.4,0
+Quota,P33911,65-74,Woman,Midlands,Urban,58.5,3.5,0
+Quota,P15258,65-74,Woman,London,Urban,39.4,2.1,0
+Quota,P02919,65-74,Woman,Midlands,Rural / small town,34.1,2.3,0
+Quota,P24747,65-74,Woman,North,Urban,68.4,2.6,0
+Quota,P20564,65-74,Woman,Midlands,Urban,41.6,3.9,0
+Convenience,P38513,25-34,Man,Scotland/Wales,Rural / small town,74.3,5.1,0
+Convenience,P05950,45-54,Man,Scotland/Wales,Urban,64.2,3.6,0
+Convenience,P49361,45-54,Woman,South,Rural / small town,62.4,3.3,0
+Convenience,P13201,45-54,Man,North,Rural / small town,57.9,1.8,0
+Convenience,P46211,45-54,Man,Midlands,Urban,85.3,4.1,0
+Convenience,P16965,45-54,Man,London,Urban,86.9,5.1,0
+Convenience,P24749,35-44,Man,Midlands,Urban,67.2,5.4,0
+Convenience,P49010,25-34,Man,Scotland/Wales,Urban,85.9,5.4,0
+Convenience,P08523,18-24,Woman,North,Rural / small town,86.0,4.6,0
+Convenience,P26305,18-24,Woman,South,Urban,100.0,5.5,0
+Convenience,P09135,35-44,Man,Scotland/Wales,Urban,82.3,3.2,0
+Convenience,P44312,55-64,Man,North,Rural / small town,39.5,4.2,0
+Convenience,P09975,65-74,Woman,Scotland/Wales,Urban,68.0,3.0,0
+Convenience,P29389,18-24,Man,London,Rural / small town,89.8,2.7,0
+Convenience,P46785,25-34,Woman,North,Urban,94.5,6.5,0
+Convenience,P36463,55-64,Woman,South,Urban,66.7,3.5,0
+Convenience,P14235,35-44,Woman,Scotland/Wales,Urban,66.9,0.2,0
+Convenience,P10427,45-54,Man,North,Urban,63.9,4.4,0
+Convenience,P10308,45-54,Man,North,Urban,69.1,3.6,0
+Convenience,P01485,35-44,Man,North,Urban,69.5,7.7,1
+Convenience,P42284,45-54,Man,Scotland/Wales,Urban,70.2,3.1,0
+Convenience,P35911,45-54,Woman,North,Urban,60.7,2.5,0
+Convenience,P18941,55-64,Man,North,Urban,65.3,6.5,0
+Convenience,P41387,45-54,Woman,Midlands,Urban,73.8,3.8,0
+Convenience,P19567,25-34,Woman,Midlands,Urban,75.9,7.9,1
+Convenience,P43946,45-54,Woman,London,Urban,100.0,6.1,0
+Convenience,P06201,45-54,Man,London,Urban,62.2,3.2,0
+Convenience,P23845,25-34,Man,South,Urban,85.9,5.1,0
+Convenience,P36798,18-24,Woman,North,Rural / small town,74.9,4.0,0
+Convenience,P38040,25-34,Man,North,Urban,85.5,3.3,0
+Convenience,P34344,45-54,Man,North,Urban,62.9,3.6,0
+Convenience,P31991,18-24,Woman,North,Rural / small town,71.3,4.9,0
+Convenience,P22694,45-54,Man,South,Urban,88.9,9.0,1
+Convenience,P47413,55-64,Man,North,Urban,55.3,3.6,0
+Convenience,P17934,25-34,Man,South,Urban,93.2,3.7,0
+Convenience,P26946,18-24,Woman,London,Urban,95.5,6.0,0
+Convenience,P36924,35-44,Woman,Scotland/Wales,Urban,75.3,6.1,0
+Convenience,P45183,25-34,Woman,Midlands,Urban,74.6,8.4,1
+Convenience,P02556,25-34,Non-binary / other,South,Urban,94.2,5.2,0
+Convenience,P48194,65-74,Woman,London,Urban,57.8,7.5,1
+Convenience,P43327,18-24,Man,North,Rural / small town,75.1,4.1,0
+Convenience,P47714,35-44,Woman,North,Urban,93.3,7.6,1
+Convenience,P13626,45-54,Man,Scotland/Wales,Rural / small town,52.3,3.8,0
+Convenience,P45349,65-74,Woman,North,Urban,58.9,2.9,0
+Convenience,P16359,35-44,Man,Scotland/Wales,Rural / small town,62.3,4.6,0
+Convenience,P12970,18-24,Woman,North,Rural / small town,76.3,2.4,0
+Convenience,P41537,45-54,Man,North,Urban,71.9,4.3,0
+Convenience,P49471,35-44,Man,South,Urban,60.6,6.4,0
+Convenience,P47958,65-74,Man,Midlands,Urban,62.7,3.2,0
+Convenience,P08689,45-54,Woman,Scotland/Wales,Urban,71.7,3.8,0
+Convenience,P31462,25-34,Man,South,Urban,100.0,5.6,0
+Convenience,P21598,55-64,Woman,North,Urban,48.7,4.0,0
+Convenience,P49437,45-54,Man,North,Urban,69.7,5.1,0
+Convenience,P26405,25-34,Woman,Midlands,Urban,82.2,6.9,0
+Convenience,P49212,18-24,Man,London,Urban,89.0,6.9,0
+Convenience,P35244,35-44,Man,Midlands,Urban,60.1,6.5,0
+Convenience,P37071,55-64,Woman,South,Urban,46.0,5.2,0
+Convenience,P38706,25-34,Woman,Scotland/Wales,Urban,82.5,5.8,0
+Convenience,P14871,25-34,Man,North,Urban,73.5,4.7,0
+Convenience,P40934,25-34,Woman,Midlands,Urban,60.1,8.3,1
+Convenience,P32139,18-24,Man,London,Urban,96.2,5.6,0
+Convenience,P19832,18-24,Man,North,Urban,52.4,4.4,0
+Convenience,P42997,35-44,Man,North,Urban,59.8,5.1,0
+Convenience,P46100,18-24,Man,South,Urban,100.0,9.2,1
+Convenience,P28274,25-34,Woman,North,Urban,86.8,7.2,1
+Convenience,P19127,18-24,Man,Midlands,Urban,100.0,4.8,0
+Convenience,P43261,55-64,Woman,North,Urban,61.7,5.3,0
+Convenience,P03195,45-54,Woman,London,Urban,47.0,5.4,0
+Convenience,P39034,35-44,Woman,North,Rural / small town,60.5,3.1,0
+Convenience,P23070,25-34,Woman,South,Urban,93.2,8.0,1
+Convenience,P29750,18-24,Man,North,Rural / small town,89.3,5.0,0
+Convenience,P12247,45-54,Man,South,Urban,74.0,2.8,0
+Convenience,P40113,25-34,Non-binary / other,Midlands,Urban,81.2,6.4,0
+Convenience,P30900,45-54,Man,North,Urban,69.3,4.5,0
+Convenience,P12297,45-54,Man,London,Rural / small town,61.5,6.5,0
+Convenience,P37958,35-44,Man,South,Urban,73.6,4.6,0
+Convenience,P35204,35-44,Man,South,Urban,72.3,7.3,1
+Convenience,P48321,25-34,Woman,Midlands,Urban,64.8,7.0,1
+Convenience,P29399,18-24,Woman,South,Urban,100.0,7.0,1
+Convenience,P23106,25-34,Man,South,Urban,100.0,7.2,1
+Convenience,P06173,45-54,Man,South,Urban,71.6,5.7,0
+Convenience,P26466,25-34,Woman,South,Urban,68.9,7.4,1
+Convenience,P47300,35-44,Man,Midlands,Urban,79.7,7.6,1
+Convenience,P42850,55-64,Woman,North,Rural / small town,29.6,0.2,0
+Convenience,P36048,45-54,Woman,North,Urban,96.0,5.2,0
+Convenience,P08657,35-44,Woman,Midlands,Urban,83.2,4.6,0
+Convenience,P45110,55-64,Man,South,Urban,63.5,5.4,0
+Convenience,P46925,45-54,Woman,Midlands,Urban,75.8,2.9,0
+Convenience,P08522,55-64,Man,Midlands,Urban,57.2,7.7,1
+Convenience,P39828,35-44,Non-binary / other,South,Urban,88.8,5.0,0
+Convenience,P14538,25-34,Man,North,Urban,97.8,8.0,1
+Convenience,P11768,45-54,Man,North,Urban,62.1,2.4,0
+Convenience,P39944,45-54,Man,London,Urban,58.7,3.7,0
+Convenience,P21256,18-24,Woman,South,Urban,84.4,7.7,1
+Convenience,P39901,25-34,Woman,Scotland/Wales,Rural / small town,80.8,5.9,0
+Convenience,P27135,45-54,Man,South,Rural / small town,63.3,5.3,0
+Convenience,P44578,45-54,Woman,Midlands,Urban,50.5,8.0,1
+Convenience,P14552,25-34,Woman,London,Urban,86.9,3.8,0
+Convenience,P37711,35-44,Woman,North,Urban,76.2,3.7,0
+Convenience,P32562,45-54,Non-binary / other,Midlands,Urban,90.3,8.1,1
+Convenience,P32370,35-44,Woman,North,Urban,83.0,6.1,0
+Convenience,P18653,18-24,Man,North,Urban,99.1,5.0,0
+Convenience,P32967,35-44,Woman,North,Rural / small town,84.4,4.9,0
+Convenience,P22139,55-64,Woman,North,Urban,51.7,3.6,0
+Convenience,P37236,18-24,Woman,North,Urban,88.8,3.7,0
+Convenience,P11417,35-44,Man,Scotland/Wales,Urban,91.2,7.3,1
+Convenience,P41159,65-74,Woman,London,Urban,38.8,5.5,0
+Convenience,P14398,45-54,Woman,Midlands,Urban,66.7,7.1,1
+Convenience,P33873,25-34,Man,North,Rural / small town,91.4,5.5,0
+Convenience,P08794,35-44,Woman,London,Urban,86.6,6.4,0
+Convenience,P32228,25-34,Man,North,Urban,88.1,3.7,0
+Convenience,P37629,25-34,Man,London,Urban,99.1,10.0,1
+Convenience,P08785,18-24,Man,Scotland/Wales,Urban,83.7,4.4,0
+Convenience,P25090,35-44,Woman,London,Urban,79.4,7.6,1
+Convenience,P40267,18-24,Woman,Scotland/Wales,Urban,83.0,4.3,0
+Convenience,P46039,18-24,Man,Scotland/Wales,Rural / small town,83.8,3.6,0
+Convenience,P11822,35-44,Woman,Midlands,Urban,52.5,2.6,0
+Convenience,P08725,25-34,Woman,South,Urban,84.1,7.6,1
+Convenience,P04127,45-54,Man,London,Urban,58.5,4.3,0
+Convenience,P02242,18-24,Man,Midlands,Urban,90.7,4.6,0
+Convenience,P48163,55-64,Woman,North,Urban,59.9,5.8,0
+Convenience,P32220,18-24,Woman,North,Urban,79.3,5.0,0
+Convenience,P37359,45-54,Woman,North,Urban,75.9,6.6,0
+Convenience,P19944,35-44,Man,Scotland/Wales,Urban,100.0,6.0,0
+Convenience,P17792,25-34,Man,North,Urban,67.3,6.5,0
+Convenience,P26928,25-34,Man,South,Urban,77.9,5.7,0
+Convenience,P26559,18-24,Woman,Midlands,Urban,84.6,3.9,0
+Convenience,P44371,55-64,Man,Midlands,Rural / small town,38.8,1.6,0
+Convenience,P37567,35-44,Man,London,Urban,88.9,5.2,0
+Convenience,P38616,35-44,Woman,South,Urban,80.9,8.7,1
+Convenience,P03775,35-44,Man,Midlands,Urban,78.2,5.1,0
+Convenience,P33956,25-34,Man,North,Urban,81.9,4.3,0
+Convenience,P46804,25-34,Woman,Midlands,Urban,90.9,5.7,0
+Convenience,P10921,45-54,Woman,North,Urban,88.2,3.6,0
+Convenience,P22161,25-34,Woman,South,Urban,87.1,6.7,0
+Convenience,P24303,45-54,Woman,South,Urban,83.8,3.8,0
+Convenience,P10321,25-34,Woman,Midlands,Urban,71.2,4.0,0
+Convenience,P25610,65-74,Man,Midlands,Urban,37.9,2.3,0
+Convenience,P43855,18-24,Woman,Midlands,Urban,71.6,5.2,0
+Convenience,P42641,25-34,Woman,Midlands,Urban,82.8,7.2,1
+Convenience,P34238,45-54,Woman,South,Urban,75.5,5.0,0
+Convenience,P11049,25-34,Man,London,Urban,87.1,5.4,0
+Convenience,P32004,35-44,Woman,Midlands,Urban,89.6,7.9,1
+Convenience,P04673,45-54,Woman,South,Urban,56.5,4.0,0
+Convenience,P43338,55-64,Woman,London,Urban,46.1,4.1,0
+Convenience,P05815,18-24,Woman,London,Urban,100.0,7.7,1
+Convenience,P25255,18-24,Man,South,Urban,87.2,5.1,0
+Convenience,P03552,35-44,Woman,Midlands,Urban,83.8,7.6,1
+Convenience,P20109,35-44,Woman,North,Urban,73.1,5.3,0
+Convenience,P26913,18-24,Man,London,Urban,87.1,4.3,0
+Convenience,P37355,45-54,Man,North,Urban,74.3,3.7,0
+Convenience,P15748,35-44,Woman,South,Urban,83.4,6.4,0
+Convenience,P17550,25-34,Man,South,Urban,71.9,6.0,0
+Convenience,P49280,25-34,Man,Midlands,Urban,88.6,5.9,0
+Convenience,P19463,18-24,Man,North,Urban,100.0,6.5,0
+Convenience,P01148,55-64,Man,London,Urban,59.2,4.4,0
+Convenience,P20154,18-24,Woman,London,Urban,97.0,6.4,0
+Convenience,P32910,25-34,Woman,Midlands,Urban,97.2,2.4,0
+Convenience,P38733,45-54,Woman,Scotland/Wales,Urban,87.5,3.3,0
+Convenience,P27455,18-24,Man,North,Urban,96.5,5.9,0
+Convenience,P19071,18-24,Woman,London,Urban,80.6,5.9,0
+Convenience,P31083,25-34,Man,North,Urban,100.0,2.8,0
+Convenience,P20412,45-54,Woman,North,Urban,67.8,2.1,0
+Convenience,P28127,35-44,Woman,London,Urban,62.1,5.0,0
+Convenience,P32493,45-54,Man,South,Urban,82.5,4.7,0
+Convenience,P24448,35-44,Man,Midlands,Urban,95.7,5.2,0
+Convenience,P18167,18-24,Man,London,Urban,94.9,5.5,0
+Convenience,P12611,45-54,Non-binary / other,London,Urban,50.4,3.8,0
+Convenience,P08073,25-34,Woman,Midlands,Urban,89.4,8.7,1
+Convenience,P45232,18-24,Man,London,Rural / small town,93.7,4.5,0
+Convenience,P22391,45-54,Woman,Midlands,Rural / small town,61.4,5.1,0
+Convenience,P34822,25-34,Woman,North,Urban,85.0,7.0,1
+Convenience,P36876,25-34,Man,North,Urban,94.9,5.9,0
+Convenience,P01394,25-34,Man,Midlands,Urban,79.5,9.0,1
+Convenience,P28449,45-54,Woman,Midlands,Urban,100.0,4.1,0
+Convenience,P03120,18-24,Man,Midlands,Urban,100.0,5.2,0
+Convenience,P14408,25-34,Woman,London,Rural / small town,55.0,3.8,0
+Convenience,P40973,35-44,Man,Midlands,Urban,99.6,7.6,1
+Convenience,P32121,45-54,Woman,Midlands,Urban,66.6,5.6,0
+Convenience,P28754,25-34,Woman,Scotland/Wales,Urban,88.5,6.0,0
+Convenience,P10171,25-34,Woman,London,Urban,88.6,7.0,1
+Convenience,P30312,55-64,Man,Scotland/Wales,Urban,63.3,6.1,0
+Convenience,P08159,25-34,Man,Scotland/Wales,Urban,77.1,3.5,0
+Convenience,P18529,45-54,Woman,Midlands,Urban,63.6,5.7,0
+Convenience,P03330,35-44,Woman,South,Urban,92.9,5.6,0
+Convenience,P17823,55-64,Man,London,Urban,60.7,4.1,0
+Convenience,P08747,18-24,Man,South,Urban,100.0,5.6,0
+Convenience,P01900,18-24,Woman,South,Urban,100.0,6.9,0
+Convenience,P08340,35-44,Man,South,Rural / small town,61.6,5.2,0
+Convenience,P15077,25-34,Man,Midlands,Rural / small town,55.9,6.1,0
+Convenience,P02043,25-34,Woman,London,Urban,70.3,5.3,0
+Convenience,P11763,25-34,Woman,Midlands,Urban,91.3,7.0,1
+Convenience,P35809,25-34,Woman,North,Urban,87.6,4.5,0
+Convenience,P10991,45-54,Woman,Scotland/Wales,Rural / small town,49.3,4.7,0
+Convenience,P32847,25-34,Woman,London,Urban,82.0,3.8,0
+Convenience,P35593,55-64,Man,North,Urban,52.5,3.8,0
+Convenience,P07895,25-34,Man,South,Urban,86.3,6.2,0
+Convenience,P12589,55-64,Woman,North,Urban,63.7,2.9,0
+Convenience,P16056,25-34,Woman,North,Urban,83.2,4.6,0
+Convenience,P42924,35-44,Man,North,Urban,88.2,7.4,1
+Convenience,P28569,18-24,Man,London,Urban,90.0,7.4,1
+Convenience,P36056,35-44,Woman,Scotland/Wales,Urban,67.3,4.1,0
+Convenience,P22823,35-44,Man,Midlands,Urban,77.1,3.3,0
+Convenience,P33229,35-44,Woman,South,Urban,86.4,8.4,1
+Convenience,P39083,18-24,Man,Scotland/Wales,Rural / small town,62.6,2.2,0
+Convenience,P21422,65-74,Woman,London,Urban,57.6,5.7,0
+Convenience,P10411,35-44,Woman,Midlands,Urban,70.2,4.2,0
+Convenience,P05644,55-64,Man,Scotland/Wales,Urban,32.5,1.3,0
+Convenience,P35978,25-34,Non-binary / other,London,Urban,62.5,5.7,0
+Convenience,P40746,55-64,Woman,North,Urban,48.3,5.2,0
+Convenience,P29771,35-44,Woman,Scotland/Wales,Rural / small town,81.3,2.2,0
+Convenience,P20655,55-64,Man,North,Urban,51.8,4.7,0
+Convenience,P17567,35-44,Man,Scotland/Wales,Urban,88.9,5.1,0
+Convenience,P21131,25-34,Man,North,Urban,74.6,5.4,0
+Convenience,P48569,25-34,Man,South,Urban,97.3,10.0,1
+Convenience,P31718,35-44,Woman,Midlands,Urban,85.0,4.9,0
+Convenience,P27712,25-34,Man,Scotland/Wales,Urban,83.6,7.5,1
+Convenience,P41994,45-54,Woman,Midlands,Rural / small town,57.5,4.5,0
+Convenience,P08102,45-54,Man,North,Urban,66.1,5.3,0
+Convenience,P29313,18-24,Man,North,Urban,75.5,6.4,0
+Convenience,P09203,55-64,Woman,North,Urban,65.7,1.3,0
+Convenience,P13963,45-54,Man,North,Urban,48.6,4.1,0
+Convenience,P00614,25-34,Man,Midlands,Rural / small town,62.5,6.0,0
+Convenience,P32788,18-24,Man,Midlands,Rural / small town,89.3,5.3,0
+Convenience,P39775,35-44,Woman,South,Urban,77.0,4.9,0
+Convenience,P24340,18-24,Man,North,Urban,98.2,3.2,0
+Convenience,P43368,45-54,Woman,London,Urban,75.9,5.4,0
+Convenience,P06535,45-54,Man,Midlands,Urban,80.8,8.2,1
+Convenience,P16836,25-34,Man,Scotland/Wales,Rural / small town,70.5,6.5,0
+Convenience,P21425,18-24,Man,North,Urban,69.3,5.2,0
+Convenience,P11282,18-24,Man,South,Rural / small town,97.3,8.0,1
+Convenience,P27785,25-34,Woman,Scotland/Wales,Urban,77.8,4.6,0
+Convenience,P08904,35-44,Non-binary / other,North,Urban,87.0,5.0,0
+Convenience,P24751,18-24,Man,North,Urban,72.0,6.3,0
+Convenience,P48485,55-64,Woman,Midlands,Urban,40.9,5.9,0
+Convenience,P07155,18-24,Woman,North,Urban,90.0,2.0,0
+Convenience,P04754,35-44,Man,South,Rural / small town,50.7,6.5,0
+Convenience,P05622,25-34,Man,Midlands,Urban,100.0,5.6,0
+Convenience,P08982,18-24,Man,South,Urban,84.6,3.3,0
+Convenience,P21822,25-34,Woman,London,Urban,84.5,6.1,0
+Convenience,P13849,55-64,Woman,North,Urban,95.5,3.7,0
+Convenience,P40531,18-24,Non-binary / other,London,Urban,100.0,6.4,0
+Convenience,P27610,25-34,Woman,North,Urban,79.7,4.5,0
+Convenience,P42683,45-54,Man,South,Urban,86.0,6.6,0
+Convenience,P28802,25-34,Woman,North,Rural / small town,84.0,6.3,0
+Convenience,P48323,25-34,Man,Midlands,Urban,76.0,6.0,0
+Convenience,P37964,25-34,Woman,Scotland/Wales,Urban,66.5,6.5,0
+Convenience,P36910,35-44,Man,North,Urban,81.8,6.8,0
+Convenience,P27724,25-34,Woman,Midlands,Urban,70.5,4.7,0
+Convenience,P40641,65-74,Man,Midlands,Urban,51.5,3.8,0
+Convenience,P05426,45-54,Man,London,Urban,42.8,1.9,0
+Convenience,P47522,45-54,Woman,Scotland/Wales,Urban,67.8,5.9,0
+Convenience,P17538,55-64,Man,North,Rural / small town,30.6,3.8,0
+Convenience,P46874,18-24,Man,North,Rural / small town,92.2,5.5,0
+Convenience,P48582,45-54,Man,North,Urban,61.7,2.7,0
+Convenience,P15987,55-64,Man,London,Urban,47.8,4.6,0
+Convenience,P10789,35-44,Man,North,Urban,69.7,5.4,0
+Convenience,P36880,25-34,Man,London,Urban,77.7,7.8,1
+Convenience,P02402,25-34,Woman,London,Urban,80.5,10.0,1
+Convenience,P26249,18-24,Man,South,Urban,96.1,7.6,1
+Convenience,P46272,18-24,Woman,Midlands,Urban,81.9,6.9,0
+Convenience,P48560,18-24,Man,London,Urban,93.9,8.0,1
+Convenience,P03690,45-54,Man,South,Urban,87.5,6.8,0
+Convenience,P37148,45-54,Woman,Midlands,Urban,64.5,5.0,0
+Convenience,P41831,45-54,Man,Scotland/Wales,Urban,73.1,2.9,0
+Convenience,P26256,35-44,Man,North,Urban,57.3,4.1,0
+Convenience,P45411,25-34,Woman,North,Urban,85.5,6.4,0
+Convenience,P33155,18-24,Woman,North,Urban,80.5,5.6,0
+Convenience,P01723,25-34,Man,South,Urban,78.4,8.7,1
+Convenience,P22720,55-64,Woman,North,Urban,47.3,4.0,0
+Convenience,P27513,55-64,Man,North,Urban,62.2,3.3,0
+Convenience,P18922,35-44,Woman,Scotland/Wales,Urban,83.2,3.5,0
+Convenience,P07968,18-24,Woman,South,Urban,84.6,3.5,0
+Convenience,P23059,25-34,Man,Midlands,Urban,77.9,5.3,0
+Convenience,P26716,35-44,Woman,London,Urban,80.2,7.1,1
+Convenience,P02811,55-64,Woman,South,Urban,78.2,6.1,0
+Convenience,P37191,45-54,Woman,London,Urban,61.9,2.3,0
+Convenience,P16410,25-34,Man,Midlands,Urban,81.5,6.7,0
+Convenience,P38857,25-34,Woman,North,Urban,57.4,3.6,0
+Convenience,P26750,45-54,Woman,North,Urban,85.5,6.5,0
+Convenience,P46452,35-44,Woman,London,Urban,72.2,5.2,0
+Convenience,P37665,65-74,Woman,North,Rural / small town,48.6,2.5,0
+Convenience,P37733,55-64,Man,North,Urban,63.5,5.2,0
+Convenience,P46920,25-34,Woman,South,Urban,84.1,2.6,0
+Convenience,P36707,25-34,Man,South,Urban,83.9,7.4,1
+Convenience,P44803,35-44,Woman,South,Urban,70.7,6.7,0
+Convenience,P01487,45-54,Man,North,Urban,75.5,5.5,0
+Convenience,P42449,45-54,Woman,North,Urban,49.2,3.9,0
+Convenience,P19125,45-54,Man,South,Urban,95.0,5.8,0
+Convenience,P23096,45-54,Woman,South,Rural / small town,63.3,0.9,0
+Convenience,P06264,25-34,Man,Scotland/Wales,Urban,100.0,6.8,0
+Convenience,P24879,18-24,Man,South,Urban,89.7,5.9,0
+Convenience,P39934,25-34,Woman,South,Urban,90.9,4.3,0
+Convenience,P45310,35-44,Woman,Midlands,Urban,65.0,5.7,0
+Convenience,P25559,25-34,Woman,North,Urban,100.0,5.3,0
+Convenience,P45632,65-74,Woman,Scotland/Wales,Urban,48.3,2.3,0
+Convenience,P38451,45-54,Man,London,Urban,53.7,6.0,0
+Convenience,P22016,18-24,Man,London,Rural / small town,98.9,6.8,0
+Convenience,P33003,35-44,Woman,Scotland/Wales,Rural / small town,78.3,4.9,0
+Convenience,P07668,18-24,Man,London,Urban,90.3,6.8,0
+Convenience,P17138,25-34,Man,Midlands,Urban,94.2,6.4,0
+Convenience,P10700,18-24,Woman,Midlands,Urban,77.4,7.2,1
+Convenience,P25475,18-24,Woman,South,Rural / small town,77.7,3.0,0
+Convenience,P20728,25-34,Woman,South,Urban,97.1,9.6,1
+Convenience,P10542,18-24,Woman,London,Urban,93.9,7.7,1
+Convenience,P42653,45-54,Man,Scotland/Wales,Urban,56.8,7.0,1
+Convenience,P29808,18-24,Man,South,Rural / small town,75.6,4.3,0
+Convenience,P06580,18-24,Man,London,Urban,80.8,5.7,0
+Convenience,P16143,35-44,Man,Midlands,Rural / small town,99.2,3.3,0
+Convenience,P23872,25-34,Woman,South,Urban,72.5,6.1,0
+Convenience,P28894,25-34,Woman,Midlands,Rural / small town,86.1,5.9,0
+Convenience,P11861,25-34,Woman,London,Urban,70.4,6.1,0
+Convenience,P38610,55-64,Man,North,Urban,79.6,2.9,0
+Convenience,P48926,45-54,Woman,North,Urban,70.9,7.6,1
+Convenience,P12631,25-34,Man,Midlands,Urban,63.7,5.9,0
+Convenience,P45784,18-24,Man,Midlands,Urban,94.5,8.0,1
+Convenience,P33381,35-44,Man,South,Urban,63.6,6.1,0
+Convenience,P19788,35-44,Woman,Scotland/Wales,Urban,74.8,6.0,0
+Convenience,P43386,65-74,Man,South,Rural / small town,43.1,4.2,0
+Convenience,P42806,25-34,Woman,South,Urban,77.0,6.4,0
+Convenience,P31291,25-34,Man,London,Urban,86.4,10.0,1
+Convenience,P00121,18-24,Man,Midlands,Urban,100.0,6.5,0
+Convenience,P00817,55-64,Woman,Scotland/Wales,Rural / small town,58.9,1.8,0
+Convenience,P43578,18-24,Man,North,Urban,100.0,7.9,1
+Convenience,P41507,25-34,Woman,North,Urban,97.9,4.4,0
+Convenience,P43226,55-64,Woman,Midlands,Urban,55.9,4.6,0
+Convenience,P15370,45-54,Man,South,Urban,65.7,2.5,0
+Convenience,P33375,18-24,Woman,Scotland/Wales,Rural / small town,74.6,4.8,0
+Convenience,P06358,35-44,Man,Scotland/Wales,Rural / small town,60.0,5.7,0
+Convenience,P19116,35-44,Man,South,Urban,71.9,6.2,0
+Convenience,P49243,35-44,Woman,North,Urban,78.9,7.4,1
+Convenience,P24872,35-44,Man,South,Urban,75.2,4.5,0
+Convenience,P31016,18-24,Man,North,Urban,95.5,7.3,1
+Convenience,P46942,35-44,Non-binary / other,London,Urban,88.2,9.2,1
+Convenience,P03702,45-54,Woman,South,Urban,77.3,6.4,0
+Convenience,P23889,25-34,Man,London,Urban,96.8,8.9,1
+Convenience,P21840,35-44,Woman,London,Urban,91.1,7.4,1
+Convenience,P09568,35-44,Man,South,Urban,74.7,5.5,0
+Convenience,P49053,18-24,Man,London,Urban,84.1,5.2,0
+Convenience,P48279,25-34,Woman,Scotland/Wales,Urban,90.6,5.4,0
+Convenience,P23193,35-44,Man,South,Urban,96.7,5.7,0
+Convenience,P01116,55-64,Woman,South,Urban,58.1,4.3,0
+Convenience,P28394,18-24,Woman,Midlands,Urban,95.2,4.4,0
+Convenience,P19079,45-54,Woman,London,Urban,72.7,3.3,0
+Convenience,P42969,25-34,Man,Midlands,Urban,85.1,7.5,1
+Convenience,P46312,18-24,Man,Midlands,Rural / small town,86.7,7.1,1
+Convenience,P09256,25-34,Woman,Midlands,Urban,81.0,5.2,0
+Convenience,P48857,35-44,Woman,South,Urban,66.0,3.0,0
+Convenience,P14982,55-64,Man,North,Urban,57.6,3.3,0
+Convenience,P11230,55-64,Woman,North,Urban,56.6,4.5,0
+Convenience,P11974,35-44,Man,North,Urban,75.7,5.5,0
+Convenience,P24648,35-44,Man,South,Urban,78.6,5.3,0
+Convenience,P09359,18-24,Woman,South,Urban,70.6,5.9,0
+Convenience,P20444,45-54,Woman,London,Urban,57.3,4.5,0
+Convenience,P13473,45-54,Man,Midlands,Urban,58.9,6.5,0
+Convenience,P18718,25-34,Woman,London,Urban,76.0,5.0,0
+Convenience,P33939,18-24,Man,Midlands,Urban,92.9,8.5,1
+Convenience,P35954,25-34,Man,South,Urban,98.2,8.9,1
+Convenience,P37725,18-24,Woman,Midlands,Urban,84.4,6.8,0
+Convenience,P46265,35-44,Woman,Midlands,Urban,75.4,6.7,0
+Convenience,P47365,45-54,Man,North,Urban,61.5,3.5,0
+Convenience,P13798,45-54,Woman,Scotland/Wales,Urban,70.4,3.9,0
+Convenience,P18163,35-44,Man,South,Urban,95.6,7.7,1
+Convenience,P46497,25-34,Woman,Midlands,Rural / small town,75.5,6.2,0
+Convenience,P33120,18-24,Woman,London,Urban,100.0,5.7,0
+Convenience,P41171,35-44,Man,North,Rural / small town,81.6,7.1,1
+Convenience,P32400,25-34,Woman,Midlands,Rural / small town,74.2,5.8,0
+Convenience,P05854,55-64,Man,North,Urban,42.9,3.6,0
+Convenience,P34278,18-24,Woman,South,Urban,97.7,9.3,1
+Convenience,P05634,35-44,Man,North,Rural / small town,57.0,4.7,0
+Convenience,P06163,35-44,Man,South,Urban,86.3,4.0,0
+Convenience,P40185,25-34,Woman,North,Urban,87.3,8.1,1
+Convenience,P24998,35-44,Woman,South,Urban,88.3,10.0,1
+Convenience,P08957,45-54,Man,Midlands,Rural / small town,61.0,2.1,0
+Convenience,P25546,18-24,Woman,North,Rural / small town,67.9,5.1,0
+Convenience,P28811,18-24,Man,North,Urban,96.0,6.7,0
+Convenience,P46694,45-54,Woman,North,Urban,85.4,4.5,0
+Convenience,P29115,35-44,Man,North,Urban,76.8,6.3,0
+Convenience,P06191,25-34,Man,North,Urban,87.2,5.8,0
+Convenience,P10158,65-74,Non-binary / other,South,Urban,54.9,2.8,0
+Convenience,P46225,18-24,Man,Scotland/Wales,Urban,81.9,5.9,0
+Convenience,P19237,45-54,Non-binary / other,London,Urban,76.9,4.5,0
+Convenience,P18141,45-54,Man,Midlands,Urban,75.8,6.7,0
+Convenience,P13079,35-44,Woman,Midlands,Urban,94.0,10.0,1
+Convenience,P20848,35-44,Man,North,Urban,79.3,5.7,0
+Convenience,P44683,35-44,Woman,Scotland/Wales,Rural / small town,69.6,5.9,0
+Convenience,P44592,45-54,Man,South,Urban,62.3,6.4,0
+Convenience,P06240,35-44,Woman,North,Urban,62.2,5.9,0
+Convenience,P00734,35-44,Woman,Midlands,Urban,85.6,4.1,0
+Convenience,P28422,18-24,Non-binary / other,Midlands,Urban,59.5,6.2,0
+Convenience,P43571,55-64,Woman,South,Urban,49.9,5.3,0
+Convenience,P17581,35-44,Man,North,Rural / small town,55.5,3.3,0
+Convenience,P20143,45-54,Man,Midlands,Urban,63.0,6.2,0
+Convenience,P05089,35-44,Man,London,Urban,76.9,6.1,0
+Convenience,P26346,18-24,Man,Scotland/Wales,Rural / small town,75.5,5.3,0
+Convenience,P32994,25-34,Woman,South,Urban,100.0,8.7,1
+Convenience,P17939,35-44,Woman,London,Urban,85.7,6.3,0
+Convenience,P14024,25-34,Man,North,Urban,93.4,7.7,1
+Convenience,P00418,18-24,Woman,London,Urban,68.7,3.7,0
+Convenience,P43485,25-34,Woman,London,Urban,83.4,6.7,0
+Convenience,P35287,18-24,Man,North,Urban,97.1,8.4,1
+Convenience,P30839,45-54,Woman,North,Urban,64.3,5.2,0
+Convenience,P24919,35-44,Man,South,Urban,90.6,6.6,0
+Convenience,P11029,25-34,Woman,Scotland/Wales,Urban,84.2,5.6,0
+Convenience,P23676,35-44,Woman,South,Rural / small town,74.8,3.0,0
+Convenience,P02091,18-24,Man,North,Urban,100.0,6.7,0
+Convenience,P48642,35-44,Woman,Midlands,Urban,73.4,4.8,0
+Convenience,P00641,25-34,Woman,North,Rural / small town,100.0,4.7,0
+Convenience,P15150,25-34,Man,Midlands,Urban,100.0,4.9,0
+Convenience,P10915,18-24,Woman,North,Urban,69.3,6.6,0
+Convenience,P22038,25-34,Man,South,Rural / small town,55.4,5.2,0
+Convenience,P14696,18-24,Man,South,Urban,91.5,4.8,0
+Convenience,P11003,25-34,Man,South,Urban,100.0,7.4,1
+Convenience,P30418,45-54,Woman,South,Urban,74.1,7.2,1
+Convenience,P05093,65-74,Non-binary / other,North,Urban,41.5,6.0,0
+Convenience,P34577,35-44,Man,Midlands,Rural / small town,59.6,3.4,0
+Convenience,P21453,18-24,Woman,Scotland/Wales,Urban,99.2,4.3,0
+Convenience,P46181,35-44,Man,North,Urban,79.4,5.9,0
+Convenience,P31333,65-74,Woman,North,Urban,49.0,5.9,0
+Convenience,P11814,25-34,Woman,South,Urban,76.0,5.2,0
+Convenience,P18520,45-54,Man,North,Urban,78.0,5.6,0
+Convenience,P15926,55-64,Woman,South,Urban,60.6,10.0,1
+Convenience,P09428,45-54,Woman,London,Urban,76.1,5.4,0
+Convenience,P16145,35-44,Man,Scotland/Wales,Rural / small town,67.0,7.3,1
+Convenience,P41211,25-34,Woman,London,Urban,60.7,5.1,0
+Convenience,P34208,18-24,Woman,Scotland/Wales,Urban,81.6,5.4,0
+Convenience,P11675,18-24,Woman,North,Urban,83.8,10.0,1
+Convenience,P30107,18-24,Woman,Midlands,Urban,74.2,7.3,1
+Convenience,P18194,25-34,Woman,South,Urban,84.2,7.1,1
+Convenience,P20886,18-24,Man,London,Urban,100.0,4.3,0
+Convenience,P08993,35-44,Woman,Midlands,Urban,83.2,6.8,0
+Convenience,P06843,25-34,Non-binary / other,Midlands,Rural / small town,85.8,5.0,0
+Convenience,P04234,55-64,Woman,South,Urban,68.0,3.8,0
+Convenience,P34783,25-34,Man,London,Urban,82.6,5.8,0
+Convenience,P44562,35-44,Man,South,Urban,70.8,2.8,0
+Convenience,P41744,25-34,Non-binary / other,North,Urban,98.0,6.5,0
+Convenience,P10091,35-44,Woman,London,Urban,82.1,5.7,0
+Convenience,P21606,25-34,Woman,South,Urban,83.4,8.0,1
+Convenience,P32302,35-44,Man,Midlands,Rural / small town,80.7,5.5,0
+Convenience,P19846,25-34,Woman,Midlands,Urban,81.1,6.3,0
+Convenience,P32191,25-34,Woman,Midlands,Urban,85.4,6.7,0
+Convenience,P38628,35-44,Man,North,Rural / small town,74.6,2.4,0
+Convenience,P45653,35-44,Woman,Midlands,Urban,74.9,4.6,0
+Convenience,P24750,25-34,Man,North,Urban,81.4,7.0,1
+Convenience,P19860,25-34,Woman,London,Urban,58.9,4.5,0
+Convenience,P00304,18-24,Man,North,Urban,91.6,6.5,0
+Convenience,P07582,18-24,Woman,Midlands,Urban,94.1,5.5,0
+Convenience,P25194,45-54,Man,Midlands,Urban,75.9,3.6,0
+Convenience,P36123,55-64,Woman,Scotland/Wales,Urban,83.5,3.7,0
+Convenience,P01353,25-34,Man,Midlands,Urban,76.3,4.5,0
+Convenience,P44812,18-24,Man,South,Urban,98.4,7.8,1
+Convenience,P13180,45-54,Woman,South,Urban,59.1,3.8,0
+Convenience,P23419,18-24,Man,Midlands,Urban,74.0,3.4,0
+Convenience,P19120,25-34,Woman,North,Urban,94.1,6.6,0
+Convenience,P49513,35-44,Man,North,Urban,64.3,7.6,1
+Convenience,P01094,45-54,Man,North,Urban,65.2,1.1,0
+Convenience,P40560,35-44,Man,North,Urban,52.4,3.8,0
+Convenience,P42501,18-24,Woman,Midlands,Urban,98.0,5.0,0
+Convenience,P30801,45-54,Woman,London,Urban,76.6,7.6,1
+Convenience,P20582,25-34,Woman,Scotland/Wales,Urban,85.1,4.4,0
+Convenience,P00578,35-44,Man,Scotland/Wales,Rural / small town,93.8,4.5,0
+Convenience,P15075,35-44,Man,North,Urban,74.2,6.6,0
+Convenience,P41894,18-24,Man,Midlands,Urban,100.0,4.8,0
+Convenience,P27245,35-44,Man,Midlands,Urban,91.3,7.3,1
+Convenience,P12858,35-44,Man,London,Urban,100.0,7.2,1
+Convenience,P37788,18-24,Woman,North,Urban,75.7,4.6,0
+Convenience,P24077,45-54,Woman,North,Urban,73.8,3.3,0
+Convenience,P05743,25-34,Woman,North,Rural / small town,77.4,6.7,0
+Convenience,P45006,25-34,Man,South,Urban,94.0,5.3,0
+Convenience,P24618,35-44,Man,South,Urban,84.6,4.4,0
+Convenience,P12993,35-44,Man,North,Urban,91.0,6.5,0
+Convenience,P40672,25-34,Woman,Scotland/Wales,Urban,79.7,2.3,0
+Convenience,P19248,18-24,Woman,North,Urban,80.7,5.0,0
+Convenience,P42549,18-24,Woman,North,Urban,77.3,7.2,1
+Convenience,P34040,45-54,Man,South,Urban,40.9,4.3,0
+Convenience,P02277,45-54,Man,Midlands,Urban,65.9,2.9,0
+Convenience,P40137,35-44,Man,South,Urban,52.5,4.2,0
+Convenience,P33520,25-34,Woman,Midlands,Urban,94.0,7.1,1
+Convenience,P39336,18-24,Man,North,Urban,82.9,5.5,0
+Convenience,P33717,25-34,Woman,Midlands,Rural / small town,63.8,6.6,0
+Convenience,P49856,35-44,Woman,Scotland/Wales,Urban,61.5,3.4,0
+Convenience,P06477,35-44,Woman,South,Urban,63.5,5.6,0
+Convenience,P47233,25-34,Woman,Midlands,Urban,86.1,5.3,0
+Convenience,P32031,35-44,Woman,Scotland/Wales,Urban,90.4,6.4,0
+Convenience,P29296,25-34,Woman,Scotland/Wales,Urban,100.0,6.0,0
+Convenience,P25707,45-54,Woman,Scotland/Wales,Urban,60.3,3.2,0
+Convenience,P48881,25-34,Woman,London,Urban,100.0,8.6,1
+Convenience,P04399,18-24,Woman,South,Urban,89.2,6.8,0
+Convenience,P18813,18-24,Man,South,Urban,90.2,6.6,0
+Convenience,P44545,25-34,Woman,Midlands,Urban,97.1,5.9,0
+Convenience,P07129,45-54,Woman,South,Urban,65.1,4.9,0
+Convenience,P34780,45-54,Man,Midlands,Urban,44.7,4.3,0
+Convenience,P33795,55-64,Non-binary / other,Midlands,Urban,43.3,4.6,0
+Convenience,P27504,25-34,Man,Midlands,Urban,73.3,4.7,0
+Convenience,P37214,45-54,Woman,North,Urban,84.0,3.3,0
+Convenience,P24840,25-34,Woman,Midlands,Urban,71.2,5.1,0
+Convenience,P07862,35-44,Man,North,Urban,71.1,6.0,0
+Convenience,P06822,25-34,Man,North,Urban,93.4,4.4,0
+Convenience,P13685,45-54,Man,Scotland/Wales,Urban,57.0,4.6,0
+Convenience,P27509,35-44,Man,North,Urban,73.2,2.4,0
+Convenience,P18603,25-34,Man,Midlands,Urban,82.3,6.7,0
+Convenience,P05873,25-34,Man,Midlands,Urban,86.0,8.9,1
+Convenience,P09714,25-34,Man,South,Urban,90.2,4.4,0
+Convenience,P13150,35-44,Woman,North,Urban,81.5,3.8,0
+Convenience,P33978,25-34,Man,North,Urban,76.4,4.3,0
+Convenience,P45710,45-54,Man,South,Urban,77.5,7.5,1
+Convenience,P41461,35-44,Man,Midlands,Urban,80.7,4.8,0
+Convenience,P12899,45-54,Woman,Scotland/Wales,Urban,56.8,3.3,0
+Convenience,P07843,55-64,Man,Scotland/Wales,Urban,44.2,0.0,0
+Convenience,P28217,35-44,Woman,South,Urban,67.6,7.3,1
+Convenience,P45019,18-24,Man,South,Urban,92.7,5.5,0
+Convenience,P46210,35-44,Man,North,Urban,86.1,7.1,1
+Convenience,P19288,35-44,Woman,London,Urban,82.5,6.2,0
+Convenience,P26043,25-34,Man,North,Urban,96.0,8.9,1
+Convenience,P15912,35-44,Man,Scotland/Wales,Rural / small town,81.9,7.5,1
+Convenience,P24228,25-34,Woman,Midlands,Rural / small town,63.8,4.7,0
+Convenience,P43402,35-44,Man,Scotland/Wales,Rural / small town,91.8,3.0,0
+Convenience,P36852,35-44,Woman,South,Urban,87.9,5.6,0
+Convenience,P27269,65-74,Woman,Midlands,Urban,42.5,0.0,0
+Convenience,P40351,45-54,Woman,London,Urban,64.8,7.6,1
+Convenience,P36647,25-34,Woman,North,Rural / small town,82.5,3.9,0
+Convenience,P43385,25-34,Woman,North,Urban,75.6,5.2,0
+Convenience,P35984,25-34,Woman,North,Urban,80.6,7.1,1
+Convenience,P03925,18-24,Man,South,Urban,86.2,3.7,0
+Convenience,P11314,18-24,Woman,South,Urban,100.0,9.2,1
+Convenience,P47977,25-34,Man,Scotland/Wales,Urban,100.0,6.6,0
+Convenience,P41676,55-64,Man,Midlands,Urban,67.2,1.7,0
+Convenience,P42644,18-24,Man,Scotland/Wales,Urban,89.3,6.7,0
+Convenience,P33198,65-74,Man,North,Urban,44.2,3.8,0
+Convenience,P38693,25-34,Man,South,Urban,94.5,6.9,0
+Convenience,P49004,25-34,Woman,North,Urban,82.5,4.7,0
+Convenience,P02089,65-74,Man,North,Urban,38.7,2.5,0
+Convenience,P21672,35-44,Man,North,Urban,71.9,6.7,0
+Convenience,P26483,45-54,Woman,Midlands,Urban,73.9,3.7,0
+Convenience,P06918,25-34,Man,London,Urban,79.9,7.4,1
+Convenience,P02729,45-54,Man,North,Urban,65.0,4.1,0
+Convenience,P29236,35-44,Woman,North,Urban,61.7,5.0,0
+Convenience,P39373,18-24,Man,London,Urban,100.0,7.2,1
+Convenience,P42708,35-44,Woman,North,Urban,89.3,3.6,0
+Convenience,P36789,55-64,Woman,Scotland/Wales,Urban,38.2,3.2,0
+Convenience,P05123,65-74,Man,North,Urban,44.2,2.2,0
+Convenience,P09201,65-74,Woman,North,Urban,46.1,5.0,0
+Convenience,P24758,55-64,Man,Midlands,Urban,66.6,4.9,0
+Convenience,P03964,55-64,Man,London,Urban,48.6,4.2,0
+Convenience,P31081,35-44,Woman,London,Urban,87.4,8.3,1
+Convenience,P30169,25-34,Man,London,Urban,85.9,6.7,0
+Convenience,P01235,18-24,Man,North,Urban,81.3,6.4,0
+Convenience,P16249,25-34,Woman,Midlands,Rural / small town,86.5,6.6,0
+Convenience,P25719,18-24,Man,North,Rural / small town,72.0,6.7,0
+Convenience,P24176,18-24,Man,South,Urban,97.7,5.2,0
+Convenience,P13905,25-34,Man,London,Urban,70.2,7.9,1
+Convenience,P31984,35-44,Woman,South,Urban,96.0,6.7,0
+Convenience,P10735,18-24,Man,London,Rural / small town,74.7,7.1,1
+Convenience,P36308,18-24,Man,Scotland/Wales,Rural / small town,87.8,4.5,0
+Convenience,P26431,35-44,Woman,Midlands,Urban,78.0,6.7,0
+Convenience,P48003,25-34,Man,Midlands,Urban,83.4,5.2,0
+Convenience,P22835,25-34,Woman,London,Urban,61.6,9.9,1
+Convenience,P48687,35-44,Woman,Midlands,Urban,79.2,6.8,0
+Convenience,P08563,45-54,Woman,London,Urban,74.1,2.5,0
+Convenience,P05031,25-34,Woman,Scotland/Wales,Urban,79.6,7.3,1
+Convenience,P33726,45-54,Woman,London,Urban,75.5,5.7,0
+Convenience,P03526,25-34,Man,Midlands,Rural / small town,67.5,4.5,0
+Convenience,P31804,35-44,Man,North,Urban,84.4,6.5,0
+Convenience,P18938,35-44,Woman,London,Urban,59.9,8.6,1
+Convenience,P42450,25-34,Woman,Midlands,Urban,71.9,7.3,1
+Convenience,P42803,25-34,Man,North,Rural / small town,58.5,4.6,0
+Convenience,P46020,45-54,Man,North,Rural / small town,74.4,2.9,0
+Convenience,P25055,18-24,Man,Midlands,Urban,100.0,4.1,0
+Convenience,P09194,45-54,Woman,North,Urban,74.9,3.6,0
+Convenience,P03634,25-34,Man,Midlands,Urban,70.8,5.1,0
+Convenience,P48644,25-34,Woman,South,Urban,100.0,8.2,1
+Convenience,P16454,25-34,Man,South,Urban,88.2,6.8,0
+Convenience,P22817,18-24,Man,Scotland/Wales,Urban,84.0,5.8,0
+Convenience,P24486,35-44,Non-binary / other,Scotland/Wales,Urban,76.0,3.7,0
+Convenience,P33853,35-44,Woman,London,Urban,72.7,8.9,1
+Convenience,P47049,18-24,Woman,London,Urban,100.0,4.6,0
+Convenience,P13658,18-24,Woman,South,Urban,89.1,4.7,0
+Convenience,P07897,55-64,Woman,Midlands,Urban,61.1,0.4,0
+Convenience,P25367,45-54,Man,Midlands,Urban,80.6,5.8,0
+Convenience,P20658,35-44,Man,South,Urban,86.1,6.1,0
+Convenience,P14259,25-34,Man,South,Urban,87.2,6.9,0
+Convenience,P28704,55-64,Woman,Midlands,Urban,52.5,3.1,0
+Convenience,P26980,25-34,Woman,Midlands,Rural / small town,85.8,7.9,1
+Convenience,P49546,18-24,Man,South,Urban,92.8,3.3,0
+Convenience,P31945,25-34,Man,Scotland/Wales,Rural / small town,67.4,4.3,0
+Convenience,P07044,25-34,Woman,London,Urban,81.9,4.9,0
+Convenience,P42712,35-44,Man,Midlands,Rural / small town,95.6,6.7,0
+Convenience,P30061,18-24,Woman,South,Urban,92.9,5.7,0
+Convenience,P19517,65-74,Woman,South,Urban,61.6,2.4,0
+Convenience,P43966,55-64,Man,Scotland/Wales,Urban,57.2,4.3,0
+Convenience,P33471,25-34,Man,South,Urban,96.6,4.3,0
+Convenience,P16606,18-24,Man,London,Urban,79.5,2.8,0
+Convenience,P06388,45-54,Man,North,Urban,67.4,3.3,0
+Convenience,P21919,18-24,Man,North,Rural / small town,90.1,5.9,0
+Convenience,P12187,18-24,Man,Scotland/Wales,Urban,100.0,9.7,1
+Convenience,P09966,18-24,Man,North,Urban,80.6,4.2,0
+Convenience,P23148,25-34,Man,North,Urban,100.0,5.7,0
+Convenience,P15750,25-34,Man,South,Rural / small town,77.3,5.3,0
+Convenience,P34959,65-74,Man,South,Rural / small town,39.5,5.1,0
+Convenience,P30487,45-54,Man,Scotland/Wales,Urban,63.8,4.8,0
+Convenience,P43774,18-24,Woman,Scotland/Wales,Urban,100.0,5.9,0
+Convenience,P05677,25-34,Man,Midlands,Urban,93.5,6.0,0
+Convenience,P01042,35-44,Man,South,Urban,86.1,5.7,0
+Convenience,P16959,25-34,Man,North,Urban,61.9,5.0,0
+Convenience,P42547,25-34,Woman,North,Urban,97.0,4.3,0
+Convenience,P00031,18-24,Woman,Midlands,Rural / small town,83.4,5.7,0
+Convenience,P40479,25-34,Woman,London,Urban,77.5,8.5,1
+Convenience,P18371,45-54,Man,Midlands,Urban,50.9,6.1,0
+Convenience,P46709,18-24,Man,North,Urban,100.0,5.7,0
+Convenience,P03224,35-44,Woman,South,Urban,68.8,2.6,0
+Convenience,P46380,25-34,Man,Midlands,Rural / small town,84.3,8.3,1
+Convenience,P40750,25-34,Woman,London,Urban,93.1,6.8,0
+Convenience,P40230,65-74,Man,North,Urban,44.4,2.7,0
+Convenience,P10206,55-64,Woman,Midlands,Urban,48.4,5.6,0
+Convenience,P31048,25-34,Woman,London,Urban,75.2,7.9,1
+Convenience,P34263,18-24,Man,London,Urban,100.0,4.9,0
+Convenience,P03516,18-24,Man,Midlands,Rural / small town,90.3,6.6,0
+Convenience,P29294,25-34,Man,London,Urban,83.8,5.0,0
+Convenience,P03031,18-24,Woman,London,Urban,83.8,7.8,1
+Convenience,P42761,45-54,Man,South,Urban,59.2,5.5,0
+Convenience,P29522,18-24,Man,Midlands,Urban,84.8,6.2,0
+Convenience,P13342,25-34,Woman,South,Urban,65.7,8.4,1
+Convenience,P16809,55-64,Man,South,Urban,69.8,4.0,0
+Convenience,P32744,18-24,Man,South,Urban,83.0,6.5,0
+Convenience,P44062,18-24,Woman,North,Urban,89.5,8.1,1
+Convenience,P11257,25-34,Woman,North,Urban,86.9,6.8,0
+Convenience,P33125,25-34,Man,Midlands,Rural / small town,83.5,5.4,0
+Convenience,P42065,45-54,Man,South,Urban,79.7,4.1,0
+Convenience,P06020,18-24,Woman,North,Urban,83.4,5.0,0
+Convenience,P16287,45-54,Woman,South,Urban,54.0,3.3,0
+Convenience,P38455,18-24,Woman,North,Urban,82.2,6.0,0
+Convenience,P49286,65-74,Woman,North,Urban,61.2,4.2,0
+Convenience,P13970,25-34,Woman,North,Urban,77.4,4.0,0
+Convenience,P00355,45-54,Woman,North,Urban,77.8,7.9,1
+Convenience,P45582,25-34,Woman,South,Rural / small town,62.3,7.4,1
+Convenience,P30630,25-34,Man,Midlands,Urban,72.2,4.9,0
+Convenience,P00445,25-34,Woman,Scotland/Wales,Urban,77.2,2.7,0
+Convenience,P06545,18-24,Man,Midlands,Rural / small town,72.6,7.5,1
+Convenience,P01234,25-34,Man,North,Urban,83.4,4.6,0
+Convenience,P34529,18-24,Non-binary / other,South,Rural / small town,84.0,2.4,0
+Convenience,P12655,35-44,Man,South,Urban,68.8,9.0,1
+Convenience,P17366,18-24,Woman,South,Urban,90.5,8.0,1
+Convenience,P28638,25-34,Man,South,Urban,89.9,6.6,0
+Convenience,P00061,25-34,Man,South,Urban,54.2,6.9,0
+Convenience,P03756,18-24,Man,North,Urban,100.0,3.5,0
+Convenience,P36916,35-44,Woman,London,Urban,82.5,7.5,1
+Convenience,P12809,25-34,Man,Midlands,Urban,80.0,6.6,0
+Convenience,P29692,18-24,Man,Midlands,Urban,78.1,6.5,0
+Convenience,P04788,18-24,Man,South,Urban,93.3,2.6,0
+Convenience,P31025,65-74,Woman,Midlands,Urban,40.3,2.2,0
+Convenience,P34944,25-34,Man,South,Urban,100.0,6.4,0
+Convenience,P40693,45-54,Woman,London,Urban,66.3,4.2,0
+Convenience,P33780,45-54,Man,North,Urban,61.9,6.1,0
+Convenience,P48573,55-64,Man,North,Urban,69.5,4.9,0
+Convenience,P02309,35-44,Woman,North,Urban,87.2,8.5,1
+Convenience,P01461,35-44,Woman,Midlands,Urban,76.9,6.9,0
+Convenience,P49114,25-34,Man,North,Urban,96.8,7.1,1
+Convenience,P20041,35-44,Woman,North,Urban,74.5,2.3,0
+Convenience,P36706,35-44,Woman,North,Urban,73.0,4.9,0
+Convenience,P39103,18-24,Woman,Midlands,Urban,82.7,4.8,0
+Convenience,P16220,35-44,Man,London,Urban,72.5,6.8,0
+Convenience,P32936,18-24,Man,North,Urban,84.9,5.9,0
+Convenience,P16241,18-24,Man,South,Urban,99.5,7.8,1
+Convenience,P24244,25-34,Woman,Midlands,Urban,100.0,6.0,0
+Convenience,P16023,55-64,Man,London,Urban,45.9,2.4,0
+Convenience,P14054,55-64,Man,North,Urban,70.3,3.9,0
+Convenience,P17094,35-44,Woman,Midlands,Urban,79.1,5.8,0
+Convenience,P03962,35-44,Man,South,Urban,66.9,4.2,0
+Convenience,P47751,25-34,Man,London,Urban,85.9,4.5,0
+Convenience,P20727,55-64,Woman,London,Urban,72.1,8.7,1
+Convenience,P31983,55-64,Woman,North,Urban,51.0,2.3,0
+Convenience,P15982,25-34,Man,Midlands,Urban,83.4,7.1,1
+Convenience,P22922,18-24,Woman,South,Urban,84.7,6.1,0
+Convenience,P31611,18-24,Woman,North,Urban,88.2,4.1,0
+Convenience,P38162,55-64,Man,South,Rural / small town,53.1,4.1,0
+Convenience,P34399,18-24,Man,South,Urban,91.0,8.1,1
+Convenience,P35819,35-44,Man,Midlands,Urban,61.6,5.8,0
+Convenience,P41458,45-54,Woman,Midlands,Urban,54.7,3.5,0
+Convenience,P47364,18-24,Woman,London,Urban,58.7,5.8,0
+Convenience,P11352,25-34,Woman,North,Urban,81.4,6.5,0
+Convenience,P44144,25-34,Woman,Midlands,Urban,92.3,10.0,1
+Convenience,P40155,25-34,Woman,North,Urban,78.0,5.1,0
+Convenience,P11718,65-74,Woman,North,Urban,60.4,5.3,0
+Convenience,P08673,18-24,Woman,Midlands,Urban,96.0,5.1,0
+Convenience,P09617,35-44,Man,North,Urban,70.1,5.9,0
+Convenience,P20928,55-64,Woman,North,Urban,53.3,7.5,1
+Convenience,P47334,45-54,Man,London,Urban,69.1,5.8,0
+Convenience,P22293,55-64,Woman,South,Urban,33.3,4.1,0
+Convenience,P33289,25-34,Man,Midlands,Urban,86.4,3.8,0
+Convenience,P46727,25-34,Man,London,Urban,91.1,7.1,1
+Convenience,P12815,25-34,Man,South,Urban,68.8,8.9,1
+Convenience,P30903,35-44,Woman,Scotland/Wales,Urban,78.3,5.1,0
+Convenience,P33342,25-34,Woman,North,Rural / small town,62.5,7.6,1
+Convenience,P46213,25-34,Woman,North,Urban,77.1,5.9,0
+Convenience,P13909,18-24,Woman,Midlands,Urban,100.0,6.4,0
+Convenience,P05103,35-44,Woman,South,Urban,88.4,3.8,0
+Convenience,P18851,35-44,Man,Midlands,Urban,66.5,3.6,0
+Convenience,P47159,25-34,Woman,South,Urban,81.1,5.2,0
+Convenience,P24503,65-74,Non-binary / other,London,Urban,51.5,3.9,0
+Convenience,P26607,25-34,Woman,South,Urban,100.0,8.5,1
+Convenience,P05202,18-24,Woman,South,Urban,92.4,8.3,1
+Convenience,P15441,55-64,Woman,Scotland/Wales,Urban,58.6,4.4,0
+Convenience,P09160,35-44,Man,London,Urban,89.6,8.4,1
+Convenience,P30007,35-44,Man,Scotland/Wales,Rural / small town,84.6,2.0,0
+Convenience,P35068,25-34,Man,Midlands,Urban,90.0,7.4,1
+Convenience,P34420,18-24,Woman,North,Urban,95.4,3.7,0
+Convenience,P10667,55-64,Woman,Midlands,Urban,68.0,5.6,0
+Convenience,P40826,25-34,Woman,London,Urban,82.8,5.7,0
+Convenience,P46370,25-34,Woman,South,Urban,83.6,3.9,0
+Convenience,P22504,25-34,Man,London,Urban,79.1,7.3,1
+Convenience,P18239,25-34,Woman,Midlands,Urban,90.1,5.8,0
+Convenience,P47138,25-34,Man,North,Urban,75.7,3.7,0
+Convenience,P04675,25-34,Man,South,Urban,91.4,7.0,1
+Convenience,P47861,18-24,Man,London,Urban,100.0,6.3,0
+Convenience,P23574,35-44,Man,Scotland/Wales,Urban,63.9,3.8,0
+Convenience,P47912,18-24,Man,London,Urban,99.5,6.2,0
+Convenience,P34213,35-44,Woman,Midlands,Urban,84.9,5.2,0
+Convenience,P38635,45-54,Man,South,Rural / small town,61.5,5.8,0
+Convenience,P46149,18-24,Woman,North,Urban,92.4,4.7,0
+Convenience,P45793,25-34,Man,North,Rural / small town,62.0,6.6,0
+Convenience,P39813,25-34,Woman,South,Rural / small town,66.7,2.0,0
+Convenience,P27764,18-24,Man,Midlands,Urban,99.5,8.3,1
+Convenience,P35526,18-24,Woman,Midlands,Urban,87.0,5.9,0
+Convenience,P49676,18-24,Man,South,Urban,95.6,7.5,1
+Convenience,P36796,18-24,Woman,South,Urban,90.5,7.9,1
+Convenience,P06739,35-44,Man,North,Urban,65.8,4.8,0
+Convenience,P23630,45-54,Man,North,Urban,71.2,4.7,0
+Convenience,P42221,18-24,Woman,Midlands,Urban,78.2,8.9,1
+Convenience,P11020,25-34,Man,South,Urban,100.0,6.4,0
+Convenience,P39235,25-34,Man,North,Urban,90.3,7.0,1
+Convenience,P09105,45-54,Woman,North,Urban,67.3,3.9,0
+Convenience,P21040,35-44,Woman,South,Urban,91.6,6.9,0
+Convenience,P29227,55-64,Woman,South,Urban,67.2,5.2,0
+Convenience,P11560,18-24,Man,North,Urban,66.7,6.5,0
+Convenience,P02265,45-54,Woman,South,Urban,70.0,4.8,0
+Convenience,P02040,55-64,Woman,London,Urban,51.5,2.2,0
+Convenience,P41081,18-24,Man,Scotland/Wales,Urban,80.9,7.2,1
+Convenience,P34716,25-34,Man,North,Urban,96.8,10.0,1
+Convenience,P45121,25-34,Man,London,Urban,84.5,7.9,1
+Convenience,P10734,35-44,Man,Midlands,Urban,79.8,4.0,0
+Convenience,P46103,18-24,Man,Midlands,Urban,87.7,6.6,0
+Convenience,P37392,25-34,Woman,Midlands,Urban,91.2,6.9,0
+Convenience,P18350,35-44,Woman,South,Urban,60.7,3.6,0
+Convenience,P40069,25-34,Man,North,Urban,68.7,4.2,0
+Convenience,P39480,25-34,Woman,Scotland/Wales,Urban,82.7,6.8,0
+Convenience,P15900,35-44,Man,South,Urban,86.6,5.5,0
+Convenience,P01194,25-34,Man,Midlands,Urban,85.5,8.2,1
+Convenience,P49813,18-24,Man,Midlands,Urban,73.5,5.2,0
+Convenience,P43958,45-54,Woman,Midlands,Urban,67.8,6.0,0
+Convenience,P34445,45-54,Woman,Scotland/Wales,Rural / small town,65.2,1.8,0
+Convenience,P17360,35-44,Man,Scotland/Wales,Urban,87.3,6.9,0
+Convenience,P23518,25-34,Woman,South,Urban,82.4,6.1,0
+Convenience,P22562,18-24,Man,Midlands,Urban,97.1,6.7,0
+Convenience,P49686,45-54,Woman,Scotland/Wales,Urban,73.1,7.0,1
+Convenience,P41475,25-34,Man,South,Urban,98.2,10.0,1
+Convenience,P27126,25-34,Man,Midlands,Rural / small town,77.8,5.4,0
+Convenience,P08364,45-54,Man,Scotland/Wales,Urban,61.7,6.5,0
+Convenience,P40116,65-74,Man,North,Urban,50.1,4.0,0
+Convenience,P24447,18-24,Woman,London,Urban,100.0,5.7,0
+Convenience,P39665,25-34,Man,North,Urban,95.0,6.4,0
+Convenience,P18845,25-34,Man,Midlands,Urban,79.0,3.8,0
+Convenience,P42257,25-34,Man,South,Urban,84.0,7.0,1
+Convenience,P35378,18-24,Man,Scotland/Wales,Urban,73.6,6.0,0
+Convenience,P22257,35-44,Man,North,Urban,71.2,3.2,0
+Convenience,P24195,35-44,Woman,North,Urban,74.5,6.0,0
+Convenience,P30112,18-24,Woman,Scotland/Wales,Urban,100.0,4.5,0
+Convenience,P16673,25-34,Woman,Midlands,Urban,100.0,5.7,0
+Convenience,P02363,35-44,Woman,North,Rural / small town,65.1,3.9,0
+Convenience,P34801,45-54,Man,South,Urban,71.4,3.4,0
+Convenience,P31598,18-24,Woman,North,Urban,99.4,7.2,1
+Convenience,P41983,25-34,Woman,South,Rural / small town,69.0,4.0,0
+Convenience,P02290,35-44,Man,Midlands,Urban,89.8,5.8,0
+Convenience,P34835,45-54,Woman,North,Urban,62.5,3.7,0
+Convenience,P38007,25-34,Woman,North,Urban,84.0,5.0,0
+Convenience,P41943,25-34,Woman,South,Rural / small town,67.6,6.1,0
+Convenience,P10557,35-44,Woman,Scotland/Wales,Urban,66.5,6.0,0
+Convenience,P32522,25-34,Man,Midlands,Rural / small town,100.0,6.8,0
+Convenience,P38665,45-54,Woman,Scotland/Wales,Urban,54.0,5.5,0
+Convenience,P47083,35-44,Man,Midlands,Urban,83.1,4.9,0
+Convenience,P23603,45-54,Man,North,Urban,59.3,5.0,0
+Convenience,P33817,25-34,Woman,South,Urban,83.2,5.4,0
+Convenience,P40244,35-44,Man,North,Rural / small town,66.5,1.6,0
+Convenience,P01492,45-54,Man,Scotland/Wales,Urban,66.6,5.5,0
+Convenience,P33167,18-24,Woman,North,Urban,96.9,6.6,0
+Convenience,P21371,25-34,Woman,North,Rural / small town,96.0,4.8,0
+Convenience,P25529,25-34,Man,North,Urban,79.2,5.9,0
+Convenience,P03638,35-44,Man,North,Urban,67.8,3.4,0
+Convenience,P00042,65-74,Man,London,Urban,78.4,5.2,0
+Convenience,P03553,45-54,Woman,South,Urban,72.8,4.8,0
+Convenience,P29028,25-34,Man,North,Urban,94.8,6.8,0
+Convenience,P35396,18-24,Man,South,Urban,76.1,3.6,0
+Convenience,P43126,25-34,Man,North,Urban,98.5,5.7,0
+Convenience,P16561,35-44,Man,North,Urban,88.9,4.1,0
+Convenience,P35498,25-34,Man,South,Urban,86.5,3.8,0
+Convenience,P11444,25-34,Woman,Midlands,Urban,82.2,6.4,0
+Convenience,P31054,18-24,Woman,London,Urban,87.6,5.0,0
+Convenience,P45691,35-44,Woman,South,Urban,98.8,4.1,0
+Convenience,P44041,35-44,Woman,Midlands,Urban,100.0,3.2,0
+Convenience,P31819,25-34,Woman,South,Urban,88.6,5.8,0
+Convenience,P36509,35-44,Woman,Scotland/Wales,Urban,90.3,2.2,0

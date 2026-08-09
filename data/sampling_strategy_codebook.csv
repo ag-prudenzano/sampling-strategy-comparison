@@ -1,0 +1,9 @@
+variable,type,description
+person_id,string,Synthetic population identifier.
+age_band,categorical,"Age group: 18-24, 25-34, 35-44, 45-54, 55-64, or 65-74."
+gender,categorical,Synthetic gender category.
+region,categorical,Synthetic broad UK region.
+urbanicity,categorical,Urban or rural/small-town setting.
+digital_engagement_score,numeric,Synthetic 0-100 indicator of online engagement; used to model non-random online access.
+concept_interest_0_10,numeric,Synthetic 0-10 interest score for the fictional meal-kit subscription.
+likely_to_try,binary,"1 when concept_interest_0_10 is at least 7, otherwise 0."

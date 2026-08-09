@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import os
 import re
 import shutil
 import subprocess
@@ -22,6 +23,7 @@ WEBSITE_BRANCH = "main"
 TEMPLATE_PAGE = "survey-response-quality-audit.html"
 SCRIPT_FILE = "script.js"
 INDEX_FILE = "index.html"
+PUBLISH_TOKEN_ENV = "PORTFOLIO_PUBLISH_TOKEN"
 
 SURVEY_TEMPLATE_TITLE = "Survey Response Quality Audit"
 SURVEY_TEMPLATE_SLUG = "survey-response-quality-audit"
@@ -36,6 +38,7 @@ def run_command(
     *,
     cwd: Path,
     check: bool = True,
+    env: dict[str, str] | None = None,
 ) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         args,
@@ -43,6 +46,7 @@ def run_command(
         check=check,
         capture_output=True,
         text=True,
+        env=env,
     )
 
 
@@ -68,15 +72,38 @@ def current_source_commit() -> str:
     return result.stdout.strip()
 
 
-def configure_git_credentials() -> None:
-    if shutil.which("gh"):
-        subprocess.run(
-            ["gh", "auth", "setup-git"],
-            cwd=ROOT,
-            check=False,
-            capture_output=True,
-            text=True,
+def get_publish_environment() -> dict[str, str]:
+    token = os.environ.get(PUBLISH_TOKEN_ENV, "").strip()
+    if not token:
+        raise RuntimeError(
+            "Automatic website publishing needs a one-time Codespaces secret named "
+            f"{PUBLISH_TOKEN_ENV}. The secret must contain a GitHub token that can "
+            f"write repository contents in {WEBSITE_REPOSITORY}."
         )
+
+    env = os.environ.copy()
+    env["GH_TOKEN"] = token
+    env.pop("GITHUB_TOKEN", None)
+    return env
+
+
+def configure_git_credentials(env: dict[str, str]) -> None:
+    if not shutil.which("gh"):
+        raise RuntimeError(
+            "GitHub CLI is required for automatic website publishing in this Codespace."
+        )
+
+    setup = subprocess.run(
+        ["gh", "auth", "setup-git"],
+        cwd=ROOT,
+        check=False,
+        capture_output=True,
+        text=True,
+        env=env,
+    )
+    if setup.returncode != 0:
+        detail = (setup.stderr or setup.stdout).strip()
+        raise RuntimeError(f"Could not configure GitHub credentials: {detail}")
 
 
 def configure_commit_identity(website_root: Path) -> None:
@@ -156,7 +183,8 @@ def publish_website() -> None:
         )
         return
 
-    configure_git_credentials()
+    publish_env = get_publish_environment()
+    configure_git_credentials(publish_env)
     source_commit = current_source_commit()
 
     with tempfile.TemporaryDirectory(prefix="portfolio-website-") as temp_dir:
@@ -175,6 +203,7 @@ def publish_website() -> None:
             ],
             cwd=Path(temp_dir),
             check=False,
+            env=publish_env,
         )
         if clone.returncode != 0:
             detail = (clone.stderr or clone.stdout).strip()
@@ -233,12 +262,14 @@ def publish_website() -> None:
             ["git", "push", "origin", WEBSITE_BRANCH],
             cwd=website_root,
             check=False,
+            env=publish_env,
         )
         if push.returncode != 0:
             detail = (push.stderr or push.stdout).strip()
             raise RuntimeError(
-                "Could not push the website update. The Codespace may need GitHub "
-                f"authentication for {WEBSITE_REPOSITORY}. Details: {detail}"
+                f"Could not push the website update to {WEBSITE_REPOSITORY}. "
+                f"Check that {PUBLISH_TOKEN_ENV} has write access to that repository. "
+                f"Details: {detail}"
             )
 
         print(f"Website updated and pushed to {WEBSITE_REPOSITORY}.")

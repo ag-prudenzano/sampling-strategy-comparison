@@ -28,12 +28,12 @@ AGE_BANDS = ["18-24", "25-34", "35-44", "45-54", "55-64", "65-74"]
 GENDERS = ["Woman", "Man", "Non-binary / other"]
 REGIONS = ["London", "South", "Midlands", "North", "Scotland/Wales"]
 
-FIGURE_BACKGROUND = "#000000"
-FIGURE_TEXT = "#f6f6f6"
-FIGURE_MUTED = "#a3a3a3"
-FIGURE_LINE = "#393939"
-FIGURE_BAR = "#686868"
-FIGURE_ACCENT = "#64d2ff"
+FIGURE_BACKGROUND = "#0C0C0D"
+FIGURE_TEXT = "#FFFFFF"
+FIGURE_MUTED = "#A2A2A9"
+FIGURE_LINE = "#313135"
+FIGURE_BAR = "#494950"
+FIGURE_ACCENT = "#FFFFFF"
 
 
 def run_git(*args: str) -> subprocess.CompletedProcess[str]:
@@ -493,7 +493,7 @@ def create_figures(
         )
         ax.set_xticks(positions, list(STRATEGIES))
         ax.set_ylabel("Estimated mean concept interest", labelpad=12)
-        ax.set_title("Repeated-sample estimates", loc="left", pad=18, fontsize=16, fontweight=400)
+        ax.set_title("Repeated-sample estimates", loc="left", pad=18, fontsize=16, fontweight=400, color=FIGURE_TEXT)
         legend = ax.legend(frameon=False, loc="upper left", fontsize=9.5)
         for text in legend.get_texts():
             text.set_color(FIGURE_MUTED)
@@ -517,7 +517,7 @@ def create_figures(
         maximum = max(float(deviation.max()), 1.0)
         ax.set_xlim(0, maximum * 1.18)
         ax.set_xlabel("Average absolute demographic deviation (percentage points)", labelpad=12)
-        ax.set_title("Reference-sample demographic deviation", loc="left", pad=18, fontsize=16, fontweight=400)
+        ax.set_title("Reference-sample demographic deviation", loc="left", pad=18, fontsize=16, fontweight=400, color=FIGURE_TEXT)
         for bar, value in zip(bars, deviation.values):
             ax.text(
                 bar.get_width() + maximum * 0.025,

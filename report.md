@@ -1,5 +1,13 @@
 # Sampling Strategy Comparison
 
+## Project Snapshot
+
+| Project type | Dataset | Tools | Outputs |
+|---|---|---|---|
+| Simulated Quantitative Case Study | 50,000-Person Synthetic UK Adult Population | Python / Pandas / NumPy / Matplotlib | Repeated-Sample Estimates · Sampling Performance Summary · Reference Samples · Figures |
+
+**Skills demonstrated:** Sampling · Statistical Analysis
+
 ## Study context
 
 This simulated case study is set within a hypothetical UK online concept survey for a fictional meal-kit subscription. A synthetic population of 50,000 adults aged 18–74 provides a known benchmark against which different sampling strategies can be evaluated.

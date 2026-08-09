@@ -6,7 +6,7 @@ PROJECT_SNAPSHOT = """## Project Snapshot
 
 | Project type | Dataset | Tools | Outputs |
 |---|---|---|---|
-| Simulated Quantitative Case Study | 50,000-Person Synthetic UK Adult Population | Python / Pandas / NumPy / Matplotlib | Repeated-Sample Estimates / Sampling Performance Summary / Reference Samples / Figures |
+| Simulated Quantitative Case Study | 50,000-Person Synthetic UK Adult Population | Python / Pandas / NumPy / Matplotlib | Repeated-Sample Estimates; Sampling Performance Summary; Reference Samples; Figures |
 
 **Skills demonstrated:** Sampling · Statistical Analysis
 """

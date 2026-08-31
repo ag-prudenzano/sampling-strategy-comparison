@@ -28,11 +28,12 @@ AGE_BANDS = ["18-24", "25-34", "35-44", "45-54", "55-64", "65-74"]
 GENDERS = ["Woman", "Man", "Non-binary / other"]
 REGIONS = ["London", "South", "Midlands", "North", "Scotland/Wales"]
 
-FIGURE_BACKGROUND = "#0C0C0D"
+FIGURE_BACKGROUND = "#000000"
 FIGURE_TEXT = "#FFFFFF"
-FIGURE_MUTED = "#A2A2A9"
-FIGURE_LINE = "#313135"
-FIGURE_BAR = "#5D5D65"
+FIGURE_MUTED = "#B3B3B3"
+FIGURE_LINE = "#404040"
+FIGURE_GRID = "#333333"
+FIGURE_BAR = "#666666"
 FIGURE_ACCENT = "#FFFFFF"
 
 
@@ -453,7 +454,7 @@ def style_axis(ax: plt.Axes, grid_axis: str) -> None:
     ax.title.set_color(FIGURE_TEXT)
     for spine in ax.spines.values():
         spine.set_visible(False)
-    ax.grid(axis=grid_axis, color=FIGURE_LINE, linewidth=0.8, alpha=0.6)
+    ax.grid(axis=grid_axis, color=FIGURE_GRID, linewidth=0.8)
     ax.set_axisbelow(True)
 
 
@@ -478,7 +479,7 @@ def create_figures(
         box = ax.boxplot(values, positions=positions, widths=0.55, patch_artist=True)
         for patch in box["boxes"]:
             patch.set_facecolor(FIGURE_BAR)
-            patch.set_edgecolor(FIGURE_MUTED)
+            patch.set_edgecolor(FIGURE_LINE)
         for key in ["whiskers", "caps", "medians"]:
             for item in box[key]:
                 item.set_color(FIGURE_MUTED if key != "medians" else FIGURE_TEXT)
